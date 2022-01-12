@@ -1,0 +1,235 @@
+.container-site {
+    padding: 0;
+}
+
+.login-main-wrapper {
+    min-height: 100vh;
+}
+
+.login-main {
+    z-index: 999;
+}
+
+.login-background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.login-shape {
+    display: inline-block;
+    width: 350px;
+    height: 1px;
+    background-color: #cccccc;
+}
+
+.login-form-wrapper {
+    background-color: rgba(249, 249, 249, 0.9);
+    box-shadow: 0 2px 4px 0 rgba(212, 212, 212, 0.5);
+    font-weight: 300;
+    font-size: 15px;
+}
+
+.login-form-wrapper #login-error + p {
+    font-size: .85rem !important;
+    margin-right: -10px;
+}
+
+.login-main-wrapper .login-form-left {
+    width: 310px;
+    height: 480px;
+}
+
+.login-main-wrapper .vndid-login-white {
+    width: 160px;
+    height: 70px;
+}
+
+.login-form-wrapper .login-form-main {
+    padding: 60px 30px 5px 60px;
+}
+
+.login-form-main .login-title {
+    font-size: 20px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #3b3b3b;
+}
+
+.login-form-main #show-password i {
+    text-align: left;
+    cursor: pointer;
+}
+
+.login-main-wrapper input:focus {
+    box-shadow: none;
+}
+
+.login-main-wrapper .input-group input {
+    border-left: none !important;
+    border-right: 1px solid #f7941d !important;
+    border-top: 1px solid #f7941d !important;
+    border-bottom: 1px solid #f7941d !important;
+    font-weight: 300;
+    font-size: inherit;
+}
+
+.login-main-wrapper .input-group i {
+    color: #9a9a9a;
+}
+
+.login-main-wrapper .input-group input#username {
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    border-left: none !important;
+}
+
+.login-main-wrapper .input-group input#password {
+    border-right: none !important;
+}
+
+.login-main-wrapper .input-group .input-group-append #icon-username {
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+    border-right: none !important;
+    border-left: 1px solid #f7941d !important;
+    border-top: 1px solid #f7941d !important;
+    border-bottom: 1px solid #f7941d !important;
+    background-color: #fff;
+    padding: .375rem 0 .375rem .75rem;
+}
+
+.login-main-wrapper .input-group .input-group-append #icon-password {
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+    border-right: none !important;
+    border-left: 1px solid #f7941d !important;
+    border-top: 1px solid #f7941d !important;
+    border-bottom: 1px solid #f7941d !important;
+    background-color: #fff;
+    padding: .375rem 0 .375rem .75rem;
+}
+
+.login-main-wrapper .input-group .input-group-append #show-password {
+    border-left: none !important;
+    border-right: 1px solid #f7941d !important;
+    border-top: 1px solid #f7941d !important;
+    border-bottom: 1px solid #f7941d !important;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    background-color: #fff;
+}
+
+.btn-login {
+    border: none;
+    margin-top: 33px;
+    border-radius: 8px;
+    background-image: linear-gradient(to top, #f7941d, #ffb701);
+    color: #fff;
+    width: 165px;
+    font-weight: 300;
+    font-size: inherit;
+}
+
+.btn-register-account {
+    padding: 5px 0;
+    border: solid .1rem #f7941d;
+    margin-top: 17px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    color: #f7941d;
+    width: 165px;
+    font-weight: 300;
+    font-size: inherit;
+    background-color: transparent;
+}
+
+.btn-register-account i {
+    color: #f7941d;
+}
+
+.login-form-main button[type="button"]:focus {
+    box-shadow: none;
+}
+
+.login-form-main .btn-login:hover {
+    background-image: linear-gradient(to top, #f99d1c, #f58220);
+}
+
+.login-form-main button[type="button"] i {
+    font-size: 18px;
+    margin-right: 5px;
+}
+
+@media all and (min-width: 992px) {
+    .login-main {
+        display: flex;
+        justify-content: center;
+        color: #353535;
+    }
+}
+
+@media all and (max-width: 991px) {
+
+    .login-main-wrapper .login-form-left {
+        width: 250px;
+        height: 430px;
+    }
+
+    .login-main-wrapper .vndid-login-white {
+        width: 135px;
+        height: 60px;
+    }
+
+    .login-shape {
+        width: 320px;
+    }
+
+    .login-form-wrapper .login-form-main {
+        padding: 40px 30px 35px 30px;
+    }
+}
+
+@media all and (max-width: 767px) {
+
+    .login-background, .login-form-left, .vndid-login-white {
+        display: none;
+    }
+}
+
+@media all and (max-width: 575px) {
+
+    .login-form-wrapper {
+        background-color: unset;
+        box-shadow: unset;
+    }
+
+    .login-form-wrapper .login-form-main {
+        padding: 10px 15px;
+        background-color: unset;
+        box-shadow: unset;
+    }
+
+    .login-form-main .login-title {
+        font-size: 1.2rem;
+        font-weight: normal;
+    }
+
+    .login-form-main #show-password i {
+        font-size: 1rem;
+        text-align: left;
+        color: #ababab;
+        cursor: pointer;
+    }
+
+    .login-form-main .login-btn-wrap button[type="button"] {
+        padding: 5px 0;
+        margin-top: 15px;
+    }
+}

@@ -1,0 +1,347 @@
+/* Begin resposive */
+@media screen and (max-width: 1600px){
+	.item-slider .click-slider{
+		left: 9%;
+		bottom: calc(25% - 25px);
+	}
+	.item-slider .click-slider.Right{
+		left:auto;
+		right: 9%;
+		bottom: 25%;
+	}
+	.header-fixed.active .menu-main > ul > li > a, 
+	.header-fixed.active #mega-menu-wrap-menu_main #mega-menu-menu_main > li.mega-menu-item > a.mega-menu-link {
+		padding:20px 15px;
+		font-size:12px;	
+	}
+	.header-fixed.active #mega-menu-wrap-menu_main #mega-menu-menu_main > li.mega-menu-item > a.mega-menu-link span {
+		background-size:27px auto;
+		padding-left:35px;
+	}
+	.header-fixed.active .method-openaccounts{
+		height: 57px;
+		line-height: 57px;
+	}
+	.header-fixed.active .method-openaccounts{
+		padding: 0 20px;
+		font-size: 14px;
+	}
+	.header-fixed.active .method-openaccount {
+		padding-left: 42px;
+	} 
+	/*.header-fixed.active .sub-menu ul > li {
+		font-size:12px;
+	}*/
+	.method-openaccounts {
+		height: 65px;
+		line-height: 65px;
+	}
+	.font34 {
+		font-size: 28px;
+	}
+	.font20 {
+		font-size: 18px;
+	}
+	.font18 {
+		font-size:16px;
+	}
+	.method-openaccounts {
+		padding:0 40px;
+	}
+	.method-openaccount {
+		padding-left: 45px;
+		background-size: 34px auto;
+	}
+	.logo-header {
+		max-width:140px;
+		left:90px;
+	}
+	.bar-menu {
+		max-width:25px;
+	}
+	.menu-main .sub-menu-customer {
+		left:0;
+		right:0;
+	}
+	.sub-menu li h4 a {
+		font-size:16px;
+	}
+	.list-control li .infor .img-box {
+		width:90px;
+		height:90px;
+		top:-47px;
+		padding:20px;
+	}
+	.font23 {
+		font-size:18px;
+	}
+	.are-left h2 {
+		font-size: 40px;
+		line-height: 55px;
+	}
+	.are-left p {
+		font-size:14px;
+	}
+	.are-right ul li .img-box {
+		max-width: 80px;
+		margin: 0 auto;
+	}
+	.are-right ul li h6 {
+		font-size:14px;
+	}
+	#stock-index {
+		padding:15px 0;
+	}
+	#footer {
+		padding:70px 0 50px;
+	}
+	.logo-footer img {
+		max-width:220px;
+	}
+	.ftop-item {
+		margin-top:10px;
+		background-size:35px auto;
+		padding-left:55px;
+	}
+	.ftop-item p, .ftop-item p a{
+		font-size:14px;
+	}
+	.footer-middle {
+		padding:30px 0;
+	}
+	.footer-item h4, #menu-menu-footer > li > a {
+		font-size:16px;
+		margin:0 0 15px;
+	}
+	#menu-menu-footer > li .sub-menu li a {
+		font-size:14px;
+	}
+	.footer-bottom {
+		padding-top:30px;
+	}
+	.copyright {
+		font-size:14px;
+	}
+	.the-header {
+		height:120px !important;
+	}
+	.protrade-discover .img-discover {
+		left: 0;
+		width: 50%;
+	}
+	.content-text p,.content-text li {
+		font-size:15px;
+	}
+	.list-control li:hover .infor h4{
+		font-size: 22px;
+	}
+	#mega-menu-wrap-menu_main #mega-menu-menu_main > li.mega-menu-item > a.mega-menu-link span{
+		padding: 7px 0 8px 55px;
+	}
+	.menu-main > ul > li > a, #mega-menu-wrap-menu_main #mega-menu-menu_main > li.mega-menu-item > a.mega-menu-link{
+		padding: 18px 17px;
+	}
+	.dolfin-tool .list-tool .box-item .infor{
+		padding: 50px 70px;
+	}
+	.form-default{
+		padding: 21px 15px 13px;
+	}
+	.form-report {
+		padding: 20px 35px 20px 25px;
+	}
+	.form-report .form-control{
+		font-size: 14px;
+	}
+	.form-date:after{
+		font-size: 15px;
+	}
+	.content-financial .section-title {
+		margin-bottom: 0;
+	}
+	.content-text h2{
+		font-size: 40px;
+	}
+	.news-view span{
+		margin-left: 15px;
+	}
+	.list-control li{
+		min-height: 240px;
+	}
+	.list-control li .infor{
+		padding: 65px 0;
+	}
+	.list-control li:hover .infor{
+		margin-top: -40px;
+	}
+	.header-fixed.active .mega-menu-personal .sub-menu-personal {
+		width:120%;
+	}
+}
+@media screen and (max-width: 1440px){
+	.item-slider .click-slider{
+		left: 13%;
+		bottom: 25%;
+		width: 190px;
+		height: 40px;
+		line-height: 40px;
+	}
+	.recruitment-item {
+		padding: 22px 112px 0 0;
+	}
+	.news-view span{
+		margin-left: 5px;
+	}
+	.menu-main .sub-menu-personal {
+		padding: 30px 60px;
+	}
+	.list-control li .infor h4,.pro-alltime .banner-protrade-inner p,
+	.list-product li,.font20{
+		font-size: 16px;
+	}
+	.font34 {
+		font-size: 26px;
+	}
+	.font28{
+		font-size: 24px;
+	}
+	.font25{
+		font-size: 21px;
+	}
+	.list-control li:hover .infor h4{
+		font-size: 17px;
+	}
+	.header-fixed.active .menu-main > ul > li > a, 
+	.header-fixed.active #mega-menu-wrap-menu_main #mega-menu-menu_main > li.mega-menu-item > a.mega-menu-link{
+		padding: 20px 10px;
+		font-size: 11px;
+	}
+	.header-fixed.active #mega-menu-wrap-menu_main #mega-menu-menu_main > li.mega-menu-item > a.mega-menu-link span {
+		background-size: 20px auto;
+		padding-left: 24px;
+	}
+	.header-fixed.active .sub-menu li h4 a,
+	.news-item .news-infor .font16{
+		font-size: 14px;
+	}
+	.method-item a{
+		font-size: 13px;
+	}
+	/* .header-fixed.active .menu-main .sub-menu li a{
+		font-size: 13px;
+	} */
+	.header-fixed.active .logo-header {
+		max-width: 115px;
+	}
+	.header-fixed.active .method-openaccounts{
+		height: 56px;
+		line-height: 56px;
+	}
+	.header-fixed.active .method-openaccount {
+		padding-left: 35px;
+	}
+	.method-item span{
+		font-size: 11px;
+	}
+	.method-item span{
+		font-size: 10px;
+	}
+	/*.header-fixed.active .sub-menu {
+		padding: 15px;
+	}*/
+	.method-member{
+		padding-left: 40px;
+	}
+	.banner-protrade-inner h2{
+		font-size: 33px;
+	}
+	.downnow .openaccount {
+		height: 50px;
+		width: 200px;
+		font-size: 16px;
+		line-height: 50px;
+	}
+	.title48,.font48{
+		font-size: 33px;
+	}
+	.list-general li:before, .description-job ul li:before{
+		top: 0;
+		font-size: 16px;
+	}
+	.des-general{
+		font-size: 14px;
+		line-height: 1.5;
+	}
+	.font40{
+		font-size: 35px;
+	}
+	.font24{
+		font-size: 20px;
+	}
+	.sidebar-item ul > li > a, .sidebar-item ul > li p{
+		font-size: 14px;
+		padding: 13px 0;
+	}
+	.section-left{
+		padding-right: 60px;
+	}
+	.container {
+		max-width: 1200px;
+	}
+	.form-calendar .form-group {
+		padding: 0 20px;
+	}
+	.cultural-item .icon-cultural{
+		background-size: 100% auto;
+	}
+	.list-termuse .term-item{
+		padding:0 15px;
+	}
+	.form-report .form-period .label {
+		margin-left: 5px;
+	}
+}
+@media screen and (max-width: 1366px){
+	.item-slider .click-slider{
+		left: 15%;
+		bottom: 25%;
+	}
+	.item-slider .click-slider.Right {
+		right: 15%;
+		bottom: 25%;
+	}
+}
+@media screen and (max-width: 1300px){
+	.item-slider .click-slider{
+		left: 18%;
+	}
+	.header-fixed.active .menu-main > ul > li > a, 
+	.header-fixed.active #mega-menu-wrap-menu_main #mega-menu-menu_main > li.mega-menu-item > a.mega-menu-link{
+		padding: 20px 5px;
+		font-size:9px
+	}
+	.method-member {
+		padding-left: 30px;
+		background-size: 25px auto;
+	}
+	.menu-main .sub-menu-personal{
+		padding: 30px 40px;
+	}
+	.news-view span{
+		margin-left: 0;
+	}
+}
+@media sreen and (max-width: 767px){
+	.stock-social .part-mo{
+		display: inline-block;
+	}
+	.stock-social .part-pc{
+		display: none !important;
+	}
+	.stock-social .social-item {
+		width:auto !important;
+		border:none !important;
+		height:auto !important;
+	}
+}
+/* End resposive */

@@ -1,0 +1,230 @@
+/****
+Reset Mixcolors
+****/
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+	border: 0;
+	font-size: 100%;
+	margin: 0;
+	outline: 0;
+	padding: 0;
+	vertical-align: baseline;
+}
+h1 {
+	font-size: 24px;
+}
+h2 {
+	font-size: 20px;
+}
+h3 {
+	font-size: 18px;
+}
+h4 {
+	font-size: 16px;
+}
+h5 {
+	font-size: 14px;
+}
+h6 {
+	font-size: 12px;
+}
+img{
+	border:none;
+	max-width:100%;	
+	height: auto;
+}
+a{
+	color:#373737;
+}
+a:hover{
+	color: #f39200;
+	text-decoration:none;
+}
+a:focus{
+	text-decoration: none;
+	color: inherit;
+	outline: none;
+}
+a, 
+button, 
+input {
+	transition: all 0.1s ease-in-out 0s;
+	-moz-transition: all 0.1s ease-in-out 0s;
+	-o-transition: all 0.1s ease-in-out 0s;
+	-webkit-transition: all 0.1s ease-in-out 0s;
+	-ms-transition: all 0.1s ease-in-out 0s;
+}
+input[type=text],
+input[type=email],
+input[type=password],
+input[type=number],
+input[type=search],
+textarea {
+	border-bottom: 1px solid #20272e;
+	padding: 3px 0 11px;
+	font-size: 16px;
+	color: #2c2f39;
+	border-radius: 0;
+}
+button,
+input[type=text]:focus,
+input[type=email]:focus,
+input[type=password]:focus,
+input[type=number]:focus,
+input[type=search]:focus,
+textarea:focus {
+	border-bottom: 1px solid #20272e;
+	outline: none;
+}
+.table > tbody > tr > td, 
+.table > tbody > tr > th, 
+.table > tfoot > tr > td, 
+.table > tfoot > tr > th, 
+.table > thead > tr > td, 
+.table > thead > tr > th {
+	border-color: #eceded;
+}
+*{
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+}
+ul{
+	list-style: none;
+}
+.list-inline{
+	letter-spacing: -.3em;
+}
+.item-inline{
+	letter-spacing: 0;
+	display: inline-block;
+}
+.banner-general{
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+.flex-item{
+	display: flex;
+	display: -webkit-flex;
+}
+.transform-center{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	-ms-transform: translate(-50%,-50%);
+	-o-transform: translate(-50%,-50%);
+	-webkit-transform: translate(-50%,-50%);
+}
+.transform-top{
+	position: absolute;
+	top: 50%;
+	transform: translateY(-50%);
+	-ms-transform: translateY(-50%);
+	-o-transform: translateY(-50%);
+	-webkit-transform: translateY(-50%);
+}
+.transform-left{
+	position: absolute;
+	left: 50%;
+	transform: translateX(-50%);
+	-ms-transform: translateX(-50%);
+	-o-transform: translateX(-50%);
+	-webkit-transform: translateX(-50%);
+}
+.clear{
+	clear: both;
+}
+* {
+   box-sizing: border-box;
+   -moz-box-sizing: border-box;
+   -webkit-box-sizing: border-box;
+}
+.animated-delay2 {
+	-webkit-animation-delay: 0.2s;
+	-o-animation-delay: 0.2s;
+	-moz-animation-delay: 0.2s;
+	animation-delay: 0.2s;
+}
+.animated-delay3 {
+	-webkit-animation-delay: 0.4s;
+	-o-animation-delay: 0.4s;
+	-moz-animation-delay: 0.4s;
+	animation-delay: 0.4s;
+}
+.animated-delay4 {
+	-webkit-animation-delay: 0.6s;
+	-o-animation-delay: 0.6s;
+	-moz-animation-delay: 0.6s;
+	animation-delay: 0.6s;
+}
+.animated-delay5 {
+	-webkit-animation-delay: 0.8s;
+	-o-animation-delay: 0.8s;
+	-moz-animation-delay: 0.8s;
+	animation-delay: 0.8s;
+}
+.animated-delay6 {
+	-webkit-animation-delay: 1s;
+	-o-animation-delay: 1s;
+	-moz-animation-delay: 1s;
+	animation-delay: 1s;
+}
+.animated-delay7 {
+	-webkit-animation-delay: 1.2s;
+	-o-animation-delay: 1.2s;
+	-moz-animation-delay: 1.2s;
+	animation-delay: 1.2s;
+}
+.animated-delay8 {
+	-webkit-animation-delay: 1.4s;
+	-o-animation-delay: 1.4s;
+	-moz-animation-delay: 1.4s;
+	animation-delay: 1.4s;
+}
+.animated-delay9 {
+	-webkit-animation-delay: 1.6s;
+	-o-animation-delay: 1.6s;
+	-moz-animation-delay: 1.6s;
+	animation-delay: 1.6s;
+}
+/* Reset WP */
+img.aligncenter {
+	display:block;
+	margin:0 auto;
+}
+img.alignright {
+	float:right;
+	margin-top:10px;
+	margin-left:10px;
+}
+img.alignleft {
+	float:left;
+	margin-top:10px;
+	margin-right:10px;
+}
+.wp-caption.aligncenter {
+	margin:15px auto;
+}
+/* Reset chat facebook */
+.fb_iframe_widget {
+	display:block !important;
+}
+.fb_iframe_widget span {
+	display: block !important;
+	width:100% !important;
+}
+.fb_iframe_widget iframe {
+    position: static !important;
+    width: 100% !important;
+}
+.wpcf7-not-valid-tip {
+	display:none !Important;
+}
