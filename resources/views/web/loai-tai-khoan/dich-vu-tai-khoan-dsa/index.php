@@ -437,7 +437,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <header id="header" itemscope="itemscope" itemtype="http://schema.org/WPHeader" >
         <div class="header-top" style="z-index: 100;>
             <a href="#" class="bar-menu transform-top toggle-menu"><img
-                        src="../../wp-content/themes/vndirect/images/bar-white.png" alt=""/></a>
+                        src="../../wp-content/themes/vndirect/images/bar-white.png" style="display:none" alt=""/></a>
             <a href="../../index.html" class="logo-header transform-top"><img
                         src="../../cmsupload/beta/logo-header.png" alt=""/></a>
             <div class="list-method list-inline check_api_div" style="">
@@ -479,7 +479,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <div class="header-bottom">
                     <div class="item-logo">
                         <a href="#" class="bar-menu transform-top toggle-menu"><img
-                                    src="../../wp-content/themes/vndirect/images/bar-white.png" alt=""/></a>
+                                    src="../../wp-content/themes/vndirect/images/bar-white.png" style="display:none" alt=""/></a>
                         <a href="../../index.html" class="logo-header transform-top"><img
                                     src="../../cmsupload/beta/logo-footer.png" alt=""/></a>
                     </div>
