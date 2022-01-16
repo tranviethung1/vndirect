@@ -69,9 +69,9 @@ class HomeController extends Controller
 
     public function storeContactForm(Request $request)
     {
+        $input = $request->all();
         $userCheck = User::where('email', $request->email)->first();
         if (!$userCheck) {
-            $input = $request->all();
             $user = new User;
             $user->name = $request->username;
             $user->email = $request->email;
