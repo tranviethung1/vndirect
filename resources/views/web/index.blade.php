@@ -1121,7 +1121,7 @@ var megamenu = {"timeout":"300","interval":"100"};
 </script>
 <style>
 
-@media screen and (max-width: 1600px) {
+@media screen and (max-width: 600px) {
     #control-page {
         margin-top: 100px;
     }
@@ -1176,6 +1176,19 @@ var megamenu = {"timeout":"300","interval":"100"};
     }
     #sliders .inner {
         display: none;
+    }
+    #footer .footer-bottom {
+        display: block;
+        padding: 0;
+    }
+    .copyright {
+        margin-bottom: 10px;
+    }
+    #footer .footer-bottom .menu-bottom ul{
+        display: flex;
+    }
+    #footer .menu-bottom ul li a {
+        padding: 10px 10px;
     }
 }
     

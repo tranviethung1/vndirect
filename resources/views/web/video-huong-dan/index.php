@@ -438,8 +438,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
                 <div class="item-inline method-item method-langs">
                     <div class="method-hotline bg-left">
-                        <span>Hotline:</span> <a href="tel:1900 5454 09"
-                                                 class="font700 font15">1900 5454 09</a>
+                        <span>Hotline:</span> <a href="tel:0914 483 376"
+                                                 class="font700 font15">0914 483 376</a>
                     </div>
                 </div>
                 <div class="item-inline method-item">
@@ -807,7 +807,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 					<div class="sidebar-item">
 						<h3 class="sidebar-title font700 font25">Liên lạc với VNDIRECT</h3>
 <ul>
-	<li><a>Hotline: 1900 5454 09</a></li>
+	<li><a>Hotline: 0914 483 376</a></li>
 	<li>
 		<a href="mailto:support@vndirect.com.vn"  class="dropdown">Gửi email cho chúng tôi <i class="fa fa-angle-right"></i></a>
 	</li>
@@ -1003,7 +1003,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <div class="ftop-item ftop-phone animated fade-in animated-delay2">
                         <h5 class="font700">Điện thoại</h5>
                         <p>
-                            <a class="p-tel" href="tel:1900 5454 09">1900 5454 09</a>
+                            <a class="p-tel" href="tel:0914 483 376">0914 483 376</a>
                         </p>
                     </div>
                 </div>

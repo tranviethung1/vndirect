@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html lang="en-US">
 
-<!-- Mirrored from www.vndirect.com.vn/bieu-phi-tk-dba/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 08 Jan 2022 15:06:32 GMT -->
+<!-- Mirrored from www.vndirect.com.vn/dieu-khoan-su-dung/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 08 Jan 2022 15:15:59 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
     <meta charset="UTF-8">
@@ -12,15 +12,18 @@
 	<link rel="canonical" href="index.html" />
 	<meta property="og:locale" content="vi_VN" />
 	<meta property="og:type" content="article" />
-	<meta property="og:title" content="Biểu phí tài khoản DBA - VNDIRECT" />
-	<meta property="og:description" content="Dành cho khách hàng có nhu cầu có chuyên viên môi giới chăm sóc riêng STT  LOẠI DỊCH VỤ  MỨC PHÍ  1 Giao dịch trực tuyến cơ sở  Phí bậc thang từ 0,20%/GTGD   Giá trị giao dịch/ngày/tài khoản Từ 400 triệu đồng trở lên 0,20%/GTGD   Giá trị giao dịch/ngày/tài khoản Từ 250 triệu [&hellip;]" />
+	<meta property="og:title" content="Điều khoản sử dụng Phần mềm ứng dụng trực tuyến - VNDIRECT" />
+	<meta property="og:description" content="Thông tin được Công ty Cổ phần Chứng khoán VNDIRECT cung cấp trên website này là đúng như nội dung đăng tải. VNDIRECT không có bất kỳ đảm bảo nào, dù rõ ràng hay ngầm định, bao gồm không giới hạn những đảm bảo liên quan đến thông tin, dịch vụ hay sản phẩm được cung [&hellip;]" />
 	<meta property="og:url" content="index.html" />
 	<meta property="og:site_name" content="VNDIRECT" />
-	<meta property="article:modified_time" content="2022-01-04T04:30:41+00:00" />
+	<meta property="article:modified_time" content="2021-10-28T08:21:07+00:00" />
+	<meta property="og:image" content="../cmsupload/beta/2019/03/banner-dksd.jpg" />
+	<meta property="og:image:width" content="1920" />
+	<meta property="og:image:height" content="334" />
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:label1" content="Ước tính thời gian đọc">
-	<meta name="twitter:data1" content="3 phút">
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.vndirect.com.vn/#website","url":"https://www.vndirect.com.vn/","name":"VNDIRECT","description":"","potentialAction":[{"@type":"SearchAction","target":"https://www.vndirect.com.vn/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"vi"},{"@type":"WebPage","@id":"https://www.vndirect.com.vn/bieu-phi-tk-dba/#webpage","url":"https://www.vndirect.com.vn/bieu-phi-tk-dba/","name":"Bi\u1ec3u ph\u00ed t\u00e0i kho\u1ea3n DBA - VNDIRECT","isPartOf":{"@id":"https://www.vndirect.com.vn/#website"},"datePublished":"2021-07-06T10:54:28+00:00","dateModified":"2022-01-04T04:30:41+00:00","breadcrumb":{"@id":"https://www.vndirect.com.vn/bieu-phi-tk-dba/#breadcrumb"},"inLanguage":"vi","potentialAction":[{"@type":"ReadAction","target":["https://www.vndirect.com.vn/bieu-phi-tk-dba/"]}]},{"@type":"BreadcrumbList","@id":"https://www.vndirect.com.vn/bieu-phi-tk-dba/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://www.vndirect.com.vn/","url":"https://www.vndirect.com.vn/","name":"Home"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"https://www.vndirect.com.vn/bieu-phi-tk-dba/","url":"https://www.vndirect.com.vn/bieu-phi-tk-dba/","name":"Bi\u1ec3u ph\u00ed t\u00e0i kho\u1ea3n DBA"}}]}]}</script>
+	<meta name="twitter:data1" content="4 phút">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.vndirect.com.vn/#website","url":"https://www.vndirect.com.vn/","name":"VNDIRECT","description":"","potentialAction":[{"@type":"SearchAction","target":"https://www.vndirect.com.vn/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"vi"},{"@type":"ImageObject","@id":"https://www.vndirect.com.vn/dieu-khoan-su-dung/#primaryimage","inLanguage":"vi","url":"https://www.vndirect.com.vn/cmsupload/beta/2019/03/banner-dksd.jpg","contentUrl":"https://www.vndirect.com.vn/cmsupload/beta/2019/03/banner-dksd.jpg","width":1920,"height":334},{"@type":"WebPage","@id":"https://www.vndirect.com.vn/dieu-khoan-su-dung/#webpage","url":"https://www.vndirect.com.vn/dieu-khoan-su-dung/","name":"\u0110i\u1ec1u kho\u1ea3n s\u1eed d\u1ee5ng Ph\u1ea7n m\u1ec1m \u1ee9ng d\u1ee5ng tr\u1ef1c tuy\u1ebfn - VNDIRECT","isPartOf":{"@id":"https://www.vndirect.com.vn/#website"},"primaryImageOfPage":{"@id":"https://www.vndirect.com.vn/dieu-khoan-su-dung/#primaryimage"},"datePublished":"2019-03-27T04:23:00+00:00","dateModified":"2021-10-28T08:21:07+00:00","breadcrumb":{"@id":"https://www.vndirect.com.vn/dieu-khoan-su-dung/#breadcrumb"},"inLanguage":"vi","potentialAction":[{"@type":"ReadAction","target":["https://www.vndirect.com.vn/dieu-khoan-su-dung/"]}]},{"@type":"BreadcrumbList","@id":"https://www.vndirect.com.vn/dieu-khoan-su-dung/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://www.vndirect.com.vn/","url":"https://www.vndirect.com.vn/","name":"Home"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"https://www.vndirect.com.vn/dieu-khoan-su-dung/","url":"https://www.vndirect.com.vn/dieu-khoan-su-dung/","name":"\u0110i\u1ec1u kho\u1ea3n s\u1eed d\u1ee5ng Ph\u1ea7n m\u1ec1m \u1ee9ng d\u1ee5ng tr\u1ef1c tuy\u1ebfn"}}]}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -77,15 +80,15 @@ img.emoji {
 <script type='text/javascript' src='../../static-01.vndirect.com.vn/cms02/wp-content/themes/vndirect/js/mcs.customf658.js?ver=5.8.1' id='jquery-custom-js'></script>
 <script type='text/javascript' src='../wp-includes/js/jquery/jquery.minaf6c.js?ver=3.6.0' id='jquery-core-js'></script>
 <script type='text/javascript' src='../wp-includes/js/jquery/jquery-migrate.mind617.js?ver=3.3.2' id='jquery-migrate-js'></script>
-<link rel="https://api.w.org/" href="../wp-json/index.html" /><link rel="alternate" type="application/json" href="../wp-json/wp/v2/pages/59759.json" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc0db0.php?rsd" />
+<link rel="https://api.w.org/" href="../wp-json/index.html" /><link rel="alternate" type="application/json" href="../wp-json/wp/v2/pages/82.json" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc0db0.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../wp-includes/wlwmanifest.xml" /> 
 <meta name="generator" content="WordPress 5.8.1" />
-<link rel='shortlink' href='../index3c17.html?p=59759' />
-<link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embede319.json?url=https%3A%2F%2Fwww.vndirect.com.vn%2Fbieu-phi-tk-dba%2F" />
-<link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embed3c9c?url=https%3A%2F%2Fwww.vndirect.com.vn%2Fbieu-phi-tk-dba%2F&amp;format=xml" />
+<link rel='shortlink' href='../index287b.html?p=82' />
+<link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embedd91b.json?url=https%3A%2F%2Fwww.vndirect.com.vn%2Fdieu-khoan-su-dung%2F" />
+<link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embed37eb?url=https%3A%2F%2Fwww.vndirect.com.vn%2Fdieu-khoan-su-dung%2F&amp;format=xml" />
 <style type="text/css">/** Mega Menu CSS: fs **/</style>
     <title>
-        Biểu phí tài khoản DBA - VNDIRECTVNDIRECT    </title>
+        Điều khoản sử dụng Phần mềm ứng dụng trực tuyến - VNDIRECTVNDIRECT    </title>
 
     <!-- Favicon -->
     <link rel="shortcut icon" type="image/x-icon" href="../cmsupload/beta/2019/03/favicon.png"/>
@@ -424,12 +427,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         }
     </style>
 </head>
-<body class="page-template-default page page-id-59759 mega-menu-menu-main" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+<body class="page-template-default page page-id-82 mega-menu-menu-main" itemscope="itemscope" itemtype="http://schema.org/WebPage">
 <div class="the-header">
     <header id="header" itemscope="itemscope" itemtype="http://schema.org/WPHeader" >
         <div class="header-top">
             <a href="#" class="bar-menu transform-top toggle-menu"><img
-                        src="../wp-content/themes/vndirect/images/bar-white.png" style="display:none" alt=""/></a>
+                        src="../wp-content/themes/vndirect/images/bar-white.png" alt=""/></a>
             <a href="../index.html" class="logo-header transform-top"><img
                         src="../cmsupload/beta/logo-header.png" alt=""/></a>
             <div class="list-method list-inline check_api_div" style="">
@@ -480,7 +483,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <div class="header-bottom">
                     <div class="item-logo">
                         <a href="#" class="bar-menu transform-top toggle-menu"><img
-                                    src="../wp-content/themes/vndirect/images/bar-white.png" style="display:none" alt=""/></a>
+                                    src="../wp-content/themes/vndirect/images/bar-white.png" alt=""/></a>
                         <a href="../index.html" class="logo-header transform-top"><img
                                     src="../cmsupload/beta/logo-footer.png" alt=""/></a>
                     </div>
@@ -608,7 +611,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			<h4><a>Biểu phí Dịch vụ đầu tư chứng khoán</a></h4>
 		<ul>
 			<li><a href="../bieu-phi-tai-khoan-da/index.html">Biểu phí tài khoản DTA</a></li>
-			<li><a href="index.html">Biểu phí tài khoản DBA</a></li>
+			<li><a href="../bieu-phi-tk-dba/index.html">Biểu phí tài khoản DBA</a></li>
 			<li><a href="../dich-vu-chung-khoan/bieu-phi-dich-vu/bieu-phi-lai-margin/index.html">Biểu phí lãi Margin</a></li>
 		</ul>
 	</li>
@@ -752,21 +755,21 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </ul>
 </li>
 <li id="menu-item-9552" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9552"><a href="https://dautu.vndirect.com.vn/">Đầu tư tài chính</a></li>
-<li id="menu-item-970" class="menu-headline menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-970"><a href="#">Truy cập nhanh</a>
+<li id="menu-item-970" class="menu-headline menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-970"><a href="#">Truy cập nhanh</a>
 <ul class="sub-menu">
 	<li id="menu-item-972" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-972"><a href="../hieu-ve-vndirect/thong-tin-doanh-nghiep/ve-chung-toi/index.html">Về chúng tôi</a></li>
 	<li id="menu-item-964" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-964"><a href="../cong-bo-rui-ro/index.html">Công bố rủi ro <br> về giao dịch trực tuyến </br></a></li>
-	<li id="menu-item-965" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-965"><a href="../dieu-khoan-su-dung/index.html">Điều khoản sử dụng Phần mềm ứng dụng trực tuyến</a></li>
+	<li id="menu-item-965" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-82 current_page_item menu-item-965"><a href="index.html" aria-current="page">Điều khoản sử dụng Phần mềm ứng dụng trực tuyến</a></li>
 </ul>
 </li>
 </ul></div></div>
 <style type="text/css">
-	.menu-personal  a.mega-menu-link {
+	.menu-other  a.mega-menu-link {
 		background-color: #f7941e !important;
 		font-weight: 700 !important;
 		position: relative;
 	}
-	.menu-personal >  a.mega-menu-link:before{
+	.menu-other >  a.mega-menu-link:before{
 		content: "";
 		position: absolute !important;
 		width: 0;
@@ -787,10 +790,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	}
 </style>
 <main id="content" class="bg-gray">
-	<div class="content-banner banner-general" style="background-image: url('../cmsupload/beta/Hinh-nen-mau-den-dep.jpg');">
+	<div class="content-banner banner-general" style="background-image: url('');">
 		<div class="banner-inner text-center transform-center">
 			<img src="#" alt="" />
-			<h4 class="font800 text-uppercase">Dịch vụ chứng khoán </h4>
+			<h4 class="font800 text-uppercase"></h4>
 		</div>
 	</div>
 	<div class="content-single content-general">
@@ -798,54 +801,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			<div class="list-inline section-custom">
 				<aside class="sidebar section-left item-inline">
 					<div class="sidebar-item">
-						<h5 class="sidebar-title font700 font24">Dịch vụ chứng khoán </h5>
+						<h5 class="sidebar-title font700 font24"></h5>
 						<div class="menu-sidebar">
-							<div class="menu-dich-vu-chung-khoan-container"><ul id="menu-dich-vu-chung-khoan" class="menu"><li id="menu-item-59465" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-59465"><a href="../loai-tai-khoan/index.html">Gói dịch vụ tài khoản</a>
-<ul class="sub-menu">
-	<li id="menu-item-59467" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59467"><a href="../loai-tai-khoan/dba-goi-dich-vu-moi-gioi/index.html">DBA – Gói dịch vụ Môi giới</a></li>
-	<li id="menu-item-61198" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-61198"><a href="../loai-tai-khoan/dta/index.html">DTA &#8211; Gói dịch vụ Giao dịch chứng khoán</a></li>
-	<li id="menu-item-61199" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-61199"><a href="../loai-tai-khoan/dab/index.html">DAB &#8211; Gói dịch vụ nền tảng</a></li>
-</ul>
-</li>
-<li id="menu-item-59466" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-59466"><a href="../dich-vu-chung-khoan/san-pham-dich-vu/index.html">Sản phẩm dịch vụ</a>
-<ul class="sub-menu">
-	<li id="menu-item-59483" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59483"><a href="../dich-vu-chung-khoan/san-pham-dich-vu/bankgate/index.html">Chuyển tiền giao dịch chứng khoán và đầu tư</a></li>
-	<li id="menu-item-59488" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59488"><a href="../dich-vu-chung-khoan/san-pham-dich-vu/dstock-dau-tu-co-phieu/index.html">DSTOCK – Đầu tư cổ phiếu</a></li>
-	<li id="menu-item-59489" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-59489"><a href="../dich-vu-chung-khoan/san-pham-dich-vu/dtrade-giao-dich-chung-khoan/index.html">DTRADE – Giao dịch chứng khoán</a>
-	<ul class="sub-menu">
-		<li id="menu-item-59888" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59888"><a href="../dich-vu-chung-khoan/san-pham-dich-vu/margin/index.html">Margin – Giao dịch ký quỹ</a></li>
-		<li id="menu-item-59890" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59890"><a href="../dich-vu-chung-khoan/san-pham-dich-vu/chung-quyen/index.html">CW – Giao dịch chứng quyền</a></li>
-		<li id="menu-item-59889" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59889"><a href="../dich-vu-chung-khoan/san-pham-dich-vu/tomato-goi-phi-giao-dich-tra-truoc/index.html">TOMATO – Gói phí giao dịch trả trước</a></li>
-	</ul>
-</li>
-	<li id="menu-item-59490" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59490"><a href="../dich-vu-chung-khoan/san-pham-dich-vu/chung-quyen/index.html">CW – Giao dịch chứng quyền</a></li>
-	<li id="menu-item-59491" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59491"><a href="../dich-vu-chung-khoan/san-pham-dich-vu/margin/index.html">Margin – Giao dịch ký quỹ</a></li>
-	<li id="menu-item-59492" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59492"><a href="../dich-vu-chung-khoan/san-pham-dich-vu/tomato-goi-phi-giao-dich-tra-truoc/index.html">TOMATO – Gói phí giao dịch trả trước</a></li>
-</ul>
-</li>
-<li id="menu-item-59502" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-59502"><a href="../dich-vu-chung-khoan/bieu-phi-dich-vu/index.html">Biểu phí dịch vụ</a>
-<ul class="sub-menu">
-	<li id="menu-item-59997" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59997"><a href="../bieu-phi-tai-khoan-da/index.html">Biểu phí tài khoản DTA</a></li>
-	<li id="menu-item-59998" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-59759 current_page_item menu-item-59998"><a href="index.html" aria-current="page">Biểu phí tài khoản DBA</a></li>
-	<li id="menu-item-59996" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59996"><a href="../dich-vu-chung-khoan/bieu-phi-dich-vu/bieu-phi-lai-margin/index.html">Biểu phí lãi margin</a></li>
-</ul>
-</li>
-<li id="menu-item-59498" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-59498"><a href="../dich-vu-chung-khoan/cong-giao-dich/index.html">Cổng giao dịch</a>
-<ul class="sub-menu">
-	<li id="menu-item-59500" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59500"><a href="../dboard/index.html">DBOARD – Bảng giá giao dịch</a></li>
-	<li id="menu-item-59501" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59501"><a href="../protrade-phai-sinh/index.html">PROTRADE – Bảng giá phái sinh</a></li>
-	<li id="menu-item-59507" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-59507"><a href="../dich-vu-chung-khoan/san-pham-dich-vu/bankgate/index.html">Chuyển tiền trực tuyến</a></li>
-	<li id="menu-item-59508" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-59508"><a href="https://myaccount.vndirect.com.vn/">iVND &#8211; Myaccount</a></li>
-</ul>
-</li>
-<li id="menu-item-59480" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-59480"><a href="../dich-vu-chung-khoan/nhap-mon-chung-khoan/index.html">Nhập môn chứng khoán</a>
-<ul class="sub-menu">
-	<li id="menu-item-59493" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-59493"><a href="https://dgo.vndirect.com.vn/">Onboarding &#8211; Nhập môn chứng khoán</a></li>
-	<li id="menu-item-59494" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59494"><a href="../dich-vu-chung-khoan/nhap-mon-chung-khoan/protrade-trial/index.html">PROTRADE Trial</a></li>
-	<li id="menu-item-59517" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-59517"><a href="../dich-vu-chung-khoan/nhap-mon-chung-khoan/cong-dong-stockbook/index.html">Tham gia cộng đồng Stockbook</a></li>
-	<li id="menu-item-59496" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59496"><a href="../dich-vu-chung-khoan/nhap-mon-chung-khoan/tra-cuu-thong-tin-tu-van/index.html">Tra cứu thông tin tư vấn</a></li>
-</ul>
-</li>
+							<div class="menu-bieu-phi-dich-vu-container"><ul id="menu-bieu-phi-dich-vu" class="menu"><li id="menu-item-59991" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59991"><a href="../bieu-phi-tai-khoan-da/index.html">Biểu phí tài khoản DTA</a></li>
+<li id="menu-item-59992" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59992"><a href="../bieu-phi-tk-dba/index.html">Biểu phí tài khoản DBA</a></li>
+<li id="menu-item-59993" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59993"><a href="../dich-vu-chung-khoan/bieu-phi-dich-vu/bieu-phi-lai-margin/index.html">Biểu phí lãi margin</a></li>
 </ul></div>						</div>
 					</div>
 					<div class="sidebar-item">
@@ -868,174 +828,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </ul>					</div>
 				</aside>
 				<div class="section-content section-right item-inline">
-					<h1 class="section-title font700 font35">Biểu phí tài khoản DBA</h1>
+					<h1 class="section-title font700 font35">Điều khoản sử dụng Phần mềm ứng dụng trực tuyến</h1>
 					<section class="single-content content-text">
-						<p><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;">Dành cho khách hàng có nhu cầu có chuyên viên môi giới chăm sóc riêng</span></p>
-<table style="height: 1830px;">
-<tbody>
-<tr style="height: 55px;">
-<td style="height: 38px; width: 34.6701px;"><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt; color: #ff6600;"><b>STT </b></span></td>
-<td style="height: 38px; width: 1063.65px;"><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt; color: #ff6600;"><b>LOẠI DỊCH VỤ </b></span></td>
-<td style="height: 38px; width: 472.396px;"><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt; color: #ff6600;"><b>MỨC PHÍ </b></span></td>
-</tr>
-<tr style="height: 55px;">
-<td style="height: 41px; width: 34.6701px;"><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"><b>1</b></span></td>
-<td style="height: 41px; width: 1063.65px;"><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"><b>Giao dịch trực tuyến cơ sở </b></span></td>
-<td style="height: 41px; width: 472.396px;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;">Phí bậc thang từ <strong>0,20%</strong>/GTGD</span></td>
-</tr>
-<tr style="height: 55px;">
-<td style="height: 44px; width: 34.6701px;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;"> </span></td>
-<td style="height: 44px; width: 1063.65px;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;">Giá trị giao dịch/ngày/tài khoản Từ 400 triệu đồng trở lên</span></td>
-<td style="height: 44px; width: 472.396px;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;"><strong>0,20%/</strong>GTGD</span></td>
-</tr>
-<tr style="height: 55px;">
-<td style="height: 40px; width: 34.6701px;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;"> </span></td>
-<td style="height: 40px; width: 1063.65px;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;">Giá trị giao dịch/ngày/tài khoản Từ 250 triệu đồng tới dưới 400 triệu đồng</span></td>
-<td style="height: 40px; width: 472.396px;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;"><strong>0,25%</strong>/GTGD</span></td>
-</tr>
-<tr style="height: 55px;">
-<td style="height: 39px; width: 34.6701px;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;"> </span></td>
-<td style="height: 39px; width: 1063.65px;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;">Giá trị giao dịch/ngày/tài khoản Từ 80 triệu đồng tới dưới 250 triệu đồng</span></td>
-<td style="height: 39px; width: 472.396px;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;"><strong>0,30%</strong>/GTGD</span></td>
-</tr>
-<tr style="height: 55px;">
-<td style="height: 41px; width: 34.6701px;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;"> </span></td>
-<td style="height: 41px; width: 1063.65px;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;">Giá trị giao dịch/ngày/tài khoản Dưới 80 triệu đồng</span></td>
-<td style="height: 41px; width: 472.396px;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;"><strong>0,35%</strong>/GTGD</span></td>
-</tr>
-<tr style="height: 55px;">
-<td style="height: 35px; width: 34.6701px;"><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"><b>2</b></span></td>
-<td style="height: 35px; width: 1063.65px;"><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"><b>Giao dịch trực tuyến phái sinh</b></span></td>
-<td style="height: 35px; width: 472.396px;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;"> </span></td>
-</tr>
-<tr style="height: 55px;">
-<td style="height: 47px; width: 34.6701px;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;">2.1</span></td>
-<td style="height: 47px; width: 1063.65px;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;">Phí giao dịch trực tuyến phái sinh (không bao gồm phí trả Sở)</span></td>
-<td style="height: 47px; width: 472.396px;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;">Mức phí/HĐTL (có áp dụng đối với HĐ đáo hạn)</span></td>
-</tr>
-<tr style="height: 55px;">
-<td style="height: 44px; width: 34.6701px;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;"> </span></td>
-<td style="height: 44px; width: 1063.65px;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;">Khối lượng giao dịch trong ngày từ 1 – 99 HĐTL</span></td>
-<td style="height: 44px; width: 472.396px;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;"><strong>4.000</strong> VNĐ</span></td>
-</tr>
-<tr style="height: 55px;">
-<td style="height: 44px; width: 34.6701px;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;"> </span></td>
-<td style="height: 44px; width: 1063.65px;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;">Khối lượng giao dịch trong ngày từ 100 – 299 HĐTL</span></td>
-<td style="height: 44px; width: 472.396px;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;"><strong>3.000</strong> VNĐ</span></td>
-</tr>
-<tr style="height: 55px;">
-<td style="height: 41px; width: 34.6701px;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;"> </span></td>
-<td style="height: 41px; width: 1063.65px;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;">Khối lượng giao dịch trong ngày từ 300 HĐTL trở lên </span></td>
-<td style="height: 41px; width: 472.396px;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;"><strong>2.000</strong> VNĐ</span></td>
-</tr>
-<tr style="height: 55px;">
-<td style="height: 42px; width: 34.6701px;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;">2.2</span></td>
-<td style="height: 42px; width: 1063.65px;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;">Phí giao dịch phái sinh (trả Sở)</span></td>
-<td style="height: 42px; width: 472.396px;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;">Mức phí/HĐTL</span></td>
-</tr>
-<tr style="height: 55px;">
-<td style="height: 45px; width: 34.6701px;"></td>
-<td style="height: 45px; width: 1063.65px;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;">Hợp đồng tương lai chỉ số</span></td>
-<td style="height: 45px; width: 472.396px;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;"><strong>2.700</strong> VNĐ</span></td>
-</tr>
-<tr style="height: 55px;">
-<td style="height: 41px; width: 34.6701px;"></td>
-<td style="height: 41px; width: 1063.65px;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;">Hợp đồng tương lai trái phiếu Chính phủ</span></td>
-<td style="height: 41px; width: 472.396px;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;"><strong>4.500</strong> VNĐ</span></td>
-</tr>
-<tr style="height: 95px;">
-<td style="height: 68px; width: 34.6701px;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;">2.3</span></td>
-<td style="height: 68px; width: 1063.65px;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;">Phí quản lý vị thế (trả VSD)</span></p>
-<p><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"><i><span style="font-weight: 400;">(Mức phí/HĐTL/tài khoản/ngày)</span></i></span></td>
-<td style="height: 68px; width: 472.396px;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;"><strong>2.550</strong> VNĐ</span></td>
-</tr>
-<tr style="height: 135px;">
-<td style="height: 135px; width: 34.6701px;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;">2.4</span></td>
-<td style="height: 135px; width: 1063.65px;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;">Quản lý tài sản ký quỹ</span></td>
-<td style="height: 135px; width: 472.396px;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;"><strong>0,0024%</strong> giá trị lũy kế số dư tài sản ký quỹ/tài khoản/tháng </span></p>
-<p><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;">Tối đa: <strong>1.600.000</strong> đồng/tài khoản/tháng </span></p>
-<p><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;">Tối thiểu: <strong>100.000</strong> đồng/tài khoản/tháng</span></td>
-</tr>
-<tr style="height: 55px;">
-<td style="height: 55px; width: 34.6701px;"><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"><b>3</b></span></td>
-<td style="height: 55px; width: 1063.65px;"><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"><b>Giao dịch chứng quyền </b></span></td>
-<td style="height: 55px; width: 472.396px;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;"><strong>Miễn phí</strong> Mua/Bán trong 6 tháng đầu </span></td>
-</tr>
-<tr style="height: 55px;">
-<td style="height: 55px; width: 34.6701px;"><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"><b>4</b></span></td>
-<td style="height: 55px; width: 1063.65px;"><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"><b>Biểu phí lưu ký</b></span></td>
-<td style="height: 55px; width: 472.396px;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;"> </span></td>
-</tr>
-<tr style="height: 120px;">
-<td style="height: 120px; width: 34.6701px;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;">4.1</span></td>
-<td style="height: 120px; width: 1063.65px;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;">Lưu ký chứng khoán </span></td>
-<td style="height: 120px; width: 472.396px;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;"><strong>0,27</strong> VNĐ/1 cổ phiếu, chứng chỉ quỹ, chứng quyền có bảo đảm/tháng</span></p>
-<p><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;"><strong>0,2</strong> VNĐ/1 trái phiếu/tháng</span></td>
-</tr>
-<tr style="height: 135px;">
-<td style="height: 135px; width: 34.6701px;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;">4.2</span></td>
-<td style="height: 135px; width: 1063.65px;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;">Chuyển khoản chứng khoán do tất toán, chuyển khoản chứng khoán khác thành viên</span></td>
-<td style="height: 135px; width: 472.396px;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;"><strong>1</strong> VND/1chứng khoán/lần chuyển khoản</span></p>
-<p><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;">Tối thiểu: <strong>100.000</strong> VNĐ</span></p>
-<p><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;">Tối đa: <strong>2.000.000</strong> VNĐ</span></td>
-</tr>
-<tr style="height: 55px;">
-<td style="height: 55px; width: 34.6701px;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;">4.3</span></td>
-<td style="height: 55px; width: 1541.35px;" colspan="2"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;">Chuyển quyền sở hữu chứng khoán không qua hệ thống giao dịch của SGDCK</span></td>
-</tr>
-<tr style="height: 55px;">
-<td style="height: 55px; width: 34.6701px;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;"> </span></td>
-<td style="height: 55px; width: 1063.65px;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;">Chuyển khoản cho, biếu, tặng, thừa kế</span></td>
-<td style="height: 55px; width: 472.396px;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;"><strong>0,1%</strong>/GTGD</span></td>
-</tr>
-<tr style="height: 135px;">
-<td style="height: 135px; width: 34.6701px;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;"> </span></td>
-<td style="height: 135px; width: 1063.65px;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;">Chuyển quyền sở hữu </span></p>
-<ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;">Cổ đông sáng lập đang trong thời gian hạn chế chuyển nhượng hoặc</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;">Các trường hợp chuyển nhượng được cơ quan nhà nước có thẩm quyền chấp thuận</span></li>
-</ul>
-</td>
-<td style="height: 135px; width: 472.396px;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;"><strong>0,1%</strong>/GTGD</span></td>
-</tr>
-<tr style="height: 80px;">
-<td style="height: 80px; width: 34.6701px;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;"> </span></td>
-<td style="height: 80px; width: 1063.65px;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;">Chuyển quyền sở hữu chứng khoán của công ty đại chúng đã đăng ký tại VSD nhưng chưa/không niêm yết, đăng ký giao dịch trên Sở giao dịch chứng khoán</span></td>
-<td style="height: 80px; width: 472.396px;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;"><strong>0,1%</strong>/GTGD</span></td>
-</tr>
-<tr style="height: 55px;">
-<td style="height: 55px; width: 34.6701px;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;"> </span></td>
-<td style="height: 55px; width: 1063.65px;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;">Chào mua công khai</span></td>
-<td style="height: 55px; width: 472.396px;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;"><strong>0,15%</strong>/GTGD</span></td>
-</tr>
-<tr style="height: 55px;">
-<td style="height: 55px; width: 34.6701px;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;">4.4</span></td>
-<td style="height: 55px; width: 1541.35px;" colspan="2"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;">Phong tỏa Chứng khoán</span></td>
-</tr>
-<tr style="height: 55px;">
-<td style="height: 55px; width: 34.6701px;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;"> </span></td>
-<td style="height: 55px; width: 1063.65px;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;">Phong tỏa Chứng khoán một lần theo  yêu cầu Khách hàng</span></td>
-<td style="height: 55px; width: 472.396px;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;"><strong>100.000 </strong>VNĐ/lần</span></td>
-</tr>
-<tr style="height: 55px;">
-<td style="height: 55px; width: 34.6701px;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;"> </span></td>
-<td style="height: 55px; width: 1063.65px;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;">Phong tỏa Chứng khoán một lần theo yêu cầu bên thứ 3</span></td>
-<td style="height: 55px; width: 472.396px;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;"><strong>100.000 </strong>VNĐ/lần</span></td>
-</tr>
-<tr style="height: 135px;">
-<td style="height: 135px; width: 34.6701px;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;"> </span></td>
-<td style="height: 135px; width: 1063.65px;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;">Phong tỏa và theo dõi phong tỏa chứng  khoán theo yêu cầu bên thứ 3</span></td>
-<td style="height: 135px; width: 472.396px;"><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;"><strong>0,2%</strong>/GTGD/năm(*)</span></p>
-<p><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;">Tối thiểu <strong>500.000 </strong>VNĐ/năm</span></p>
-<p><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;">Tối đa <strong>2.000.000</strong> VNĐ/năm</span></td>
-</tr>
-</tbody>
-</table>
-<p><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;">Mức phí giao dịch ưu đãi: 0.15% áp dụng cho các trường hợp:</span></p>
-<p><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;">&#8211; Khách hàng có giá trị giao dịch tối thiểu từ 800 triệu đồng/ngày/tài khoản</span></p>
-<p><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;">&#8211; Khách hàng được phê duyệt bởi Giám đốc kinh doanh: mức ưu đãi tối thiểu 0.15%, thời gian trải nghiệm tối đa 6 tháng. Sau thời gian trải nghiệm, phí giao dịch tự động chuyển về mức phí tiêu chuẩn. </span></p>
-<p><span style="font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 12pt;">Với những giao dịch có giá trị lớn, đi kèm với những yêu cầu đặc biệt, vui lòng liên hệ Chuyên viên Môi giới để có được mức giá thoả thuận</span></p>
-					</section>
+						<p><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"><strong><img loading="lazy" class="size-medium wp-image-64084 alignnone" src="../cmsupload/beta/1.png" alt="" width="30" height="30" /> Thông tin được Công ty Cổ phần Chứng khoán VNDIRECT cung cấp trên website này là đúng như nội dung đăng tải. </strong></span><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">VNDIRECT không có bất kỳ đảm bảo nào, dù rõ ràng hay ngầm định, bao gồm không giới hạn những đảm bảo liên quan đến thông tin, dịch vụ hay sản phẩm được cung cấp, chào bán trên hoặc thông qua kết nối với website của VNDIRECT hay bất kỳ một sự đảm bảo ngầm định nào về khả năng mua được, bán được, hoặc phù hợp được với một mục đích cụ thể, hay không có bất kỳ sự vi phạm nào.</span></p>
+<p><strong style="font-family: arial, helvetica, sans-serif;"><img loading="lazy" class="size-medium wp-image-64083 alignnone" src="../cmsupload/beta/240px-Eo_circle_orange_number-2.svg_.png" alt="" width="30" height="30" /> </strong><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"><strong>VNDIRECT, đối tác hay nhà cung cấp của VNDIRECT không phải chịu trách nhiệm</strong> trong bất kỳ trường hợp nào về những thiệt hại trực tiếp, gián tiếp, do bị xử phạt, do ngẫu nhiên, do một tình huống cụ thể hay mang tính hệ quả nào phát sinh từ, hoặc do liên hệ theo một cách nào đó với việc sử dụng website của VNDIRECT hoặc với việc bị gián đoạn hoặc không sử dụng được website của VNDIRECT, hay chịu trách nhiệm về bất kỳ thông tin nào (bao gồm cả thông tin về doanh nghiệp), phần mềm, sản phẩm và dịch vụ nhận được qua, hay xuất phát từ việc sử dụng website của VNDIRECT, cho dù có dựa trên hợp đồng hay ngoài hợp đồng, do nghĩa vụ theo pháp luật, hay những nguyên nhân khác, ngay cả khi VNDIRECT và/hoặc đối tác hay người cung cấp đã được tư vấn về khả năng xảy ra những thiệt hại này.</span></p>
+<p><strong style="font-family: arial, helvetica, sans-serif;"><img loading="lazy" class="size-medium wp-image-64082 alignnone" src="../cmsupload/beta/Eo_circle_orange_number-3.svg_.png" alt="" width="30" height="30" /> </strong><b style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Thu Thập Thông Tin</b></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">VNDIRECT có quyền thu thập tất cả các thông tin được Khách hàng cung cấp trực tiếp hoặc gián tiếp khi truy cập vào trong thông tin điện tử của VNDIRECT. Thông tin khách hàng mà VNDIRECT thu thập bao gồm nhưng không giới hạn ở:</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">&#8211; Thông tin nhận diện Khách hàng, gồm: tên/họ tên, giới tính, loại hình, hình ảnh, ngày sinh, ngày thành lập, địa chỉ, số điện thoại, tài khoản, nghề nghiệp, thông tin tài chính, lĩnh vực hoạt động, mật khẩu và các thông tin khác liên quan đến cánh nhân khách hàng.</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">&#8211; Dữ liệu thu thập được từ việc Khách hàng truy cập vào trang thông tin tin điện tử và/hoặc hệ thống thông tin của VNDIRECT, gồm: thông tin về thiết bị sử dụng, hệ điều hành, loại trình duyệt, địa chỉ IP, ngôn ngữ, ngày và giờ kết nối/truy cập trang tin điện tử, thống kê sử dụng ứng dụng, vị trí và thông tin khác;</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">&#8211; Thông tin về giao dịch của Khách hàng, gồm: dữ liệu về giao dịch và lịch sử giao dịch, thông tin tài khoản thanh toán, và các thông tin khác mà VNDIRECT phải thu thập theo các quy định của pháp luật và/hoặc điều khoản và điều kiện dịch vụ của VNDIRECT;</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">&#8211; Dữ liệu tiếp thị: thông tin về sự quan tâm của Khách hàng đối với quảng cáo, dữ liệu cookie, dữ liệu clickstream, phản ứng với tiếp thị trực tiếp, và lựa chọn không tham gia tiếp thị trực tiếp…..</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Các thông tin nêu trên được VNDIRECT thu thập cho mục đích cung cấp sản phẩm/dịch vụ cho Khách hàng và/hoặc phát triển sản phẩm/dịch vụ của VNDIRECT. Ngoại trừ các trường hợp bắt buộc theo quy định của pháp luật, VNDIRECT cam kết không chia sẻ thông tin nhằm mục đích khác nếu không được Khách hàng chấp thuận. Thông tin của Khách hàng được VNDIRECT thu thập sẽ được lưu giữ, bảo mật theo quy định của pháp luật và chính sách bảo mật thông tin của VNDIRECT.</span></p>
+<p><strong style="font-family: arial, helvetica, sans-serif;"><img loading="lazy" class="size-medium wp-image-64081 alignnone" src="../cmsupload/beta/480px-Eo_circle_orange_number-4.svg_.png" alt="" width="30" height="30" /> </strong><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"><strong>Tuyên bố loại trừ trách nhiệm</strong> này áp dụng đối với tất cả những thiệt hại hoặc tổn thất gây ra do bất kỳ sự không hoạt động được, do lỗi, do không thực hiện, do gián đoạn, do xóa bỏ, do khiếm khuyết, ngưng trệ trong quá trình vận hành hoặc truyền dẫn, do virus máy tính, do hỏng đường truyền, do trộm cắp hoặc phá hoại, hoặc do truy nhập trái phép, sửa đổi trái phép hay sử dụng trái phép các bản ghi, cho dù đó là do vi phạm hợp đồng hay ngoài hợp đồng, do vô ý hoặc do bất kỳ một nguyên nhân nào khác.</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"></span></p>					</section>
 				</div>
 			</div>
 		</div>
@@ -1156,7 +961,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <div class="menu-bottom menu-general">
                 <ul>
                                                 <li><a href="../cong-bo-rui-ro/index.html">Công bố rủi ro</a></li>
-                                                    <li><a href="../dieu-khoan-su-dung/index.html">Điều khoản sử dụng website</a></li>
+                                                    <li><a href="index.html">Điều khoản sử dụng website</a></li>
                                         </ul>
             </div>
         </div>
@@ -1215,7 +1020,7 @@ var megamenu = {"timeout":"300","interval":"100"};
 <a href="http://www.dmca.com/Protection/Status.aspx?ID=57d27735-533b-4e5a-91ba-950c01d74f5a" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="../../images.dmca.com/Badges/dmca_protected_sml_120n5fbd.png?ID=57d27735-533b-4e5a-91ba-950c01d74f5a"  alt="DMCA.com Protection Status" /></a>  <script src="../../images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script>
 </body>
 
-<!-- Mirrored from www.vndirect.com.vn/bieu-phi-tk-dba/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 08 Jan 2022 15:06:33 GMT -->
+<!-- Mirrored from www.vndirect.com.vn/dieu-khoan-su-dung/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 08 Jan 2022 15:16:13 GMT -->
 </html>
 <script >
     $('.current-page-ancestor ul').css('display', 'block');
