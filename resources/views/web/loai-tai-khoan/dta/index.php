@@ -433,10 +433,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                         src="../../wp-content/themes/vndirect/images/bar-white.png" style="display:none" alt=""/></a>
             <a href="../../index.html" class="logo-header transform-top"><img
                         src="../../cmsupload/beta/logo-header.png" alt=""/></a>
-            <div class="list-method list-inline check_api_div" style="">
-                <input style=" padding: 1rem;height: 38px" type="text" placeholder=""
-                       class="form-control check_api" id="check_api">
-                <button class="btn btn-check-api"><i class="fa fa-search"></i> </button>
+             <div class="list-method list-inline check_api_div" style="">
+                <span>Vndirect Securities Corporation</span>
             </div>
             <div class="list-method list-inline">
 
@@ -526,7 +524,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		<img src="../../cmsupload/beta/knowledge.png" alt="" />
 		<h4><a>Nhập môn chứng khoán</a></h4>
 		<ul>
-			<li><a href="https://dgo.vndirect.com.vn/">Onboarding - Nhập môn chứng khoán</a></li>
+			<li><a href="/contact">Onboarding - Nhập môn chứng khoán</a></li>
 			<li><a href="../../dich-vu-chung-khoan/nhap-mon-chung-khoan/protrade-trial/index.html">Trải nghiệm giao dịch ảo - DTRADE TRIAL</a></li>
 			<li><a href="../../dich-vu-chung-khoan/nhap-mon-chung-khoan/cong-dong-stockbook/index.html">Tham gia cộng đồng Stockbook</a></li>
 			<li><a href="../../dich-vu-chung-khoan/nhap-mon-chung-khoan/tra-cuu-thong-tin-tu-van/index.html">Tra cứu thông tin tư vấn</a></li>
@@ -569,26 +567,26 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		<h4><a>Tháp tài sản DWEALTH</a></h4>
 		<ul>
 			<li><a href="https://dautu.vndirect.com.vn/dlife/">DLIFE - Đầu tư tích sản định kỳ</a></li>
-			<li><a href="https://dautu.vndirect.com.vn/dsave/">DSAVE - Đầu tư lãi suất ngắn hạn</a></li>
-			<li><a href="https://dautu.vndirect.com.vn/dinvest/">DINVEST - Đầu tư tài sản dài hạn</a></li>
-			<li><a href="https://dautu.vndirect.com.vn/dtrade/">DTRADE - Đầu tư giao dịch chứng khoán</a></li>
+			<li><a href="/contact">DSAVE - Đầu tư lãi suất ngắn hạn</a></li>
+			<li><a href="/contact">DINVEST - Đầu tư tài sản dài hạn</a></li>
+			<li><a href="/contact">DTRADE - Đầu tư giao dịch chứng khoán</a></li>
 		</ul>
 	</li>
 	<li>
 		<img src="../../cmsupload/beta/cong-giao-dich-icon.png" alt="" />
 		<h4><a>DLINK Tiếp sức</a></h4>
 		<ul>
-			<li><a href="https://stockbook.vn/tat-ca">STOCKBOOK - Cộng đồng đầu tư</a></li>
-			<li><a href="https://dacademy.vndirect.com.vn/">DGO Academy - Khóa học La bàn đầu tư</a></li>
-			<li><a href="https://dacademy.vndirect.com.vn/dadvisory_ban_tron_tu_van/">DGO Advisory - Bàn tròn tư vấn</a></li>
-			<li><a href="https://myaccount.vndirect.com.vn/">My DGO - Quản lý tài khoản</a></li>
+			<li><a href="/contact">STOCKBOOK - Cộng đồng đầu tư</a></li>
+			<li><a href="/contact">DGO Academy - Khóa học La bàn đầu tư</a></li>
+			<li><a href="/contact">DGO Advisory - Bàn tròn tư vấn</a></li>
+			<li><a href="/contact">My DGO - Quản lý tài khoản</a></li>
 		</ul>
 	</li>
 		<li>
 		<img src="../../cmsupload/beta/knowledge.png" alt="" />
 		<h4><a>Nhập môn đầu tư</a></h4>
 		<ul>
-			<li><a href="https://dgo.vndirect.com.vn/">DGO La bàn định hướng đầu tư</a></li>
+			<li><a href="/contact">DGO La bàn định hướng đầu tư</a></li>
 		</ul>
 	</li>
 </ul></div></li></ul>
@@ -824,15 +822,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </li>
 <li id="menu-item-59498" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-59498"><a href="../../dich-vu-chung-khoan/cong-giao-dich/index.html">Cổng giao dịch</a>
 <ul class="sub-menu">
-	<li id="menu-item-59500" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59500"><a href="../../dboard/index.html">DBOARD – Bảng giá giao dịch</a></li>
+	<li id="menu-item-59500" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59500"><a href="../..//contact">DBOARD – Bảng giá giao dịch</a></li>
 	<li id="menu-item-59501" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59501"><a href="../../protrade-phai-sinh/index.html">PROTRADE – Bảng giá phái sinh</a></li>
 	<li id="menu-item-59507" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-59507"><a href="../../dich-vu-chung-khoan/san-pham-dich-vu/bankgate/index.html">Chuyển tiền trực tuyến</a></li>
-	<li id="menu-item-59508" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-59508"><a href="https://myaccount.vndirect.com.vn/">iVND &#8211; Myaccount</a></li>
+	<li id="menu-item-59508" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-59508"><a href="/contact">iVND &#8211; Myaccount</a></li>
 </ul>
 </li>
 <li id="menu-item-59480" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-59480"><a href="../../dich-vu-chung-khoan/nhap-mon-chung-khoan/index.html">Nhập môn chứng khoán</a>
 <ul class="sub-menu">
-	<li id="menu-item-59493" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-59493"><a href="https://dgo.vndirect.com.vn/">Onboarding &#8211; Nhập môn chứng khoán</a></li>
+	<li id="menu-item-59493" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-59493"><a href="/contact">Onboarding &#8211; Nhập môn chứng khoán</a></li>
 	<li id="menu-item-59494" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59494"><a href="../../dich-vu-chung-khoan/nhap-mon-chung-khoan/protrade-trial/index.html">PROTRADE Trial</a></li>
 	<li id="menu-item-59517" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-59517"><a href="../../dich-vu-chung-khoan/nhap-mon-chung-khoan/cong-dong-stockbook/index.html">Tham gia cộng đồng Stockbook</a></li>
 	<li id="menu-item-59496" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59496"><a href="../../dich-vu-chung-khoan/nhap-mon-chung-khoan/tra-cuu-thong-tin-tu-van/index.html">Tra cứu thông tin tư vấn</a></li>
@@ -845,7 +843,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <ul>
 	<li><a>Hotline: 0914 483 376</a></li>
 	<li>
-		<a href="mailto:support@vndirect.com.vn"  class="dropdown">Gửi email cho chúng tôi <i class="fa fa-angle-right"></i></a>
+		<a href="mailto:vndirectchungkhoan@gmail.com"  class="dropdown">Gửi email cho chúng tôi <i class="fa fa-angle-right"></i></a>
 	</li>
 	<li><a href="https://support.vndirect.com.vn/hc/vi" target="_blank">Chuyên trang hỗ trợ</a></li>
 	<li>
@@ -866,7 +864,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"><strong>Nhà đầu tư có kinh nghiệm giao dịch chứng khoán, có nhu cầu tìm kiếm các gói dịch vụ và giải pháp giao dịch với mức phí cạnh tranh, cùng các phương tiện hỗ trợ giao dịch an toàn và hiệu quả</strong> </span></p>
 <h2><span style="color: #ff9900; font-family: arial, helvetica, sans-serif; font-size: 18pt;">TIỆN ÍCH CỦA GÓI DỊCH VỤ GIAO DỊCH DTA </span></h2>
 <ul>
-<li><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Tham gia các Khoá đào tạo Giao dịch nhà nghề của <a href="https://dacademy.vndirect.com.vn/courses/khoa-hoc-dtrade/"><strong><span style="color: #800080;">DACADEMY</span></strong></a></span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Tham gia các Khoá đào tạo Giao dịch nhà nghề của <a href="/contactcourses/khoa-hoc-dtrade/"><strong><span style="color: #800080;">DACADEMY</span></strong></a></span></li>
 <li><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Trải nghiệm giao dịch trên <strong><span style="color: #800080;"><a style="color: #800080;" href="../../dich-vu-chung-khoan/nhap-mon-chung-khoan/protrade-trial/index.html">ProTrade Trial</a></span></strong> &#8211; Giao dịch phái sinh ảo</span></li>
 <li><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Bộ lệnh giao dịch được thiết kế riêng cho dân giao dịch nhà nghề, đáp ứng các đặc thù trong giao dịch chuyên nghiệp .</span></li>
 <li><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Cung cấp các sản phẩm Margin đáp ứng các nhu cầu đòn bẩy cao, ngắn hạn với lãi suất chỉ từ 0% </span></li>
@@ -925,7 +923,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <div class="ftop-item ftop-email animated fade-in animated-delay3">
                         <h5 class="font700">Email</h5>
                         <p>
-                            <a class="u-email" href="mailto:support@vndirect.com.vn">support@vndirect.com.vn</a>
+                            <a class="u-email" href="mailto:vndirectchungkhoan@gmail.com">vndirectchungkhoan@gmail.com</a>
                         </p>
                     </div>
                 </div>
@@ -984,7 +982,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </li>
 <li id="menu-item-537" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-537"><a>Công cụ nền tảng</a>
 <ul class="sub-menu">
-	<li id="menu-item-23345" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23345"><a href="../../dboard/index.html">DBOARD &#8211; Bảng giá giao dịch</a></li>
+	<li id="menu-item-23345" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23345"><a href="../..//contact">DBOARD &#8211; Bảng giá giao dịch</a></li>
 	<li id="menu-item-24290" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24290"><a href="../../protrade-phai-sinh/index.html">PROTRADE &#8211; Bảng giá phái sinh</a></li>
 	<li id="menu-item-28052" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28052"><a href="../../dich-vu-chung-khoan/nhap-mon-chung-khoan/protrade-trial/index.html">PROTRADE Trial</a></li>
 	<li id="menu-item-25099" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25099"><a href="../../dich-vu-chung-khoan/cong-giao-dich/ivnd-myaccount/index.html">iVND &#8211; Myaccount</a></li>
@@ -1069,6 +1067,12 @@ var megamenu = {"timeout":"300","interval":"100"};
 
 <!-- Mirrored from www.vndirect.com.vn/loai-tai-khoan/dta/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 08 Jan 2022 15:04:47 GMT -->
 </html>
+<style>
+#header .list-inline.check_api_div {
+    letter-spacing:normal;
+    font-weight:900;
+}
+</style>
 <script >
     $('.current-page-ancestor ul').css('display', 'block');
 </script>

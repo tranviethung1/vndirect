@@ -12,4 +12,10 @@
 <!-- Created by HTTrack Website Copier/3.49-2 [XR&CO'2014] -->
 
 <!-- Mirrored from www.vndirect.com.vn/dich-vu-chung-khoan/bieu-phi-dich-vu/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 08 Jan 2022 15:21:11 GMT -->
-</HTML>
+</html>
+<style>
+#header .list-inline.check_api_div {
+    letter-spacing:normal;
+    font-weight:900;
+}
+</style>

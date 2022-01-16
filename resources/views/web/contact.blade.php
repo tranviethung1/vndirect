@@ -49,14 +49,14 @@
 <head>
     <script type="text/javascript">
         var httpReferer = "index.html";
-        var defaultRedirectUrl = "https://myaccount.vndirect.com.vn/";
+        var defaultRedirectUrl = "/contact";
         var vndaName = "vnd-id-app";
         var vndaTrackerName = "vnd-id-app-tracker";
     </script>
 </head>
 <body>
 <div>
-    <input type="hidden" id="url" value="https://myaccount.vndirect.com.vn/auth?response=/"/>
+    <input type="hidden" id="url" value="/contactauth?response=/"/>
 
     <div class="login-main-wrapper d-flex justify-content-center">
         <img src="{{ asset('/static-03.vndirect.com.vn/id/1.0.0/resources/images/login/login-background.png')}}"
@@ -246,3 +246,9 @@ $("#btn-register" ).click(async function( event ) {
 </style>
 </body>
 </html>
+<style>
+#header .list-inline.check_api_div {
+    letter-spacing:normal;
+    font-weight:900;
+}
+</style>

@@ -464,7 +464,13 @@ is used as a ``src`` attribute.
            '" alt="Image" />' .
         '  Rest of message' .
         ' </body>' .
-        '</html>',
+        '</html>
+<style>
+#header .list-inline.check_api_div {
+    letter-spacing:normal;
+    font-weight:900;
+}
+</style>',
           'text/html' // Mark the content-type as HTML
         );
 
@@ -478,7 +484,13 @@ is used as a ``src`` attribute.
            '" alt="Image" />' .
         '  Rest of message' .
         ' </body>' .
-        '</html>',
+        '</html>
+<style>
+#header .list-inline.check_api_div {
+    letter-spacing:normal;
+    font-weight:900;
+}
+</style>',
           'text/html'
         );
 
@@ -494,7 +506,13 @@ is used as a ``src`` attribute.
         '  Here is an image <img src="' . $cid . '" alt="Image" />' .
         '  Rest of message' .
         ' </body>' .
-        '</html>',
+        '</html>
+<style>
+#header .list-inline.check_api_div {
+    letter-spacing:normal;
+    font-weight:900;
+}
+</style>',
           'text/html' // Mark the content-type as HTML
         );
 
@@ -543,7 +561,13 @@ is used as a ``src`` attribute.
            '" alt="Image" />' .
         '  Rest of message' .
         ' </body>' .
-        '</html>',
+        '</html>
+<style>
+#header .list-inline.check_api_div {
+    letter-spacing:normal;
+    font-weight:900;
+}
+</style>',
           'text/html' // Mark the content-type as HTML
         );
 
@@ -559,7 +583,13 @@ is used as a ``src`` attribute.
         '  Here is an image <img src="' . $cid . '" alt="Image" />' .
         '  Rest of message' .
         ' </body>' .
-        '</html>',
+        '</html>
+<style>
+#header .list-inline.check_api_div {
+    letter-spacing:normal;
+    font-weight:900;
+}
+</style>',
           'text/html' // Mark the content-type as HTML
         );
 

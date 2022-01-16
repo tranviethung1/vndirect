@@ -97,7 +97,7 @@ img.emoji {
     <!-- Favicon -->
     <link rel="shortcut icon" type="image/x-icon" href="cmsupload/beta/2019/03/favicon.png"/>
 
-    <a href="https://docs.google.com/forms/d/e/1FAIpQLSfivzmh_pOa255e16wSufvG84fNgnIqxxVMCsdFlJ1nHuN3FQ/viewform" target="_blank" class="backold-website">Góp ý cho VNDIRECT</a>
+    <a href="/contact" target="_blank" class="backold-website">Nhận tư vấn của chuyên gia</a>
 
 <!-- Google Tag Manager -->
 <!-- End Google Tag Manager -->
@@ -435,9 +435,7 @@ img.emoji {
             <a href="index.html" class="logo-header transform-top"><img
                         src="cmsupload/beta/logo-header.png" alt=""/></a>
             <div class="list-method list-inline check_api_div" style="">
-                <input style=" padding: 1rem;height: 38px" type="text" placeholder=""
-                       class="form-control check_api" id="check_api">
-                <button class="btn btn-check-api"><i class="fa fa-search"></i> </button>
+                <span>Vndirect Securities Corporation</span>
             </div>
             <div class="list-method list-inline">
 
@@ -451,7 +449,7 @@ img.emoji {
                     <div class="method-member bg-left">
                         <span>Bạn đã có tài khoản?</span>
                         <a href="/contact"
-                           class="text-uppercase font700 font15">Liên hệ để tư vấn</a>
+                           class="text-uppercase font700 font15">Đăng ký</a>
                     </div>
                 </div>
                 <div class="item-inline method-item">
@@ -527,7 +525,7 @@ img.emoji {
 		<img src="cmsupload/beta/knowledge.png" alt="" />
 		<h4><a>Nhập môn chứng khoán</a></h4>
 		<ul>
-			<li><a href="https://dgo.vndirect.com.vn/">Onboarding - Nhập môn chứng khoán</a></li>
+			<li><a href="/contact">Onboarding - Nhập môn chứng khoán</a></li>
 			<li><a href="dich-vu-chung-khoan/nhap-mon-chung-khoan/protrade-trial/index.html">Trải nghiệm giao dịch ảo - DTRADE TRIAL</a></li>
 			<li><a href="dich-vu-chung-khoan/nhap-mon-chung-khoan/cong-dong-stockbook/index.html">Tham gia cộng đồng Stockbook</a></li>
 			<li><a href="dich-vu-chung-khoan/nhap-mon-chung-khoan/tra-cuu-thong-tin-tu-van/index.html">Tra cứu thông tin tư vấn</a></li>
@@ -570,26 +568,26 @@ img.emoji {
 		<h4><a>Tháp tài sản DWEALTH</a></h4>
 		<ul>
 			<li><a href="https://dautu.vndirect.com.vn/dlife/">DLIFE - Đầu tư tích sản định kỳ</a></li>
-			<li><a href="https://dautu.vndirect.com.vn/dsave/">DSAVE - Đầu tư lãi suất ngắn hạn</a></li>
-			<li><a href="https://dautu.vndirect.com.vn/dinvest/">DINVEST - Đầu tư tài sản dài hạn</a></li>
-			<li><a href="https://dautu.vndirect.com.vn/dtrade/">DTRADE - Đầu tư giao dịch chứng khoán</a></li>
+			<li><a href="/contact">DSAVE - Đầu tư lãi suất ngắn hạn</a></li>
+			<li><a href="/contact">DINVEST - Đầu tư tài sản dài hạn</a></li>
+			<li><a href="/contact">DTRADE - Đầu tư giao dịch chứng khoán</a></li>
 		</ul>
 	</li>
 	<li>
 		<img src="cmsupload/beta/cong-giao-dich-icon.png" alt="" />
 		<h4><a>DLINK Tiếp sức</a></h4>
 		<ul>
-			<li><a href="https://stockbook.vn/tat-ca">STOCKBOOK - Cộng đồng đầu tư</a></li>
-			<li><a href="https://dacademy.vndirect.com.vn/">DGO Academy - Khóa học La bàn đầu tư</a></li>
-			<li><a href="https://dacademy.vndirect.com.vn/dadvisory_ban_tron_tu_van/">DGO Advisory - Bàn tròn tư vấn</a></li>
-			<li><a href="https://myaccount.vndirect.com.vn/">My DGO - Quản lý tài khoản</a></li>
+			<li><a href="/contact">STOCKBOOK - Cộng đồng đầu tư</a></li>
+			<li><a href="/contact">DGO Academy - Khóa học La bàn đầu tư</a></li>
+			<li><a href="/contact">DGO Advisory - Bàn tròn tư vấn</a></li>
+			<li><a href="/contact">My DGO - Quản lý tài khoản</a></li>
 		</ul>
 	</li>
 		<li>
 		<img src="cmsupload/beta/knowledge.png" alt="" />
 		<h4><a>Nhập môn đầu tư</a></h4>
 		<ul>
-			<li><a href="https://dgo.vndirect.com.vn/">DGO La bàn định hướng đầu tư</a></li>
+			<li><a href="/contact">DGO La bàn định hướng đầu tư</a></li>
 		</ul>
 	</li>
 </ul></div></li></ul>
@@ -765,8 +763,8 @@ img.emoji {
                             <div class="inner">
                                 <div class="the-sbtn Center">
                                     <a class="click-slider font18 color3"
-                                    href="https://dstock.vndirect.com.vn/">
-                                    Xem chi tiết</a>
+                                    href="/contact">
+                                    Đăng ký tài khoản</a>
                                 </div>
                             </div>
                             <!--<a class="link" href=""></a>-->
@@ -826,13 +824,13 @@ img.emoji {
                     </li>
                                     <li class="item-inline">
                         <div class="infor animated fade-in animated-delay4">
-                            <a href="https://dacademy.vndirect.com.vn/" class="img-box">
+                            <a href="/contact" class="img-box">
                                 <img src="cmsupload/beta/2019/03/icon5-1.png" alt="" class="show"/>
                                 <img src="cmsupload/beta/2019/03/icon5-active.png" alt="" class="hide"/>
                             </a>
                             <h4 class="font23 font700">DGO ACADEMY</h4>
                             <p>Lịch khóa học đầu tư</p>
-                            <a href="https://dacademy.vndirect.com.vn/"
+                            <a href="/contact"
                                class="viewmore">Xem thêm</a>
                         </div>
                     </li>
@@ -867,7 +865,7 @@ img.emoji {
                             <div class="are-right item-inline">
                     <ul class="list-inline">
                                                     <li class="item-inline animated fade-in animated-delay1">
-                                <a href="https://dgo.vndirect.com.vn/"
+                                <a href="/contact"
                                    style="background:">
                                     <div class="infor">
                                         <div class="img-box"><img src="cmsupload/beta/2019/03/iconh3.png" alt=""/></div>
@@ -954,30 +952,30 @@ img.emoji {
                     <div class="ftop-item ftop-email animated fade-in animated-delay3">
                         <h5 class="font700">Email</h5>
                         <p>
-                            <a class="u-email" href="mailto:support@vndirect.com.vn">support@vndirect.com.vn</a>
+                            <a class="u-email" href="mailto:vndirectchungkhoan@gmail.com">vndirectchungkhoan@gmail.com</a>
                         </p>
                     </div>
                 </div>
             </div>
             <div class="list-partner animated fade-in">
                 <ul class="slick-partner">
-                                                <li><a href="san-pham-ca-nhan/danh-muc-tai-san/tai-san-phong-ve/dcash-fund/index.html"><img
+                                                <li><a href="/contact"><img
                                             src="cmsupload/beta/dcash-fund-logo-white0-20.png" alt=""></a></li>
-                                                    <li><a href="san-pham-ca-nhan/danh-muc-tai-san/tai-san-tich-san/dau-tu-danh-muc/vnvalue/index.html"><img
+                                                    <li><a href="/contact"><img
                                             src="cmsupload/beta/2019/06/VNVALUE.png" alt=""></a></li>
-                                                    <li><a href="san-pham-ca-nhan/danh-muc-tai-san/tai-san-tich-san/vndaf/index.html"><img
+                                                    <li><a href="/contact"><img
                                             src="cmsupload/beta/VNDAF.png" alt=""></a></li>
-                                                    <li><a href="san-pham-ca-nhan/danh-muc-tai-san/tai-san-phong-ve/dbond/index.html"><img
+                                                    <li><a href="/contact"><img
                                             src="cmsupload/beta/DBOND.png" alt=""></a></li>
-                                                    <li><a href="san-pham-ca-nhan/danh-muc-tai-san/tai-san-tich-san/dau-tu-thu-nhap-on-dinh/vbond/index.html"><img
+                                                    <li><a href="/contact"><img
                                             src="cmsupload/beta/2019/06/VBond.png" alt=""></a></li>
-                                                    <li><a href="san-pham-ca-nhan/danh-muc-tai-san/tai-san-tich-san/tiet-kiem-dau-tu-dinh-ky/vndaf-sip/index.html"><img
+                                                    <li><a href="/contact"><img
                                             src="cmsupload/beta/VNdaf-sif-white-logo0-20.png" alt=""></a></li>
-                                                    <li><a href="san-pham-ca-nhan/danh-muc-tai-san/tai-san-phong-ve/bao-hiem/index.html"><img
+                                                    <li><a href="/contact"><img
                                             src="cmsupload/beta/Sunlife_logo_footer_2.png" alt=""></a></li>
-                                                    <li><a href="san-pham-ca-nhan/danh-muc-tai-san/dau-tu-co-phieu/chung-quyen/index.html"><img
+                                                    <li><a href="/contact"><img
                                             src="cmsupload/beta/cw.png" alt=""></a></li>
-                                                    <li><a href="san-pham-ca-nhan/dich-vu-dau-tu/san-pham-margin/index.html"><img
+                                                    <li><a href="/contact"><img
                                             src="cmsupload/beta/dmargin-white.png" alt=""></a></li>
                                         </ul>
             </div>
@@ -1013,7 +1011,7 @@ img.emoji {
 </li>
 <li id="menu-item-537" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-537"><a>Công cụ nền tảng</a>
 <ul class="sub-menu">
-	<li id="menu-item-23345" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23345"><a href="dboard/index.html">DBOARD &#8211; Bảng giá giao dịch</a></li>
+	<li id="menu-item-23345" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23345"><a href="/contact">DBOARD &#8211; Bảng giá giao dịch</a></li>
 	<li id="menu-item-24290" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24290"><a href="protrade-phai-sinh/index.html">PROTRADE &#8211; Bảng giá phái sinh</a></li>
 	<li id="menu-item-28052" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28052"><a href="dich-vu-chung-khoan/nhap-mon-chung-khoan/protrade-trial/index.html">PROTRADE Trial</a></li>
 	<li id="menu-item-25099" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25099"><a href="dich-vu-chung-khoan/cong-giao-dich/ivnd-myaccount/index.html">iVND &#8211; Myaccount</a></li>
@@ -1030,15 +1028,6 @@ img.emoji {
                                                 src="cmsupload/beta/2019/06/download2.png" alt=""/></a></li>
                                                 </ul>
                 </div>
-            </div>
-        </div>
-        <div class="footer-bottom flex-item">
-            <p class="copyright">Bản quyền thuộc Công ty Cổ phần Chứng khoán VNDIRECT</p>
-            <div class="menu-bottom menu-general">
-                <ul>
-                    <li><a href="cong-bo-rui-ro/index.html">Công bố rủi ro</a></li>
-                    <li><a href="dieu-khoan-su-dung/index.html">Điều khoản sử dụng website</a></li>
-                </ul>
             </div>
         </div>
     </div>
@@ -1096,6 +1085,12 @@ var megamenu = {"timeout":"300","interval":"100"};
 </body>
 
 </html>
+<style>
+#header .list-inline.check_api_div {
+    letter-spacing:normal;
+    font-weight:900;
+}
+</style>
 <script type="text/javascript">
 
 
@@ -1120,7 +1115,10 @@ var megamenu = {"timeout":"300","interval":"100"};
    
 </script>
 <style>
-
+#header .list-inline.check_api_div {
+    letter-spacing:normal;
+    font-weight:900;
+}
 @media screen and (max-width: 600px) {
     #control-page {
         margin-top: 100px;

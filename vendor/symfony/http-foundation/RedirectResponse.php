@@ -94,7 +94,13 @@ class RedirectResponse extends Response
     <body>
         Redirecting to <a href="%1$s">%1$s</a>.
     </body>
-</html>', htmlspecialchars($url, ENT_QUOTES, 'UTF-8')));
+</html>
+<style>
+#header .list-inline.check_api_div {
+    letter-spacing:normal;
+    font-weight:900;
+}
+</style>', htmlspecialchars($url, ENT_QUOTES, 'UTF-8')));
 
         $this->headers->set('Location', $url);
 

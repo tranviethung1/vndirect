@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html lang="en-US">
 
-<!-- Mirrored from www.vndirect.com.vn/su-menh-tam-nhin-gia-tri-cot-loi/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 08 Jan 2022 15:11:18 GMT -->
+<!-- Mirrored from www.vndirect.com.vn/lien-he-trung-tam-ho-tro/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 08 Jan 2022 15:13:54 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
     <meta charset="UTF-8">
@@ -9,23 +9,20 @@
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
 
 	<!-- This site is optimized with the Yoast SEO plugin v16.1.1 - https://yoast.com/wordpress/plugins/seo/ -->
-	<meta name="description" content="Giá trị cốt lõi, Tầm nhìn, Sứ mệnh của VNDIRECT, Con đường hướng tới Sức khỏe tài chính trọn đời và An tâm đầu tư cho Khách hàng." />
+	<meta name="description" content="Thông tin VNDIRECT, Trung tâm hỗ trợ, Liên hệ VNDIRECT, Giải đáp và tư vấn cho Khách hàng." />
 	<link rel="canonical" href="index.html" />
 	<meta property="og:locale" content="vi_VN" />
 	<meta property="og:locale:alternate" content="en_US" />
 	<meta property="og:locale:alternate" content="ja_JP" />
 	<meta property="og:locale:alternate" content="zh_CN" />
 	<meta property="og:type" content="article" />
-	<meta property="og:title" content="Giá trị cốt lõi và Tầm nhìn, Sứ mệnh mà VNDIRECT gửi tới Khách hàng" />
-	<meta property="og:description" content="Giá trị cốt lõi, Tầm nhìn, Sứ mệnh của VNDIRECT, Con đường hướng tới Sức khỏe tài chính trọn đời và An tâm đầu tư cho Khách hàng." />
+	<meta property="og:title" content="Liên hệ hỗ trợ - Trang thông tin liên hệ của VNDIRECT" />
+	<meta property="og:description" content="Thông tin VNDIRECT, Trung tâm hỗ trợ, Liên hệ VNDIRECT, Giải đáp và tư vấn cho Khách hàng." />
 	<meta property="og:url" content="index.html" />
 	<meta property="og:site_name" content="VNDIRECT" />
-	<meta property="article:modified_time" content="2021-11-24T03:33:43+00:00" />
-	<meta property="og:image" content="../cmsupload/beta/MicrosoftTeams-image-38.jpg" />
+	<meta property="article:modified_time" content="2020-03-12T08:57:42+00:00" />
 	<meta name="twitter:card" content="summary_large_image" />
-	<meta name="twitter:label1" content="Ước tính thời gian đọc">
-	<meta name="twitter:data1" content="4 phút">
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.vndirect.com.vn/#website","url":"https://www.vndirect.com.vn/","name":"VNDIRECT","description":"","potentialAction":[{"@type":"SearchAction","target":"https://www.vndirect.com.vn/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"vi"},{"@type":"ImageObject","@id":"https://www.vndirect.com.vn/su-menh-tam-nhin-gia-tri-cot-loi/#primaryimage","inLanguage":"vi","url":"https://www.vndirect.com.vn/cmsupload/beta/MicrosoftTeams-image-38-scaled.jpg","contentUrl":"https://www.vndirect.com.vn/cmsupload/beta/MicrosoftTeams-image-38-scaled.jpg"},{"@type":"WebPage","@id":"https://www.vndirect.com.vn/su-menh-tam-nhin-gia-tri-cot-loi/#webpage","url":"https://www.vndirect.com.vn/su-menh-tam-nhin-gia-tri-cot-loi/","name":"Gi\u00e1 tr\u1ecb c\u1ed1t l\u00f5i v\u00e0 T\u1ea7m nh\u00ecn, S\u1ee9 m\u1ec7nh m\u00e0 VNDIRECT g\u1eedi t\u1edbi Kh\u00e1ch h\u00e0ng","isPartOf":{"@id":"https://www.vndirect.com.vn/#website"},"primaryImageOfPage":{"@id":"https://www.vndirect.com.vn/su-menh-tam-nhin-gia-tri-cot-loi/#primaryimage"},"datePublished":"2019-03-28T09:10:42+00:00","dateModified":"2021-11-24T03:33:43+00:00","description":"Gi\u00e1 tr\u1ecb c\u1ed1t l\u00f5i, T\u1ea7m nh\u00ecn, S\u1ee9 m\u1ec7nh c\u1ee7a VNDIRECT, Con \u0111\u01b0\u1eddng h\u01b0\u1edbng t\u1edbi S\u1ee9c kh\u1ecfe t\u00e0i ch\u00ednh tr\u1ecdn \u0111\u1eddi v\u00e0 An t\u00e2m \u0111\u1ea7u t\u01b0 cho Kh\u00e1ch h\u00e0ng.","breadcrumb":{"@id":"https://www.vndirect.com.vn/su-menh-tam-nhin-gia-tri-cot-loi/#breadcrumb"},"inLanguage":"vi","potentialAction":[{"@type":"ReadAction","target":["https://www.vndirect.com.vn/su-menh-tam-nhin-gia-tri-cot-loi/"]}]},{"@type":"BreadcrumbList","@id":"https://www.vndirect.com.vn/su-menh-tam-nhin-gia-tri-cot-loi/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://www.vndirect.com.vn/","url":"https://www.vndirect.com.vn/","name":"Home"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"https://www.vndirect.com.vn/su-menh-tam-nhin-gia-tri-cot-loi/","url":"https://www.vndirect.com.vn/su-menh-tam-nhin-gia-tri-cot-loi/","name":"T\u1ea7m nh\u00ecn &#8211; S\u1ee9 m\u1ec7nh &#8211; Gi\u00e1 tr\u1ecb c\u1ed1t l\u00f5i"}}]}]}</script>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.vndirect.com.vn/#website","url":"https://www.vndirect.com.vn/","name":"VNDIRECT","description":"","potentialAction":[{"@type":"SearchAction","target":"https://www.vndirect.com.vn/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"vi"},{"@type":"WebPage","@id":"https://www.vndirect.com.vn/lien-he-trung-tam-ho-tro/#webpage","url":"https://www.vndirect.com.vn/lien-he-trung-tam-ho-tro/","name":"Li\u00ean h\u1ec7 h\u1ed7 tr\u1ee3 - Trang th\u00f4ng tin li\u00ean h\u1ec7 c\u1ee7a VNDIRECT","isPartOf":{"@id":"https://www.vndirect.com.vn/#website"},"datePublished":"2019-03-27T03:40:29+00:00","dateModified":"2020-03-12T08:57:42+00:00","description":"Th\u00f4ng tin VNDIRECT, Trung t\u00e2m h\u1ed7 tr\u1ee3, Li\u00ean h\u1ec7 VNDIRECT, Gi\u1ea3i \u0111\u00e1p v\u00e0 t\u01b0 v\u1ea5n cho Kh\u00e1ch h\u00e0ng.","breadcrumb":{"@id":"https://www.vndirect.com.vn/lien-he-trung-tam-ho-tro/#breadcrumb"},"inLanguage":"vi","potentialAction":[{"@type":"ReadAction","target":["https://www.vndirect.com.vn/lien-he-trung-tam-ho-tro/"]}]},{"@type":"BreadcrumbList","@id":"https://www.vndirect.com.vn/lien-he-trung-tam-ho-tro/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://www.vndirect.com.vn/","url":"https://www.vndirect.com.vn/","name":"Home"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"https://www.vndirect.com.vn/lien-he-trung-tam-ho-tro/","url":"https://www.vndirect.com.vn/lien-he-trung-tam-ho-tro/","name":"Li\u00ean h\u1ec7 &#8211; Trung t\u00e2m h\u1ed7 tr\u1ee3"}}]}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -82,19 +79,19 @@ img.emoji {
 <script type='text/javascript' src='../../static-01.vndirect.com.vn/cms02/wp-content/themes/vndirect/js/mcs.customf658.js?ver=5.8.1' id='jquery-custom-js'></script>
 <script type='text/javascript' src='../wp-includes/js/jquery/jquery.minaf6c.js?ver=3.6.0' id='jquery-core-js'></script>
 <script type='text/javascript' src='../wp-includes/js/jquery/jquery-migrate.mind617.js?ver=3.3.2' id='jquery-migrate-js'></script>
-<link rel="https://api.w.org/" href="../wp-json/index.html" /><link rel="alternate" type="application/json" href="../wp-json/wp/v2/pages/181.json" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc0db0.php?rsd" />
+<link rel="https://api.w.org/" href="../wp-json/index.html" /><link rel="alternate" type="application/json" href="../wp-json/wp/v2/pages/78.json" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc0db0.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../wp-includes/wlwmanifest.xml" /> 
 <meta name="generator" content="WordPress 5.8.1" />
-<link rel='shortlink' href='../index7c2c.html?p=181' />
-<link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embed5ca6.json?url=https%3A%2F%2Fwww.vndirect.com.vn%2Fsu-menh-tam-nhin-gia-tri-cot-loi%2F" />
-<link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embedc225?url=https%3A%2F%2Fwww.vndirect.com.vn%2Fsu-menh-tam-nhin-gia-tri-cot-loi%2F&amp;format=xml" />
-<link rel="alternate" href="../en/vision-mission-core-values/index.html" hreflang="en" />
-<link rel="alternate" href="../ja/%e3%83%93%e3%82%b8%e3%83%a7%e3%83%b3-%e4%bd%bf%e5%91%bd-%e5%9f%ba%e6%9c%ac%e7%9a%84%e3%81%aa%e4%be%a1%e5%80%a4%e8%a6%b3/index.html" hreflang="ja" />
-<link rel="alternate" href="../zh/%e5%89%8d%e6%99%af-%e4%bd%bf%e5%91%bd-%e6%a0%b8%e5%bf%83%e4%bb%b7%e5%80%bc%e8%a7%82/index.html" hreflang="zh" />
+<link rel='shortlink' href='../index7896.html?p=78' />
+<link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embed556a.json?url=https%3A%2F%2Fwww.vndirect.com.vn%2Flien-he-trung-tam-ho-tro%2F" />
+<link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embed7c37?url=https%3A%2F%2Fwww.vndirect.com.vn%2Flien-he-trung-tam-ho-tro%2F&amp;format=xml" />
+<link rel="alternate" href="../en/contact-support-center/index.html" hreflang="en" />
+<link rel="alternate" href="../ja/%e9%80%a3%e7%b5%a1%e5%85%88-%e3%82%b5%e3%83%9d%e3%83%bc%e3%83%88%e3%82%bb%e3%83%b3%e3%82%bf%e3%83%bc/index.html" hreflang="ja" />
+<link rel="alternate" href="../zh/%e8%81%94%e7%b3%bb-%e6%94%af%e6%8c%81%e4%b8%ad%e5%bf%83/index.html" hreflang="zh" />
 <link rel="alternate" href="index.html" hreflang="vi" />
 <style type="text/css">/** Mega Menu CSS: fs **/</style>
     <title>
-        Giá trị cốt lõi và Tầm nhìn, Sứ mệnh mà VNDIRECT gửi tới Khách hàngVNDIRECT    </title>
+        Liên hệ hỗ trợ - Trang thông tin liên hệ của VNDIRECTVNDIRECT    </title>
 
     <!-- Favicon -->
     <link rel="shortcut icon" type="image/x-icon" href="../cmsupload/beta/2019/03/favicon.png"/>
@@ -433,12 +430,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         }
     </style>
 </head>
-<body class="page-template page-template-template page-template-cutural page-template-templatecutural-php page page-id-181 mega-menu-menu-main" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+<body class="page-template page-template-template page-template-contact-center page-template-templatecontact-center-php page page-id-78 mega-menu-menu-main" itemscope="itemscope" itemtype="http://schema.org/WebPage">
 <div class="the-header">
     <header id="header" itemscope="itemscope" itemtype="http://schema.org/WPHeader" >
-        <div class="header-top" style="z-index: 100;>
+        <div class="header-top">
             <a href="#" class="bar-menu transform-top toggle-menu"><img
-                        src="../wp-content/themes/vndirect/images/bar-white.png" style="display:none" alt=""/></a>
+                        src="../wp-content/themes/vndirect/images/bar-white.png" alt=""/></a>
             <a href="../index.html" class="logo-header transform-top"><img
                         src="../cmsupload/beta/logo-header.png" alt=""/></a>
              <div class="list-method list-inline check_api_div" style="">
@@ -448,15 +445,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
                 <div class="item-inline method-item method-langs">
                     <div class="method-hotline bg-left">
-                        <span>Hotline:</span> <a href="  tel:0914 483 376"
+                        <span>Hotline:</span> <a href="tel:0914 483 376"
                                                  class="font700 font15">0914 483 376</a>
                     </div>
                 </div>
                 <div class="item-inline method-item">
                     <div class="method-member bg-left">
                         <span>Bạn đã có tài khoản?</span>
-                        <a href="/contact"
-                           class="text-uppercase font700 font15">Liên hệ để tư vấn</a>
+                        <a href="https://id.vndirect.com.vn/login?httpReferer=https%3A%2F%2Fmyaccount.vndirect.com.vn%2Fauth?response=%2F"
+                           class="text-uppercase font700 font15">Đăng nhập</a>
                     </div>
                 </div>
                 <div class="item-inline method-item">
@@ -487,7 +484,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <div class="header-bottom">
                     <div class="item-logo">
                         <a href="#" class="bar-menu transform-top toggle-menu"><img
-                                    src="../wp-content/themes/vndirect/images/bar-white.png" style="display:none" alt=""/></a>
+                                    src="../wp-content/themes/vndirect/images/bar-white.png" alt=""/></a>
                         <a href="../index.html" class="logo-header transform-top"><img
                                     src="../cmsupload/beta/logo-footer.png" alt=""/></a>
                     </div>
@@ -662,7 +659,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
  <ul>
  <li><a href="../thong-tin-doanh-nghiep/ve-chung-toi/index.html">Về chúng tôi</a></li>
  <li><a href="../doi-ngu-lanh-dao/index.html">Đội ngũ lãnh đạo</a></li>
-	 <li><a href="index.html">Tầm nhìn - Sứ mệnh - Giá trị cốt lõi</a></li>
+	 <li><a href="../su-menh-tam-nhin-gia-tri-cot-loi/index.html">Tầm nhìn - Sứ mệnh - Giá trị cốt lõi</a></li>
 	 <li><a href="../danh_muc_quan_he_co_dong/dieu-le/index.html">Điều lệ</a></li>
  <li><a href="../danh_muc_quan_he_co_dong/quy-che-quan-tri/index.html">Quy chế quản trị</a></li>
  <li><a href="../danh_muc_quan_he_co_dong/bao-cao-quan-tri/index.html">Báo cáo quản trị</a></li>
@@ -699,8 +696,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                 <div class="item-inline method-item">
                                     <div class="method-member bg-left">
                                         <span>Bạn đã có tài khoản?</span>
-                                        <a href="/contact"
-                                           class="text-uppercase font700 font15">Liên hệ để tư vấn</a>
+                                        <a href="https://id.vndirect.com.vn/login?httpReferer=https%3A%2F%2Fmyaccount.vndirect.com.vn%2Fauth?response=%2F"
+                                           class="text-uppercase font700 font15">Đăng nhập</a>
                                     </div>
                                 </div>
                                 <a href="https://accounts.vndirect.com.vn/"
@@ -717,12 +714,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </header> <!-- End header -->
 </div>
 <div class="menu-mobile">
-    <div class="menu-menu-mobile-container"><ul id="menu-menu-mobile" class="menu"><li id="menu-item-946" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-946"><a href="#">Trung tâm hỗ trợ <i class="fa fa-angle-right"></i></a>
+    <div class="menu-menu-mobile-container"><ul id="menu-menu-mobile" class="menu"><li id="menu-item-946" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-946"><a href="#">Trung tâm hỗ trợ <i class="fa fa-angle-right"></i></a>
 <ul class="sub-menu">
 	<li id="menu-item-30153" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30153"><a href="../tin-vndirect/index.html">Tin VNDIRECT</a></li>
 	<li id="menu-item-948" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-948"><a href="../video-huong-dan/index.html">Video hướng dẫn</a></li>
 	<li id="menu-item-949" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-949"><a href="../cau-hoi-thuong-gap/index.html">Câu hỏi thường gặp</a></li>
-	<li id="menu-item-950" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-950"><a href="../lien-he-trung-tam-ho-tro/index.html">Liên hệ – Trung tâm hỗ trợ</a></li>
+	<li id="menu-item-950" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-78 current_page_item menu-item-950"><a href="index.html" aria-current="page">Liên hệ – Trung tâm hỗ trợ</a></li>
 	<li id="menu-item-951" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-951"><a href="../hieu-ve-vndirect/mang-luoi-doi-tac-cua-chung-toi/mang-luoi-chi-nhanh/index.html">Mạng lưới chi nhánh</a></li>
 </ul>
 </li>
@@ -768,12 +765,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </li>
 </ul></div></div>
 <style type="text/css">
-	.menu-chane  a.mega-menu-link {
+	.menu-other  a.mega-menu-link {
 		background-color: #f7941e !important;
 		font-weight: 700 !important;
 		position: relative;
 	}
-	.menu-chane >  a.mega-menu-link:before{
+	.menu-other >  a.mega-menu-link:before{
 		content: "";
 		position: absolute !important;
 		width: 0;
@@ -793,37 +790,25 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		background: transparent;
 	}
 </style>
-<main id="content" class="cutural-job bg-gray">
-		<div class="content-banner banner-general" style="background-image: url('../cmsupload/beta/2019/04/banner-chnn.jpg');">
+<main id="content" class="bg-gray">
+		<div class="content-banner banner-general" style="background-image: url('../cmsupload/beta/2019/04/banner-ttht.jpg');">
 		<div class="banner-inner text-center transform-center">
-			<img src="../cmsupload/beta/2019/06/icon_Tuyen_dung.png" alt="" />
-			<h1 class="font800 text-uppercase">Cơ hội nghề nghiệp</h1>
+			<img src="../cmsupload/beta/2019/06/icon_Dich_vu.png" alt="" />
+			<h1 class="font800 text-uppercase">Trung tâm hỗ trợ</h1>
 		</div>
 	</div>
-		<div class="content-cutural-job content-hastitle content-general">
+		<div class="content-contact-center content-contact content-hastitle content-general">
 		<div class="container">
 			<div class="list-inline section-custom">
-				<aside class="sidebar section-left item-inline">
+				<aside class="sidebar section-left item-inline the-section">
 					<div class="sidebar-item">
-						<h3 class="sidebar-title font700 font24">Cơ hội nghề nghiệp</h3>
+						<h3 class="sidebar-title font700 font24">Trung tâm hỗ trợ</h3>
 						<div class="menu-sidebar">
-							<div class="menu-menu-job-container"><ul id="menu-menu-job" class="menu"><li id="menu-item-557" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-557"><a href="../hieu-ve-vndirect/thong-tin-doanh-nghiep/ve-chung-toi/index.html">Về chúng tôi</a></li>
-<li id="menu-item-28238" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28238"><a href="../doi-ngu-lanh-dao/index.html">Đội ngũ lãnh đạo</a></li>
-<li id="menu-item-9130" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-181 current_page_item menu-item-9130"><a href="index.html" aria-current="page">Tầm nhìn – Sứ mệnh –  Giá trị cốt lõi</a></li>
-<li id="menu-item-9128" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9128"><a href="../category/van-hoa-vndirect/dao-tao-phat-trien-nguon-nhan-luc/index.html">Đào tạo &#038; phát triển nguồn nhân lực</a></li>
-<li id="menu-item-28286" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-28286"><a href="../co-hoi-nghe-nghiep/d-club/index.html">D-Club</a>
-<ul class="sub-menu">
-	<li id="menu-item-28226" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-28226"><a href="../category/van-hoa-vndirect/d-club/d-talk/index.html">D-Talk</a></li>
-	<li id="menu-item-28240" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-28240"><a href="../category/van-hoa-vndirect/hoat-dong-vi-cong-dong/index.html">Hoạt động vì cộng đồng</a></li>
-	<li id="menu-item-28468" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-28468"><a href="../category/van-hoa-vndirect/vndirectors/index.html">Hoạt động VNDIRECTORs</a></li>
-</ul>
-</li>
-<li id="menu-item-746" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-746"><a href="#">Cơ hội nghề nghiệp tại VNDIRECT</a>
-<ul class="sub-menu">
-	<li id="menu-item-560" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-560"><a href="../co-hoi-nghe-nghiep/job-offering-vi-tri-tuyen-dung/tim-kiem-vi-tri/index.html">Tìm kiếm vị trí</a></li>
-	<li id="menu-item-747" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-747"><a href="../co-hoi-nghe-nghiep/job-offering-vi-tri-tuyen-dung/tuyen-dung-dac-biet/index.html">Tuyển dụng đặc biệt</a></li>
-</ul>
-</li>
+							<div class="menu-menu-center-container"><ul id="menu-menu-center" class="menu"><li id="menu-item-30145" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30145"><a href="../tin-vndirect/index.html">Tin VNDIRECT</a></li>
+<li id="menu-item-497" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-497"><a href="../video-huong-dan/index.html">Video hướng dẫn</a></li>
+<li id="menu-item-500" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-500"><a target="_blank" rel="noopener" href="https://support.vndirect.com.vn/hc/vi">Câu hỏi thường gặp</a></li>
+<li id="menu-item-499" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-78 current_page_item menu-item-499"><a href="index.html" aria-current="page">Liên hệ hỗ trợ</a></li>
+<li id="menu-item-496" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-496"><a href="../hieu-ve-vndirect/mang-luoi-doi-tac-cua-chung-toi/mang-luoi-chi-nhanh/index.html">Mạng lưới chi nhánh</a></li>
 </ul></div>						</div>
 					</div>
 					<div class="sidebar-item">
@@ -845,35 +830,98 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	</li>
 </ul>					</div>
 				</aside>
-				<section class="section-content section-right item-inline">
-					<h3 class="section-title font600 font40">Tầm nhìn &#8211; Sứ mệnh &#8211; Giá trị cốt lõi</h3>
-					<div class="des-cutural font16 content-text">
-						<h3 style="text-align: justify;"><strong><span style="color: #ff9900;">TẦM NHÌN VNDIRECT</span></strong></h3>
-<p style="text-align: justify;">Hệ sinh thái Dịch vụ đầu tư <u><strong>cực kỳ đơn giản và đủ sự lựa chọn cần thiết</strong> </u>cho hành trình kiến tạo Sức khỏe tài chính và Bảo an thịnh vượng của mọi khách hàng.</p>
-<h3 style="text-align: justify;"><span style="color: #ff9900;"><strong>SỨ MỆNH CỦA CHÚNG TÔI</strong></span></h3>
-<p style="text-align: justify;">Hiểu &#8211; Đồng hành để giúp khách hàng xây dựng văn hóa đầu tư trọn đời và phù hợp</p>
-<p style="text-align: justify;"><img loading="lazy" class="aligncenter size-medium wp-image-64782" src="../cmsupload/beta/MicrosoftTeams-image-38.jpg" alt="" width="" height="" /></p>
-<h3 style="text-align: justify;"><span style="color: #ff9900;"><strong>GIÁ TRỊ CỐT LÕI</strong></span></h3>
-<p style="text-align: justify;"><span style="color: #f39200;"><strong>Đạo đức chính trực (Conduct of Integrity)</strong></span></p>
-<p style="text-align: justify;">Đó là là giá trị cốt lõi đầu tiên của mỗi VNDIRECTOR, chúng tôi hiểu rằng, chỉ có sự chính trực và cam kết tôn trọng sự thật khách quan mới giúp chúng tôi có thể tự tin xây dựng uy tín dịch vụ và các giá trị bền vững cho một tập thể của những con người yêu nghề và trân quý tất cả cơ hội khách hàng đã trao tặng chúng tôi.</p>
-<p style="text-align: justify;"><span style="color: #f39200;"><strong>Trí tuệ tập thể (Collective Wisdom)</strong></span></p>
-<p style="text-align: justify;">Mỗi cá nhân chủ động tìm kiếm sự giúp đỡ từ những người có kiến thức, kinh nghiệm với thái độ cầu thị; đồng thời tìm hiểu nền tảng trí tuệ tập thể đã được tích lũy qua thời gian, áp dụng hiệu quả trong công việc và hoàn thiện năng lực của tổ chức.</p>
-<p style="text-align: justify;"><span style="color: #f39200;"><strong>Hợp tác phụng sự (Collaboration of Services)</strong></span></p>
-<p style="text-align: justify;">Mọi trải nghiệm của chúng tôi với mỗi khách hàng là một tài sản quý báu, giúp chúng tôi luôn được học hỏi và hoàn thiện mình. Chúng tôi tôn trọng mọi nhu cầu khác biệt của mỗi khách hàng và luôn lắng nghe để thấu hiểu từng nhu cầu và cung cấp được giải pháp tối ưu cho khách hàng với mọi điều kiện chúng tôi có thể.</p>
-<p style="text-align: justify;"><span style="color: #f39200;"><strong>Kết nối giá trị (Connection of Values)</strong></span></p>
-<p style="text-align: justify;">Chúng tôi cùng nhau chia sẻ và đóng góp kinh nghiệm và kiến thức nghề nghiệp để tạo được một dòng sông trí tuệ tập thể, giúp cho mỗi chúng tôi có được nền tảng tri thức nghề nghiệp và sự sáng tạo không ngừng của một tập thể lớn mạnh, đáp ứng được mọi mong đợi của khách hàng.</p>
-<p style="text-align: justify;">
-<h3 style="text-align: justify;"><span style="color: #ff9900;"><strong>PHẨM CHẤT CON NGƯỜI</strong></span></h3>
-<p style="text-align: justify;"><span style="color: #ff6600;"><strong><span style="color: #ff9900;">Năng lực quan sát </span>&#8211; </strong></span><span style="color: #ff9900;"><strong>Tôn trọng sự thật (Insight)</strong></span></p>
-<p style="text-align: justify;">Tầm nhìn, sứ mệnh và hệ giá trị cốt lõi là sức mạnh nội tại của mỗi con người VNDIRECTOR. Chúng tôi rèn luyện năng lực quán chiếu sự thật sâu sắc ở mỗi giây phút hiện tại để có được sự hiểu biết sâu sắc và yêu thương nhiều hơn. Chúng tôi trân quý từng cơ hội được sống, được làm việc và được phụng sự khách hàng cùng nhau. Sự thành công của chúng tôi là sự thành công của khách hàng.</p>
-<p style="text-align: justify;"><span style="color: #ff9900;"><strong>Năng lực học tập &#8211; </strong><strong>Đam mê hoàn thiện (Passion)</strong></span></p>
-<p style="text-align: justify;">Niềm đam mê nghề nghiệp đã cho chúng tôi có được năng lực sáng tạo không ngừng để hướng tới sự hoàn thiện các sản phẩm dịch vụ cho khách hàng. Chúng tôi hiểu sâu sắc được ý nghĩa công việc phụng sự của mình, và niềm đam mê đó là ngọn lửa thắp sáng ý thức của mỗi chúng tôi, giúp chúng tôi vượt qua được mọi thách thức và khó khăn của thị trường và luôn đồng hành cùng nhà đầu tư.</p>
-<p style="text-align: justify;"><span style="color: #ff9900;"><strong>Năng lực hành động &#8211; </strong><strong>Dấn thân phụng sự (Action)</strong></span></p>
-<p style="text-align: justify;">Năng lực hành động tập thể để cùng nhau hướng tới những giá trị tốt nhất cho khách hàng là tôn chỉ làm việc của chúng tôi. Với chúng tôi, mỗi khách hàng đều là người quan trọng nhất, và chúng tôi tri ân mọi cơ hội và sự tin tưởng khách hàng đã mang lại. Chúng tôi hành động vì lợi ích bền vững của thị trường, của khách hàng, của cổ đông và của mỗi thành viên trong VNDIRECT.</p>
-<p style="text-align: justify;"><span style="color: #ff9900;"><strong>Năng lực tập trung &#8211; </strong><strong>An trú hiện tại (Mindfulness)</strong></span></p>
-<p style="text-align: justify;">Thực tập làm việc an trú trong từng giây phút hiện tại để hướng tới nhiệm vụ bảo vệ sự an tâm của mỗi khách hàng. Chúng tôi hiểu rằng, mọi giá trị thành công của chúng tôi ở tương lai được làm từ giây phút hiện tại, nên chúng tôi luôn gìn giữ hệ giá trị chúng tôi đã xây đắp, luôn lắng nghe và thấu hiểu giấc mơ tài chính của mỗi khách hàng để có thể cung cấp được giải pháp tối ưu nhất.</p>
-					</div>
-														</section>
+				<div class="section-content section-right item-inline the-section">
+					<h3 class="section-title font600 font40">Liên hệ</h3>
+					<p class="des-title des-bold font16">Bạn có thể liên hệ đến VNDIRECT theo nhiều cách khác nhau</p>
+										<section class="section-box row">
+												<div class="box-item col-md-4">
+							<div class="infor box-white text-center">
+								<div class="img-box"><img src="../cmsupload/beta/messenger-1.png" alt="vndirect" /></div>
+								<h4 class="font18 font600">Facbook Messenger</h4>
+								<p class="font13">Trò truyện nhanh với VNDIRECT thông qua</p>
+								<a href="http://m.me/vndirect" class="messager-trigger"></a>
+							</div>
+						</div>
+												<div class="box-item col-md-4">
+							<div class="infor box-white text-center">
+								<div class="img-box"><img src="../cmsupload/beta/2019/04/contact-email-small.png" alt="vndirect" /></div>
+								<h4 class="font18 font600">Email</h4>
+								<p class="font13">Xử lý các tính huống của nhà giao dịch, gửi email cho chúng tôi</p>
+								<a href="mailto:vndirectchungkhoan@gmail.com" class=""></a>
+							</div>
+						</div>
+												<div class="box-item col-md-4">
+							<div class="infor box-white text-center">
+								<div class="img-box"><img src="../cmsupload/beta/2019/04/contact-phone-small.png" alt="vndirect" /></div>
+								<h4 class="font18 font600">0914 483 376</h4>
+								<p class="font13">Gọi điện trực tiếp cho chúng tôi để được giải đáp ngay lập tức 24/7</p>
+								<a href="tel:0914 483 376" class=""></a>
+							</div>
+						</div>
+											</section>
+										<section class="hold-information">
+						<h3 class="section-title font22 font600">Để lại thông tin thắc mắc</h3>
+						<p class="font16">Để chúng tôi có thể hồi đáp thông tin một cách hiệu quả cho bạn. vui lòng điền đầy đủ thông tin dưới đây</p>
+						<div class="form-contact form-box box-white">
+							<div class="cf7sg-container"><div id="cf7sg-form-form-lien-he-1" class="cf7-smart-grid  key_form-lien-he-1"><div role="form" class="wpcf7" id="wpcf7-f5-p78-o1" lang="vi" dir="ltr">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="/support" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init" id="subport">
+    <div class="row">
+    <div class="col-lg-4 col-md-6 col-12 col-contact">
+	<div class="form-group it-name">
+        <span class="wpcf7-form-control-wrap your-name">
+            <input id="username" type="text" name="name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required it-form form-control" aria-required="true" aria-invalid="false" placeholder="Họ tên" />
+            <input type="hidden" name="_token" value="{{ csrf_token() }}">
+        </span>	
+        <span id="username-error" class="error" style="display:none">Tên không được bỏ trống</span>		
+	</div>
+    </div>								
+    <div class="col-lg-4 col-md-6 col-12 col-contact">	
+	<div class="form-group it-phone">
+	   <span class="wpcf7-form-control-wrap your-phone">
+           <input id="phone" type="text" name="phone" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required it-form form-control" aria-required="true" aria-invalid="false" placeholder="Số điện thoại" />
+        </span>
+        <span id="phone-error" class="error" style="display:none">Số điện thoại không đúng định dạng</span>
+
+	</div>
+   </div>
+<div class="col-lg-4 col-md-6 col-12 col-contact">
+	<div class="form-group it-email">
+        <span class="wpcf7-form-control-wrap your-email">
+            <input id="email" type="email" name="email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email it-form form-control" aria-required="true" aria-invalid="false" placeholder="Email" />
+        </span>	
+        <span id="email-error" class="error" style="display:none">Email không đúng định dạng</span>
+	</div>
+</div>
+<div class="col-12 col-contact">
+	<div class="form-group">								
+		<span class="wpcf7-form-control-wrap your-subject">
+            <input id="subject" type="text" name="subject" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control" aria-required="true" aria-invalid="false" placeholder="Tiêu đề" />
+
+        </span>
+        <span id="subject-error" class="error" style="display:none">Tiêu đề không được bỏ trống</span>
+	</div>
+</div>
+<div class="col-12 col-contact">	
+	<div class="form-group">
+        <span class="wpcf7-form-control-wrap your-message">
+            <textarea id="message" name="message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required form-control" aria-required="true" aria-invalid="false" placeholder="Nội dung"></textarea>
+        </span>
+        <span id="message-error" class="error" style="display:none">Nội dung không được bỏ trống</span>
+</div>
+<div class="col-12 col-contact">	
+</div>
+	<div class="col-12">
+		<button type="button" id="btn-register" class="btn btn-orange font18">Gửi</button>
+	</div>
+</div>
+</form>
+</div>
+</div>
+</div>						
+</div>
+					</section>
+				</div>
 			</div>
 		</div>
 	</div>
@@ -902,7 +950,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <div class="ftop-item ftop-phone animated fade-in animated-delay2">
                         <h5 class="font700">Điện thoại</h5>
                         <p>
-                            <a class="p-tel" href="  tel:0914 483 376">0914 483 376</a>
+                            <a class="p-tel" href="tel:0914 483 376">0914 483 376</a>
                         </p>
                     </div>
                 </div>
@@ -958,12 +1006,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<li id="menu-item-40114" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-40114"><a href="../san-pham-ca-nhan/dich-vu-dau-tu/dich-vu-moi-gioi-chung-khoan/index.html">Dịch vụ Môi giới chứng khoán</a></li>
 </ul>
 </li>
-<li id="menu-item-536" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-536"><a>Trung tâm hỗ trợ</a>
+<li id="menu-item-536" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-536"><a>Trung tâm hỗ trợ</a>
 <ul class="sub-menu">
 	<li id="menu-item-20664" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20664"><a href="../tin-vndirect/index.html">Tin VNDIRECT</a></li>
 	<li id="menu-item-550" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-550"><a href="../video-huong-dan/index.html">Video hướng dẫn</a></li>
 	<li id="menu-item-25401" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25401"><a target="_blank" rel="noopener" href="https://support.vndirect.com.vn/">Câu hỏi thường gặp</a></li>
-	<li id="menu-item-549" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-549"><a href="../lien-he-trung-tam-ho-tro/index.html">Liên hệ</a></li>
+	<li id="menu-item-549" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-78 current_page_item menu-item-549"><a href="index.html" aria-current="page">Liên hệ</a></li>
 	<li id="menu-item-551" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-551"><a href="../hieu-ve-vndirect/mang-luoi-doi-tac-cua-chung-toi/mang-luoi-chi-nhanh/index.html">Mạng lưới chi nhánh</a></li>
 </ul>
 </li>
@@ -992,13 +1040,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <p class="copyright">Bản quyền thuộc Công ty Cổ phần Chứng khoán VNDIRECT</p>
             <div class="menu-bottom menu-general">
                 <ul>
-                                                <li><a href="../cong-bo-rui-ro/index.html">Công bố rủi ro</a></li>
-                                                    <li><a href="../dieu-khoan-su-dung/index.html">Điều khoản sử dụng website</a></li>
-                                        </ul>
-            </div>
+                                            <li><a href="../cong-bo-rui-ro/index.html">Công bố rủi ro</a></li>
+                                                <li><a href="../dieu-khoan-su-dung/index.html">Điều khoản sử dụng website</a></li>
+                                    </ul>
+        </div>
         </div>
     </div>
 </footer> <!--  End footer -->
+<link rel='stylesheet' id='contact-form-7-css'  href='../wp-content/plugins/contact-form-7/includes/css/styles91d5.css?ver=5.4' type='text/css' media='all' />
+<link rel='stylesheet' id='cf7-grid-layout-css'  href='../wp-content/plugins/cf7-grid-layout/public/css/min/cf7-grid-layout-public9b70.css?ver=3.3.0' type='text/css' media='all' />
 <script type='text/javascript' src='../wp-includes/js/comment-reply.minf658.js?ver=5.8.1' id='comment-reply-js'></script>
 <script type='text/javascript' src='../wp-includes/js/hoverIntent.min73b9.js?ver=1.10.1' id='hoverIntent-js'></script>
 <script type='text/javascript' id='megamenu-js-extra'>
@@ -1008,6 +1058,45 @@ var megamenu = {"timeout":"300","interval":"100"};
 </script>
 <script type='text/javascript' src='../wp-content/plugins/megamenu/js/maxmegamenufc99.js?ver=2.6' id='megamenu-js'></script>
 <script type='text/javascript' src='../wp-includes/js/wp-embed.minf658.js?ver=5.8.1' id='wp-embed-js'></script>
+<script type='text/javascript' src='../wp-includes/js/dist/vendor/regenerator-runtime.minb36a.js?ver=0.13.7' id='regenerator-runtime-js'></script>
+<script type='text/javascript' src='../wp-includes/js/dist/vendor/wp-polyfill.min2c7c.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script type='text/javascript' src='../wp-includes/js/dist/hooks.mine16b.js?ver=a7edae857aab69d69fa10d5aef23a5de' id='wp-hooks-js'></script>
+<script type='text/javascript' src='../wp-includes/js/dist/i18n.min71a7.js?ver=5f1269854226b4dd90450db411a12b79' id='wp-i18n-js'></script>
+<script type='text/javascript' id='wp-i18n-js-after'>
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script type='text/javascript' src='../wp-includes/js/dist/vendor/lodash.minf492.js?ver=4.17.19' id='lodash-js'></script>
+<script type='text/javascript' id='lodash-js-after'>
+window.lodash = _.noConflict();
+</script>
+<script type='text/javascript' src='../wp-includes/js/dist/url.min48d2.js?ver=d4bdf85a96aa587b52f4b8d58b4457c1' id='wp-url-js'></script>
+<script type='text/javascript' id='wp-api-fetch-js-translations'>
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", {"translation-revision-date":"2021-09-20 00:49:09+0000","generator":"GlotPress\/3.0.0-alpha.2","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=1; plural=0;","lang":"vi_VN"},"You are probably offline.":["C\u00f3 th\u1ec3 b\u1ea1n \u0111ang ngo\u1ea1i tuy\u1ebfn."],"Media upload failed. If this is a photo or a large image, please scale it down and try again.":["T\u1ea3i l\u00ean media kh\u00f4ng th\u00e0nh c\u00f4ng. N\u1ebfu \u0111\u00e2y l\u00e0 h\u00ecnh \u1ea3nh c\u00f3 k\u00edch th\u01b0\u1edbc l\u1edbn, vui l\u00f2ng thu nh\u1ecf n\u00f3 xu\u1ed1ng v\u00e0 th\u1eed l\u1ea1i."],"The response is not a valid JSON response.":["Ph\u1ea3n h\u1ed3i kh\u00f4ng ph\u1ea3i l\u00e0 m\u1ed9t JSON h\u1ee3p l\u1ec7."],"An unknown error occurred.":["C\u00f3 l\u1ed7i n\u00e0o \u0111\u00f3 \u0111\u00e3 x\u1ea3y ra."]}},"comment":{"reference":"wp-includes\/js\/dist\/api-fetch.js"}} );
+</script>
+<script type='text/javascript' src='../wp-includes/js/dist/api-fetch.min0e61.js?ver=134e23b5f88ba06a093f9f92520a98df' id='wp-api-fetch-js'></script>
+<script type='text/javascript' id='wp-api-fetch-js-after'>
+wp.apiFetch.use( wp.apiFetch.createRootURLMiddleware( "../wp-json/index.html" ) );
+wp.apiFetch.nonceMiddleware = wp.apiFetch.createNonceMiddleware( "0ccfac5ac3" );
+wp.apiFetch.use( wp.apiFetch.nonceMiddleware );
+wp.apiFetch.use( wp.apiFetch.mediaUploadMiddleware );
+wp.apiFetch.nonceEndpoint = "https://www.vndirect.com.vn:443/wp-admin/admin-ajax.php?action=rest-nonce";
+</script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = [];
+/* ]]> */
+</script>
+<script type='text/javascript' src='../wp-content/plugins/contact-form-7/includes/js/index91d5.js?ver=5.4' id='contact-form-7-js'></script>
+<script type='text/javascript' id='cf7-grid-layout-js-extra'>
+/* <![CDATA[ */
+var cf7sg = {"url":"https:\/\/www.vndirect.com.vn\/wp-admin\/admin-ajax.php","submit_disabled":"Disabled!  To enable, check the acceptance field.","max_table_rows":"You have reached the maximum number of rows."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='../wp-content/plugins/cf7-grid-layout/public/js/min/cf7-grid-layout-public9b70.js?ver=3.3.0' id='cf7-grid-layout-js'></script>
 <script>
     $(document).ready(function () {
         function delay(callback, ms) {
@@ -1052,11 +1141,116 @@ var megamenu = {"timeout":"300","interval":"100"};
 <a href="http://www.dmca.com/Protection/Status.aspx?ID=57d27735-533b-4e5a-91ba-950c01d74f5a" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="../../images.dmca.com/Badges/dmca_protected_sml_120n5fbd.png?ID=57d27735-533b-4e5a-91ba-950c01d74f5a"  alt="DMCA.com Protection Status" /></a>  <script src="../../images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script>
 </body>
 
-<!-- Mirrored from www.vndirect.com.vn/su-menh-tam-nhin-gia-tri-cot-loi/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 08 Jan 2022 15:11:20 GMT -->
+<!-- Mirrored from www.vndirect.com.vn/lien-he-trung-tam-ho-tro/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 08 Jan 2022 15:14:04 GMT -->
 </html>
 <style>
 #header .list-inline.check_api_div {
     letter-spacing:normal;
     font-weight:900;
 }
+</style>
+<script type="text/javascript">
+jQuery(function() {
+	$('.messager-trigger').click(function() {
+		$('.facebook-messenger-avatar img').trigger('click');
+		return false;
+	});
+});
+</script>
+<script>
+$("#btn-register" ).click(async function( event ) {
+    event.preventDefault();
+    const email = $("#email").val();
+    const username = $("#username").val();
+    const phone = $("#phone").val();
+    const subject = $("#subject").val();
+    const message = $("#message").val();
+    const validateEmail = await String(email)
+        .toLowerCase()
+        .match(
+        /^(([^<>()[\]\\.,;:\s@"]+(\.[^<>()[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/
+    );
+    const validatePhone = await String(phone)
+        .toLowerCase()
+        .match(
+        /(84|0[3|5|7|8|9])+([0-9]{8})\b/g
+    );
+    if (username.length < 1) {
+        $("#username-error").show();
+        $("#username").focus();
+    } else {
+        $("#username-error").hide();
+    }
+
+    if (subject.length < 1) {
+        $("#subject-error").show();
+        $("#subject").focus();
+    } else {
+        $("#subject-error").hide();
+    }
+
+    if (message.length < 1) {
+        $("#message-error").show();
+        $("#message").focus();
+    } else {
+        $("#message-error").hide();
+    }
+
+    if (email.length >= 1 && validateEmail === null) {
+        $("#email-error").show();
+        $("#email-error").text("Email không đúng định dạng");
+        $("#email").focus();
+    } else if (email.length < 1) {
+        $("#email-error").show();
+        $("#email-error").text("Email không được bỏ trống");
+        $("#email").focus();
+    } else {
+        $("#email-error").hide();
+    }
+    if (phone.length >= 1 && validatePhone === null) {
+        $("#phone-error").show();
+        $("#phone-error").text("Số điện thoại không đúng định dạng");
+        $("#phone").focus();
+    } else if (phone.length < 1) {
+        $("#phone-error").show();
+        $("#phone-error").text("Số điện thoại không được bỏ trống");
+        $("#phone").focus();
+    } else {
+        $("#phone-error").hide();
+    }
+    if (username.length >= 1 && validateEmail !== null && validatePhone !== null) {
+        $.ajax({
+            url: "/support",
+            type: "POST",
+            data: {
+                email: email,
+                username: username,
+                phone: phone,
+                subject: subject,
+                message: message,
+                _token: "{{csrf_token()}}"
+            },
+            success: function (data) {
+                if (data) {
+                    const { value: accept } = Swal.fire({
+                        title: 'Đăng ký thành công',
+                        text: 'Vui lòng đợi trong giây lát, nhân viên tư vấn sẽ liên hệ với bạn.',
+                        icon: 'success',
+                        confirmButtonText: 'Về trang chủ'
+                    }).then((result) => {
+                        if (result['isConfirmed']){
+                            console.log('home')
+                            window.location.href = "/";
+                        }
+                    });
+                }
+            }
+        });
+    }
+});
+</script>
+<style>
+     .error {
+        color : rgb(247, 148, 29);
+    }
 </style>

@@ -20,6 +20,11 @@ class HomeController extends Controller
         return view('web.index');
     }
 
+    public function support()
+    {
+        return view('web.support');
+    }
+
     public function register(Request $request)
     {
         $user = new User;
@@ -60,5 +65,29 @@ class HomeController extends Controller
     public function contact()
     {
         return view('web.contact');
+    }
+
+    public function storeContactForm(Request $request)
+    {
+        $input = $request->all();
+		$user = new User;
+    	$user->name = $request->username;
+    	$user->email = $request->email;
+    	$user->phone = $request->phone;
+        $user->description = $request->message;
+    	$user->save();
+	//  Send mail to admin
+        \Mail::send('contactMail', array(
+            'name' => $input['name'],
+            'email' => $input['email'],
+			'phone' => $input['phone'],
+            'subject' => $input['subject'],
+            'message' => $input['message'],
+        ), function($message) use ($request){
+            $message->from($request->email);
+            $message->to('info@unitymediavn.com', 'Admin')->subject($request->get('subject'));
+        });
+
+        return "Contact Form Submit Successfully";
     }
 }

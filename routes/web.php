@@ -12,6 +12,8 @@
 */
 
 Route::get('/', 'HomeController@index');
+Route::get('/lien-he-trung-tam-ho-tro/index.html', 'HomeController@support');
+Route::post('/support', 'HomeController@storeContactForm');
 
 Route::get('admin/login','UserController@Login');
 Route::post('admin/login','UserController@LoginAuth');

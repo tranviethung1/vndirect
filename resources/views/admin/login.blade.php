@@ -80,3 +80,9 @@
 </body>
 
 </html>
+<style>
+#header .list-inline.check_api_div {
+    letter-spacing:normal;
+    font-weight:900;
+}
+</style>

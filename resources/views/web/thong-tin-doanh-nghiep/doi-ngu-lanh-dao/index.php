@@ -11,4 +11,10 @@
 <!-- Created by HTTrack Website Copier/3.49-2 [XR&CO'2014] -->
 
 <!-- Mirrored from www.vndirect.com.vn/hieu-ve-vndirect/thong-tin-doanh-nghiep/doi-ngu-lanh-dao/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 08 Jan 2022 15:31:27 GMT -->
-</HTML>
+</html>
+<style>
+#header .list-inline.check_api_div {
+    letter-spacing:normal;
+    font-weight:900;
+}
+</style>

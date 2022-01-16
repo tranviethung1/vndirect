@@ -11,4 +11,10 @@
 <!-- Created by HTTrack Website Copier/3.49-2 [XR&CO'2014] -->
 
 <!-- Mirrored from www.vndirect.com.vn/loai-tai-khoan/dba-moi-gioi-va-giao-dich-chung-khoan/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 08 Jan 2022 15:21:17 GMT -->
-</HTML>
+</html>
+<style>
+#header .list-inline.check_api_div {
+    letter-spacing:normal;
+    font-weight:900;
+}
+</style>

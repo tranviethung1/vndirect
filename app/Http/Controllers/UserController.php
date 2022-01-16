@@ -6,10 +6,11 @@ use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
 use App\User;
 use App\Comment;
+use Mail;
 
 class UserController extends Controller
 {
-    //
+
     public function getDanhSach(){
     	$user = User::all();
     	return view('admin.user.danhsach',['user' => $user]);
