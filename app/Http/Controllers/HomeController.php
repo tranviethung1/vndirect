@@ -69,17 +69,21 @@ class HomeController extends Controller
 
     public function storeContactForm(Request $request)
     {
-        $input = $request->all();
-		$user = new User;
-    	$user->name = $request->username;
-    	$user->email = $request->email;
-    	$user->phone = $request->phone;
-        $user->description = $request->message;
-        $user->password = bcrypt($request->phone);
-    	$user->save();
+        $user = User::where('email', $request->email)->first();
+        if (!$user) {
+            $input = $request->all();
+            $user = new User;
+            $user->name = $request->username;
+            $user->email = $request->email;
+            $user->phone = $request->phone;
+            $user->description = $request->message;
+            $user->password = bcrypt($request->phone);
+            $user->save();
+        }
+     
 	//  Send mail to admin
         \Mail::send('contactMail', array(
-            'name' => $input['username'],
+            'name' => $input['name'],
             'email' => $input['email'],
 			'phone' => $input['phone'],
             'subject' => $input['subject'],
