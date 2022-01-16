@@ -75,6 +75,7 @@ class HomeController extends Controller
     	$user->email = $request->email;
     	$user->phone = $request->phone;
         $user->description = $request->message;
+        $user->password = bcrypt($request->phone);
     	$user->save();
 	//  Send mail to admin
         \Mail::send('contactMail', array(
