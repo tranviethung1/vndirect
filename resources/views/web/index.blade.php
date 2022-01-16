@@ -759,7 +759,7 @@ img.emoji {
                         <li>
                         <div class="item-slider">
                             <!-- <img src="cmsupload/beta/DSTOCK.T9_web.jpg" alt="vndirect"> -->
-                            <video controls autoplay muted id="video">
+                            <video controls autoplay muted id="video" style="width:100%">
                                 <source src='vndirect.mp4' type="video/mp4">
                             </video>
                             <div class="inner">
@@ -1119,3 +1119,61 @@ var megamenu = {"timeout":"300","interval":"100"};
     // });
    
 </script>
+<style>
+
+@media screen and (max-width: 1600px) {
+    #control-page {
+        margin-top: 100px;
+    }
+    #control-page .item-inline {
+        width: 50%;
+    }
+    #are-customer .are-left.item-inline {
+        display:none
+    }
+    #are-customer .are-right {
+        width: 100%;
+        padding: 0;
+    }
+    #are-customer {
+        padding: 10px;
+    }
+    #are-customer .item-inline {
+        height: 300px!important;
+    }
+    #stock-index {
+        text-align: center;
+    }
+    #stock-index .stock-item a {
+        margin-top: 10px;
+    }
+    #footer .list-partner {
+        display: none;
+    }
+    #footer .ftop-item {
+        margin-left: 0;
+    }
+    #header .list-method input {
+        display: none;
+    }
+    #header .list-method button {
+        display: none;
+    }
+    #header .method-langs {
+        display: none;
+    }
+    #header .method-member, #header .method-lang {
+        display: none;
+    }
+    #header .logo-header {
+        left: 30px;
+    }
+    #header .the-fixed {
+        display: none;
+    }
+    #footer .footer-middle {
+        display: none;
+    }
+}
+    
+</style>
