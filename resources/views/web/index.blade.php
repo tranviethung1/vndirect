@@ -1174,6 +1174,9 @@ var megamenu = {"timeout":"300","interval":"100"};
     #footer .footer-middle {
         display: none;
     }
+    #sliders .inner {
+        display: none;
+    }
 }
     
 </style>
