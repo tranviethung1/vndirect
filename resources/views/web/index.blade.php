@@ -97,7 +97,7 @@ img.emoji {
     <!-- Favicon -->
     <link rel="shortcut icon" type="image/x-icon" href="cmsupload/beta/2019/03/favicon.png"/>
 
-    <a href="/contact" target="_blank" class="backold-website">Nhận tư vấn của chuyên gia</a>
+    <a href="/contact" target="_blank" class="backold-website">Nhận tư vấn của chuyên gia.</a>
 
 <!-- Google Tag Manager -->
 <!-- End Google Tag Manager -->
