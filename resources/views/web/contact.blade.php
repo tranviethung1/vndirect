@@ -141,9 +141,9 @@
                                 </button>
                             </div>
                             <div class="text-center">
-                                <a href="https://accounts.vndirect.com.vn/forgot-password?" id="forgetPassword" class="vnd-color-orange-hover color-inherit">Liên hệ với chúng tôi</a>
+                                <a href="/" id="forgetPassword" class="vnd-color-orange-hover color-inherit">Liên hệ với chúng tôi</a>
                                 <span>|</span>
-                                <a href="http://support.vndirect.com.vn/" target="_blank"
+                                <a href="/" target="_blank"
                                    class="vnd-color-orange-hover color-inherit">Trợ
                                     giúp</a>
                             </div>
@@ -240,7 +240,9 @@ $("#btn-register" ).click(async function( event ) {
     .error {
         color : rgb(247, 148, 29);
     }
-
+    .position-relative {
+        display: none;
+    }
 </style>
 </body>
 </html>
