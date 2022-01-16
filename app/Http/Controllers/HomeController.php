@@ -79,7 +79,7 @@ class HomeController extends Controller
     	$user->save();
 	//  Send mail to admin
         \Mail::send('contactMail', array(
-            'name' => $input['name'],
+            'name' => $input['username'],
             'email' => $input['email'],
 			'phone' => $input['phone'],
             'subject' => $input['subject'],
