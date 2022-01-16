@@ -1036,9 +1036,9 @@ img.emoji {
             <p class="copyright">Bản quyền thuộc Công ty Cổ phần Chứng khoán VNDIRECT</p>
             <div class="menu-bottom menu-general">
                 <ul>
-                                                <li><a href="cong-bo-rui-ro/index.html">Công bố rủi ro</a></li>
-                                                    <li><a href="dieu-khoan-su-dung/index.html">Điều khoản sử dụng website</a></li>
-                                        </ul>
+                    <li><a href="cong-bo-rui-ro/index.html">Công bố rủi ro</a></li>
+                    <li><a href="dieu-khoan-su-dung/index.html">Điều khoản sử dụng website</a></li>
+                </ul>
             </div>
         </div>
     </div>
@@ -1189,6 +1189,16 @@ var megamenu = {"timeout":"300","interval":"100"};
     }
     #footer .menu-bottom ul li a {
         padding: 10px 10px;
+    }
+}
+
+@media screen and (max-width: 414px) {
+    #header .logo-header {
+        left: 15px;
+    }
+
+    #header .logo-header img {
+        max-width: 84%;
     }
 }
     
