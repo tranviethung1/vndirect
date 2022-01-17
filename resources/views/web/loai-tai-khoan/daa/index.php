@@ -723,7 +723,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<li id="menu-item-34490" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34490"><a href="../../kien-thuc-co-ban/chung-quyen/index.html">Chứng quyền có bảo đảm</a></li>
 	<li id="menu-item-34491" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34491"><a href="../../kien-thuc-co-ban/chung-khoan-phai-sinh/index.html">Chứng khoán phái sinh</a></li>
 	<li id="menu-item-34493" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34493"><a href="../../san-pham-ca-nhan/danh-muc-ky-quy/index.html">Danh mục ký quỹ</a></li>
-	<li id="menu-item-64518" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-64518"><a href="https://dautu.vndirect.com.vn/category/kien-thuc-dau-tu-quy-etf/?utm_campaign=ETF&amp;utm_source=D%E1%BA%ABn%20blog%20t%E1%BB%AB%20VND">Kiến thức đầu tư quỹ ETF</a></li>
+	<li id="menu-item-64518" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-64518"><a href="/contactcategory/kien-thuc-dau-tu-quy-etf/?utm_campaign=ETF&amp;utm_source=D%E1%BA%ABn%20blog%20t%E1%BB%AB%20VND">Kiến thức đầu tư quỹ ETF</a></li>
 </ul>
 </li>
 <li id="menu-item-952" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-952"><a href="#">Hội thảo đào tạo <i class="fa fa-angle-right"></i></a>
@@ -742,13 +742,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		<li id="menu-item-57698" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-57698"><a href="../../category/danh-muc-mau/index.html">Danh mục mẫu</a></li>
 	</ul>
 </li>
-	<li id="menu-item-46926" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-46926"><a href="https://dstock.vndirect.com.vn/">DSTOCK Thông tin cổ phiếu &#038; thị trường</a></li>
+	<li id="menu-item-46926" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-46926"><a href="/contact">DSTOCK Thông tin cổ phiếu &#038; thị trường</a></li>
 	<li id="menu-item-1181" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1181"><a href="../../category/thong-tin-dau-gia/index.html">Tin tức sự kiện</a></li>
 	<li id="menu-item-46923" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-46923"><a href="../../category/bao-cao-phan-tich-dn/index.html">Báo cáo phân tích</a></li>
 	<li id="menu-item-13640" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13640"><a href="https://trade.vndirect.com.vn/bieu-do-ky-thuat/">Biểu đồ kỹ thuật</a></li>
 </ul>
 </li>
-<li id="menu-item-9552" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9552"><a href="https://dautu.vndirect.com.vn/">Đầu tư tài chính</a></li>
+<li id="menu-item-9552" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9552"><a href="/contact">Đầu tư tài chính</a></li>
 <li id="menu-item-970" class="menu-headline menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-970"><a href="#">Truy cập nhanh</a>
 <ul class="sub-menu">
 	<li id="menu-item-972" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-972"><a href="../../hieu-ve-vndirect/thong-tin-doanh-nghiep/ve-chung-toi/index.html">Về chúng tôi</a></li>
@@ -870,7 +870,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <ul>
 <li style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"><span style="color: #800080;"><a style="color: #800080;" href="../../dich-vu-chung-khoan/san-pham-dich-vu/bankgate/index.html"><strong>BANKGATE</strong></a></span> &#8211; Nền tảng thanh toán trực tuyến kết nối thu chi hộ với hệ thống 9 ngân hàng lớn. Chuyển tiền trực tuyến và giao dịch mọi lúc mọi nơi</span></li>
 <li><span style="color: #800080;"><strong><a style="color: #800080;" href="https://trade.vndirect.com.vn/">Bảng giá DBOARD</a></strong></span>, Ứng dụng VNDIRECT Stock Trading, <span style="color: #800080;"><strong><a style="color: #800080;" href="../../protrade-phai-sinh/index.html">Bảng giá Phái sinh</a></strong></span>, <a href="https://protrade-trial.vndirect.com.vn/trang-chu"><span style="color: #800080;"><strong>Giao dịch Phái sinh ảo</strong></span></a>: các nền tảng giao dịch trên PC và Mobile, cho các Nhà đầu tư từ trải nghiệm đến chuyên nghiệp</li>
-<li><a href="https://dstock.vndirect.com.vn/"><span style="color: #800080;"><strong>DSTOCK</strong></span></a> &#8211; Kho tài sản dữ liệu lớn cho phép tra cứu thông tin cổ phiếu, thông tin giao dịch, các Báo cáo đánh giá, thống kê và truy xuất trực quan. Giúp Nhà đầu tư làm chủ được các thông tin thị trường, chủ động trong các quyết định đầu tư.</li>
+<li><a href="/contact"><span style="color: #800080;"><strong>DSTOCK</strong></span></a> &#8211; Kho tài sản dữ liệu lớn cho phép tra cứu thông tin cổ phiếu, thông tin giao dịch, các Báo cáo đánh giá, thống kê và truy xuất trực quan. Giúp Nhà đầu tư làm chủ được các thông tin thị trường, chủ động trong các quyết định đầu tư.</li>
 <li style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"><span style="color: #800080;"><strong><a style="color: #800080;" href="https://stockbook.vn/" target="_blank" rel="noopener noreferrer">STOCKBOOK</a></strong></span> &#8211; Nền tảng Thông tin &amp; Tri thức đầu tư <strong><a href="https://stockbook.vn/" target="_blank" rel="noopener noreferrer"> </a></strong>các cộng đồng đầu tư theo chuyên đề và các chuyên gia tư vấn đầu tư về các loại tài sản mà khách hàng quan tâm.</span></li>
 </ul>
 <ol style="text-align: justify;">

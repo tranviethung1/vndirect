@@ -732,7 +732,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<li id="menu-item-34490" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34490"><a href="../../../kien-thuc-co-ban/chung-quyen/index.html">Chứng quyền có bảo đảm</a></li>
 	<li id="menu-item-34491" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34491"><a href="../../../kien-thuc-co-ban/chung-khoan-phai-sinh/index.html">Chứng khoán phái sinh</a></li>
 	<li id="menu-item-34493" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34493"><a href="../../../san-pham-ca-nhan/danh-muc-ky-quy/index.html">Danh mục ký quỹ</a></li>
-	<li id="menu-item-64518" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-64518"><a href="https://dautu.vndirect.com.vn/category/kien-thuc-dau-tu-quy-etf/?utm_campaign=ETF&amp;utm_source=D%E1%BA%ABn%20blog%20t%E1%BB%AB%20VND">Kiến thức đầu tư quỹ ETF</a></li>
+	<li id="menu-item-64518" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-64518"><a href="/contactcategory/kien-thuc-dau-tu-quy-etf/?utm_campaign=ETF&amp;utm_source=D%E1%BA%ABn%20blog%20t%E1%BB%AB%20VND">Kiến thức đầu tư quỹ ETF</a></li>
 </ul>
 </li>
 <li id="menu-item-952" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-952"><a href="#">Hội thảo đào tạo <i class="fa fa-angle-right"></i></a>
@@ -751,13 +751,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		<li id="menu-item-57698" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-57698"><a href="../../../category/danh-muc-mau/index.html">Danh mục mẫu</a></li>
 	</ul>
 </li>
-	<li id="menu-item-46926" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-46926"><a href="https://dstock.vndirect.com.vn/">DSTOCK Thông tin cổ phiếu &#038; thị trường</a></li>
+	<li id="menu-item-46926" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-46926"><a href="/contact">DSTOCK Thông tin cổ phiếu &#038; thị trường</a></li>
 	<li id="menu-item-1181" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1181"><a href="../../../category/thong-tin-dau-gia/index.html">Tin tức sự kiện</a></li>
 	<li id="menu-item-46923" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-46923"><a href="../../../category/bao-cao-phan-tich-dn/index.html">Báo cáo phân tích</a></li>
 	<li id="menu-item-13640" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13640"><a href="https://trade.vndirect.com.vn/bieu-do-ky-thuat/">Biểu đồ kỹ thuật</a></li>
 </ul>
 </li>
-<li id="menu-item-9552" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9552"><a href="https://dautu.vndirect.com.vn/">Đầu tư tài chính</a></li>
+<li id="menu-item-9552" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9552"><a href="/contact">Đầu tư tài chính</a></li>
 <li id="menu-item-970" class="menu-headline menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-970"><a href="#">Truy cập nhanh</a>
 <ul class="sub-menu">
 	<li id="menu-item-972" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-972"><a href="../../../hieu-ve-vndirect/thong-tin-doanh-nghiep/ve-chung-toi/index.html">Về chúng tôi</a></li>
@@ -892,7 +892,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </tr>
 <tr>
 <td style="text-align: center; width: 110px;"><strong><span style="font-size: 12pt;">T10</span></strong></p>
-<p><span style="font-size: 12pt; color: #f39200;"><a style="color: #f39200;" href="https://dautu.vndirect.com.vn/t10/" target="_blank" rel="noopener noreferrer">(Xem chi tiết)</a></span></td>
+<p><span style="font-size: 12pt; color: #f39200;"><a style="color: #f39200;" href="/contactt10/" target="_blank" rel="noopener noreferrer">(Xem chi tiết)</a></span></td>
 <td style="width: 233px; text-align: justify;"><span style="font-size: 12pt;">Sản phẩm giao dịch cho dân giao dịch nhà nghề muốn tận dụng đòn bẩy để tối ưu lợi nhuận nhanh chóng với mức<span style="color: #ff9900;"><strong> lãi suất thấp nhất từ 0%</strong></span></span></td>
 <td style="width: 215px; text-align: justify;"><span style="font-size: 12pt;">&#8211; Có kinh nghiệm quản trị rủi ro trong giao dịch chứng khoán: tuân thủ kỷ luật và nguyên tắc giao dịch.</span><br />
 <span style="font-size: 12pt;">&#8211; Giao dịch chứng khoán chuyên nghiệp, ứng biến nhanh với thị trường.</span><br />
@@ -900,13 +900,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </tr>
 <tr>
 <td style="text-align: center; width: 110px;"><strong><span style="font-size: 12pt;">T15</span></strong></p>
-<p><a href="https://dautu.vndirect.com.vn/t15/" target="_blank" rel="noopener noreferrer"><span style="font-size: 12pt;">(Xem chi tiết)</span></a></td>
+<p><a href="/contactt15/" target="_blank" rel="noopener noreferrer"><span style="font-size: 12pt;">(Xem chi tiết)</span></a></td>
 <td style="width: 233px; text-align: justify;"><span style="font-size: 12pt;">Sản phẩm giao dịch ký quỹ ưu đãi lãi suất trong kỳ hạn ngắn, dành cho khách hàng ưa thích giao dịch nhanh với<span style="color: #ff9900;"> <strong>mức lãi suất hấp dẫn chỉ từ 8%</strong></span></span></td>
 <td style="width: 215px; text-align: justify;"><span style="font-size: 12pt;">Dành cho khách hàng có nhu cầu giao dịch ngắn ngày, có kinh nghiệm quản trị rủi ro trong giao dịch chứng khoán, tuân thủ kỷ luật và nguyên tắc giao dịch</span></td>
 </tr>
 <tr>
 <td style="text-align: center; width: 110px;"><strong><span style="font-size: 12pt;">D-Margin: Giao dịch ký quỹ</span></strong></p>
-<p><span style="font-size: 12pt;"><a href="https://dautu.vndirect.com.vn/d-margin-giao-dich-ky-quy/" target="_blank" rel="noopener noreferrer">(Xem chi tiết)</a></span></td>
+<p><span style="font-size: 12pt;"><a href="/contactd-margin-giao-dich-ky-quy/" target="_blank" rel="noopener noreferrer">(Xem chi tiết)</a></span></td>
 <td style="width: 233px; text-align: justify;"><span style="font-size: 12pt;">Sản phẩm hỗ trợ tài chính cho vay đầu tư chứng khoán với tài sản đảm bảo là cổ phiếu trong danh mục cho phép giao dịch ký quỹ của UBCK</span></td>
 <td style="width: 215px; text-align: justify;"><span style="font-size: 12pt;">Dành cho các nhà đầu tư có kinh nghiệm trên thị trường chứng khoán, hiểu biết về quản trị rủi ro trong đầu tư và sản phẩm Margin</span></td>
 </tr>

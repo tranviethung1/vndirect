@@ -724,7 +724,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<li id="menu-item-34490" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34490"><a href="kien-thuc-co-ban/chung-quyen/index.html">Chứng quyền có bảo đảm</a></li>
 	<li id="menu-item-34491" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34491"><a href="kien-thuc-co-ban/chung-khoan-phai-sinh/index.html">Chứng khoán phái sinh</a></li>
 	<li id="menu-item-34493" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34493"><a href="san-pham-ca-nhan/danh-muc-ky-quy/index.html">Danh mục ký quỹ</a></li>
-	<li id="menu-item-64518" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-64518"><a href="https://dautu.vndirect.com.vn/category/kien-thuc-dau-tu-quy-etf/?utm_campaign=ETF&amp;utm_source=D%E1%BA%ABn%20blog%20t%E1%BB%AB%20VND">Kiến thức đầu tư quỹ ETF</a></li>
+	<li id="menu-item-64518" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-64518"><a href="/contactcategory/kien-thuc-dau-tu-quy-etf/?utm_campaign=ETF&amp;utm_source=D%E1%BA%ABn%20blog%20t%E1%BB%AB%20VND">Kiến thức đầu tư quỹ ETF</a></li>
 </ul>
 </li>
 <li id="menu-item-952" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-952"><a href="#">Hội thảo đào tạo <i class="fa fa-angle-right"></i></a>
@@ -743,13 +743,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		<li id="menu-item-57698" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-57698"><a href="category/danh-muc-mau/index.html">Danh mục mẫu</a></li>
 	</ul>
 </li>
-	<li id="menu-item-46926" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-46926"><a href="https://dstock.vndirect.com.vn/">DSTOCK Thông tin cổ phiếu &#038; thị trường</a></li>
+	<li id="menu-item-46926" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-46926"><a href="/contact">DSTOCK Thông tin cổ phiếu &#038; thị trường</a></li>
 	<li id="menu-item-1181" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1181"><a href="category/thong-tin-dau-gia/index.html">Tin tức sự kiện</a></li>
 	<li id="menu-item-46923" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-46923"><a href="category/bao-cao-phan-tich-dn/index.html">Báo cáo phân tích</a></li>
 	<li id="menu-item-13640" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13640"><a href="https://trade.vndirect.com.vn/bieu-do-ky-thuat/">Biểu đồ kỹ thuật</a></li>
 </ul>
 </li>
-<li id="menu-item-9552" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9552"><a href="https://dautu.vndirect.com.vn/">Đầu tư tài chính</a></li>
+<li id="menu-item-9552" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9552"><a href="/contact">Đầu tư tài chính</a></li>
 <li id="menu-item-970" class="menu-headline menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-970"><a href="#">Truy cập nhanh</a>
 <ul class="sub-menu">
 	<li id="menu-item-972" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-972"><a href="hieu-ve-vndirect/thong-tin-doanh-nghiep/ve-chung-toi/index.html">Về chúng tôi</a></li>
@@ -767,7 +767,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                             <div class="inner">
                                 <div class="the-sbtn Center">
                                                                             <a class="click-slider font18 color3"
-                                           href="https://dstock.vndirect.com.vn/">
+                                           href="/contact">
                                             Xem chi tiết                                        </a>
                                                                     </div>
                             </div>
@@ -780,49 +780,49 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <ul class="list-control list-inline">
                                     <li class="item-inline">
                         <div class="infor animated fade-in animated-delay0">
-                            <a href="http://trade.vndirect.com.vn/" class="img-box">
+                            <a href="/contact" class="img-box">
                                 <img src="cmsupload/beta/2019/06/protrade-1.png" alt="" class="show"/>
                                 <img src="cmsupload/beta/2019/06/protrade-color-1.png" alt="" class="hide"/>
                             </a>
                             <h4 class="font23 font700">Bảng giá giao dịch</h4>
                             <p>Cổng giao dịch trực tuyến</p>
-                            <a href="http://trade.vndirect.com.vn/"
+                            <a href="/contact"
                                class="viewmore">Xem thêm</a>
                         </div>
                     </li>
                                     <li class="item-inline">
                         <div class="infor animated fade-in animated-delay1">
-                            <a href="https://dstock.vndirect.com.vn/" class="img-box">
+                            <a href="/contact" class="img-box">
                                 <img src="cmsupload/beta/2019/03/icon2-1.png" alt="" class="show"/>
                                 <img src="cmsupload/beta/2019/03/icon2-active.png" alt="" class="hide"/>
                             </a>
                             <h4 class="font23 font700">DSTOCK</h4>
                             <p>Trang thông tin cổ phiếu</p>
-                            <a href="https://dstock.vndirect.com.vn/"
+                            <a href="/contact"
                                class="viewmore">Xem thêm</a>
                         </div>
                     </li>
                                     <li class="item-inline">
                         <div class="infor animated fade-in animated-delay2">
-                            <a href="https://tuvandautu.vndirect.com.vn/" class="img-box">
+                            <a href="/contact" class="img-box">
                                 <img src="cmsupload/beta/icon-protection-grey-64.png" alt="" class="show"/>
                                 <img src="cmsupload/beta/icon-protection-orange-64.png" alt="" class="hide"/>
                             </a>
                             <h4 class="font23 font700">DGO ADVISORY</h4>
                             <p>La bàn đầu tư</p>
-                            <a href="https://tuvandautu.vndirect.com.vn/"
+                            <a href="/contact"
                                class="viewmore">Xem thêm</a>
                         </div>
                     </li>
                                     <li class="item-inline">
                         <div class="infor animated fade-in animated-delay3">
-                            <a href="https://dautu.vndirect.com.vn/" class="img-box">
+                            <a href="/contact" class="img-box">
                                 <img src="cmsupload/beta/2019/06/support-3.png" alt="" class="show"/>
                                 <img src="cmsupload/beta/2019/06/support-color-1.png" alt="" class="hide"/>
                             </a>
                             <h4 class="font23 font700">THÁP TÀI SẢN</h4>
                             <p>Danh mục sản phẩm đầu tư đa dạng </p>
-                            <a href="https://dautu.vndirect.com.vn/"
+                            <a href="/contact"
                                class="viewmore">Xem thêm</a>
                         </div>
                     </li>
