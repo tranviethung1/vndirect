@@ -836,13 +836,13 @@ img.emoji {
                     </li>
                                     <li class="item-inline">
                         <div class="infor animated fade-in animated-delay5">
-                            <a href="tin-vndirect/index.html" class="img-box">
+                            <a href="/contact" class="img-box">
                                 <img src="cmsupload/beta/stockbook-icon-homepage-gray.png" alt="" class="show"/>
                                 <img src="cmsupload/beta/stockbook-icon-homepage-orange.png" alt="" class="hide"/>
                             </a>
                             <h4 class="font23 font700">Trung tâm hỗ trợ</h4>
                             <p>Tin tức VNDIRECT - hỗ trợ</p>
-                            <a href="tin-vndirect/index.html"
+                            <a href="/contact"
                                class="viewmore">Xem thêm</a>
                         </div>
                     </li>
