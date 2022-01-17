@@ -583,7 +583,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		<img src="../cmsupload/beta/plant.png" alt="" />
 		<h4><a>Tháp tài sản DWEALTH</a></h4>
 		<ul>
-			<li><a href="https://dautu.vndirect.com.vn/dlife/">DLIFE - Đầu tư tích sản định kỳ</a></li>
+			<li><a href="/contact">DLIFE - Đầu tư tích sản định kỳ</a></li>
 			<li><a href="/contact">DSAVE - Đầu tư lãi suất ngắn hạn</a></li>
 			<li><a href="/contact">DINVEST - Đầu tư tài sản dài hạn</a></li>
 			<li><a href="/contact">DTRADE - Đầu tư giao dịch chứng khoán</a></li>

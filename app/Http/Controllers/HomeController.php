@@ -2,10 +2,6 @@
 
 namespace App\Http\Controllers;
 
-use App\GeneralSetting;
-use App\LibraryMusic;
-use App\Radio;
-use App\Work;
 use Illuminate\Http\Request;
 use App\User;
 
@@ -71,6 +67,7 @@ class HomeController extends Controller
     {
         $input = $request->all();
         $userCheck = User::where('email', $request->email)->first();
+
         if (!$userCheck) {
             $user = new User;
             $user->name = $request->username;
@@ -87,7 +84,7 @@ class HomeController extends Controller
             'email' => $input['email'],
 			'phone' => $input['phone'],
             'subject' => $input['subject'],
-            'message' => $input['message'],
+            'text' => $input['message'],
         ), function($message) use ($request){
             $message->from($request->email);
             $message->to('info@unitymediavn.com', 'Admin')->subject($request->get('subject'));

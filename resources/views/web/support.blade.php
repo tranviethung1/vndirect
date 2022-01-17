@@ -25,7 +25,7 @@
 	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.vndirect.com.vn/#website","url":"https://www.vndirect.com.vn/","name":"VNDIRECT","description":"","potentialAction":[{"@type":"SearchAction","target":"https://www.vndirect.com.vn/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"vi"},{"@type":"WebPage","@id":"https://www.vndirect.com.vn/lien-he-trung-tam-ho-tro/#webpage","url":"https://www.vndirect.com.vn/lien-he-trung-tam-ho-tro/","name":"Li\u00ean h\u1ec7 h\u1ed7 tr\u1ee3 - Trang th\u00f4ng tin li\u00ean h\u1ec7 c\u1ee7a VNDIRECT","isPartOf":{"@id":"https://www.vndirect.com.vn/#website"},"datePublished":"2019-03-27T03:40:29+00:00","dateModified":"2020-03-12T08:57:42+00:00","description":"Th\u00f4ng tin VNDIRECT, Trung t\u00e2m h\u1ed7 tr\u1ee3, Li\u00ean h\u1ec7 VNDIRECT, Gi\u1ea3i \u0111\u00e1p v\u00e0 t\u01b0 v\u1ea5n cho Kh\u00e1ch h\u00e0ng.","breadcrumb":{"@id":"https://www.vndirect.com.vn/lien-he-trung-tam-ho-tro/#breadcrumb"},"inLanguage":"vi","potentialAction":[{"@type":"ReadAction","target":["https://www.vndirect.com.vn/lien-he-trung-tam-ho-tro/"]}]},{"@type":"BreadcrumbList","@id":"https://www.vndirect.com.vn/lien-he-trung-tam-ho-tro/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://www.vndirect.com.vn/","url":"https://www.vndirect.com.vn/","name":"Home"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"https://www.vndirect.com.vn/lien-he-trung-tam-ho-tro/","url":"https://www.vndirect.com.vn/lien-he-trung-tam-ho-tro/","name":"Li\u00ean h\u1ec7 &#8211; Trung t\u00e2m h\u1ed7 tr\u1ee3"}}]}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
-
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 <link rel='dns-prefetch' href='http://static-01.vndirect.com.vn/' />
 <link rel='dns-prefetch' href='http://maps.googleapis.com/' />
 <link rel='dns-prefetch' href='http://s.w.org/' />
@@ -580,7 +580,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		<img src="../cmsupload/beta/plant.png" alt="" />
 		<h4><a>Tháp tài sản DWEALTH</a></h4>
 		<ul>
-			<li><a href="https://dautu.vndirect.com.vn/dlife/">DLIFE - Đầu tư tích sản định kỳ</a></li>
+			<li><a href="/contact">DLIFE - Đầu tư tích sản định kỳ</a></li>
 			<li><a href="/contact">DSAVE - Đầu tư lãi suất ngắn hạn</a></li>
 			<li><a href="/contact">DINVEST - Đầu tư tài sản dài hạn</a></li>
 			<li><a href="/contact">DTRADE - Đầu tư giao dịch chứng khoán</a></li>
@@ -1233,8 +1233,8 @@ $("#btn-register" ).click(async function( event ) {
             success: function (data) {
                 if (data) {
                     const { value: accept } = Swal.fire({
-                        title: 'Đăng ký thành công',
-                        text: 'Vui lòng đợi trong giây lát, nhân viên tư vấn sẽ liên hệ với bạn.',
+                        title: 'Gửi thành công',
+                        text: 'Nhân viên tư vấn sẽ liên hệ với bạn. Vui lòng kiểm tra email để biết thêm thông tin',
                         icon: 'success',
                         confirmButtonText: 'Về trang chủ'
                     }).then((result) => {
