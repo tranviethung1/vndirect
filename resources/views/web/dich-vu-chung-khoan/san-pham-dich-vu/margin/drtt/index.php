@@ -1068,7 +1068,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </ul>
 <p>Hướng dẫn sử dụng D-RTT xem <a href="https://support.vndirect.com.vn/hc/vi/articles/360023098833-Rút-tiền-bằng-sức-mua" target="_blank" rel="noopener noreferrer"><strong>TẠI ĐÂY</strong></a></p>
 <h2><span style="color: #f39200;"><strong>HỖ TRỢ &amp; LIÊN HỆ</strong></span></h2>
-<p>Khách hàng có nhu cầu vui lòng liên hệ hotline <strong>1900545409 </strong>hoặc chuyên viên Quản lý Tài khoản để được tư vấn.</p>
+<p>Khách hàng có nhu cầu vui lòng liên hệ hotline <strong>0914 483 376 </strong>hoặc chuyên viên Quản lý Tài khoản để được tư vấn.</p>
 					</section>
 				</div>
 			</div>

@@ -906,7 +906,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <ul>
 <li style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Chủ động mở tài khoản online, trải nghiệm eKYC trong vòng 5 phút có tài khoản <span style="color: #800080;"><strong><a style="color: #800080;" href="https://accounts.vndirect.com.vn/">TẠI ĐÂY</a></strong></span></span></li>
 <li>Đăng ký các loại Sản phẩm dịch vụ <strong><a href="/contact">TẠI ĐÂY</a></strong></li>
-<li style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Liên hệ Tổng đài <span style="color: #800080;"><strong>1900545409</strong></span> hoặc chat trực tuyến với VNDIRECT tại <span style="color: #800080;"><strong>website</strong></span> hoặc các nền tảng mạng xã hội: <span style="color: #800080;"><a style="color: #800080;" href="http://zalo.me/2889079326578392211"><strong>Zalo</strong></a></span>, <span style="color: #800080;"><a style="color: #800080;" href="http://m.me/vndirect"><strong>Facebook</strong></a></span></span></li>
+<li style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Liên hệ Tổng đài <span style="color: #800080;"><strong>0914 483 376</strong></span> hoặc chat trực tuyến với VNDIRECT tại <span style="color: #800080;"><strong>website</strong></span> hoặc các nền tảng mạng xã hội: <span style="color: #800080;"><a style="color: #800080;" href="http://zalo.me/2889079326578392211"><strong>Zalo</strong></a></span>, <span style="color: #800080;"><a style="color: #800080;" href="https://www.facebook.com/vndirectchungkhoan"><strong>Facebook</strong></a></span></span></li>
 </ul>
 					</section>
 				</div>

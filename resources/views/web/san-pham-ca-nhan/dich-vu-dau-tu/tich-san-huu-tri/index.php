@@ -902,7 +902,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <ul style="list-style-type: square;">
 <li style="list-style-type: none;">
 <ul style="list-style-type: square;">
-<li>Hotline <strong>1900545409</strong></li>
+<li>Hotline <strong>0914 483 376</strong></li>
 <li>Chat trực tuyến với VNDIRECT qua website hoặc fanpage <strong><a href="https://www.facebook.com/vndirect/">VNDIRECT Securities Corporation</a></strong></li>
 </ul>
 </li>

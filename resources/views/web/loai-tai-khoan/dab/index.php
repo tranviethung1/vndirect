@@ -879,7 +879,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </ul>
 <h2><span style="color: #ff9900; font-family: arial, helvetica, sans-serif; font-size: 18pt;">CÁCH ĐĂNG KÝ GÓI DỊCH VỤ NỀN TẢNG DAB </span></h2>
 <ul>
-<li><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Liên hệ Tổng đài <span style="color: #800080;"><strong>1900545409</strong></span> hoặc chat trực tuyến với VNDIRECT tại <span style="color: #800080;"><strong>website</strong></span> hoặc các nền tảng mạng xã hội: <span style="color: #800080;"><a style="color: #800080;" href="http://zalo.me/2889079326578392211"><strong>Zalo</strong></a></span>, <span style="color: #800080;"><a style="color: #800080;" href="http://m.me/vndirect"><strong>Facebook</strong></a></span></span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Liên hệ Tổng đài <span style="color: #800080;"><strong>0914 483 376</strong></span> hoặc chat trực tuyến với VNDIRECT tại <span style="color: #800080;"><strong>website</strong></span> hoặc các nền tảng mạng xã hội: <span style="color: #800080;"><a style="color: #800080;" href="http://zalo.me/2889079326578392211"><strong>Zalo</strong></a></span>, <span style="color: #800080;"><a style="color: #800080;" href="https://www.facebook.com/vndirectchungkhoan"><strong>Facebook</strong></a></span></span></li>
 </ul>
 <p>&nbsp;</p>
 					</section>

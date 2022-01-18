@@ -918,7 +918,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <li><strong>Gói tài khoản cho doanh nghiệp.</strong></li>
 </ul>
 <h2><span style="color: #f39200;"><strong>TƯ VẤN HỖ TRỢ</strong></span></h2>
-<p>Để được tư vấn và hỗ trợ sử dụng, Khách hàng vui lòng liên hệ Tổng đài 1900545409 hoặc email: <a href="mailto:support@stockbook.vn" target="_blank" rel="noopener noreferrer">support@stockbook.vn</a></p>
+<p>Để được tư vấn và hỗ trợ sử dụng, Khách hàng vui lòng liên hệ Tổng đài 0914 483 376 hoặc email: <a href="mailto:support@stockbook.vn" target="_blank" rel="noopener noreferrer">support@stockbook.vn</a></p>
 					</section>
 				</div>
 			</div>

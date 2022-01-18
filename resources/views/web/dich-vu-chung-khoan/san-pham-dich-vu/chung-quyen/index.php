@@ -915,10 +915,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </ul>
 <p style="text-align: justify;"><strong><img loading="lazy" class="wp-image-26782 alignnone" src="../../../cmsupload/beta/finger-of-a-hand-pointing-to-right-direction.png" alt="" width="24" height="24" data-pagespeed-url-hash="453685145" /> Cách 2: Offline</strong></p>
 <ul style="text-align: justify;">
-<li>Nhà đầu tư có thể gọi điện thoại đặt lệnh thông qua nhân viên quản lý tài khoản hoặc qua tổng đài: <em><strong>1900545409</strong></em></li>
+<li>Nhà đầu tư có thể gọi điện thoại đặt lệnh thông qua nhân viên quản lý tài khoản hoặc qua tổng đài: <em><strong>0914 483 376</strong></em></li>
 </ul>
 <h2 style="text-align: justify;"><span style="color: #ff9900;"><strong>HỖ TRỢ TƯ VẤN</strong></span></h2>
-<p style="text-align: justify;">Quý khách có nhu cầu hỗ trợ tư vấn gói dịch vụ phù hợp, vui lòng liên hệ qua Tổng đài <strong>1900545409</strong> (bấm phím lẻ số 1 và 4) hoặc email <a href="mailto:vndirectchungkhoan@gmail.com" target="_blank" rel="noopener noreferrer"><strong>vndirectchungkhoan@gmail.com</strong></a><br />Chuyên trang hỗ trợ khách hàng: <strong><a href="http://support.vndirect.com.vn/">support.vndirect.com.vn</a></strong></p>
+<p style="text-align: justify;">Quý khách có nhu cầu hỗ trợ tư vấn gói dịch vụ phù hợp, vui lòng liên hệ qua Tổng đài <strong>0914 483 376</strong> (bấm phím lẻ số 1 và 4) hoặc email <a href="mailto:vndirectchungkhoan@gmail.com" target="_blank" rel="noopener noreferrer"><strong>vndirectchungkhoan@gmail.com</strong></a><br />Chuyên trang hỗ trợ khách hàng: <strong><a href="http://support.vndirect.com.vn/">support.vndirect.com.vn</a></strong></p>
 					</section>
 				</div>
 			</div>

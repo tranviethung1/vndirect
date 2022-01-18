@@ -839,7 +839,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 								<div class="img-box"><img src="../cmsupload/beta/messenger-1.png" alt="vndirect" /></div>
 								<h4 class="font18 font600">Facbook Messenger</h4>
 								<p class="font13">Trò truyện nhanh với VNDIRECT thông qua</p>
-								<a href="http://m.me/vndirect" class="messager-trigger"></a>
+								<a href="https://www.facebook.com/vndirectchungkhoan" class="messager-trigger"></a>
 							</div>
 						</div>
 												<div class="box-item col-md-4">
