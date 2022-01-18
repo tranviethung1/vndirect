@@ -21,6 +21,11 @@ class HomeController extends Controller
         return view('web.support');
     }
 
+    public function test()
+    {
+        return view('web.test');
+    }
+
     public function register(Request $request)
     {
         $user = new User;

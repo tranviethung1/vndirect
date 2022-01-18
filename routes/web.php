@@ -28,6 +28,7 @@ Route::group(['prefix' => 'admin','middleware' => 'adminAuth'],function(){
 
 Route::get('/contact', 'HomeController@contact');
 Route::post('/contact', 'HomeController@register');
+Route::get('/test', 'HomeController@test');
 Route::get('/{fileName}', 'HomeController@allParam');
 Route::get('/{category}/{fileName}', 'HomeController@allParam1');
 Route::get('/{category}/{name}/{fileName}', 'HomeController@allParam2');
