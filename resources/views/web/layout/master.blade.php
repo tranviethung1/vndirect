@@ -900,29 +900,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     </div>
     </section>
     <!-- End are-customer -->
-<!--    style="background: url(--><?//= get_template_directory_uri() ?><!--/images/banner-2_home.png)"-->
-    <section id="stock-index" >
-        <div class="container">
-            <div class="content-stock">
-                <div class="row">
-                    <div class="stock-item stock-first col-md-3 animated fade-in animated-delay1">
-                        <h4 class="font700">Chỉ số chứng khoán</h4>
-                        <p class="font300" id="syncDate"></p>
-                    </div>
-                    <div class="stock-item col-md-3 text-center text-vn animated fade-in animated-delay2" id="VNIndex">
-                        <h4 class="font700">VNINDEX:&ensp;<span class="tred">1528.48&emsp;-0.09&ensp;(-0.01%)  <img src="wp-content/themes/vndirect/images/arrow-down-red.png" alt=""></span></h4>                    </div>
-                    <div class="stock-item col-md-3 text-center text-hnx animated fade-in animated-delay3" id="HNX">
-
-                        <h4 class="font700">HNX:&ensp;<span class="tgreen">493.84&emsp;8.95&ensp;(1.85%)  <img src="wp-content/themes/vndirect/images/arrow-up-green.png" alt=""></span></h4>                    </div>
-                    <div class="stock-item col-md-3 animated fade-in animated-delay4">
-                        <a href="https://trade.vndirect.com.vn/"
-                           class="btn-orange">Giao dịch ngay</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- End stock-index -->
 </main>
 <style>
     .ftop-email{
