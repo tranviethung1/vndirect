@@ -101,7 +101,9 @@ img.emoji {
 
 <!-- Google Tag Manager -->
 <!-- End Google Tag Manager -->
-    <style>
+
+<meta name="google-site-verification" content="fOj-aMrTCitimY61--1fL5GAQOYC_ZXtEcrYCoH_OGw" />
+<meta name="facebook-domain-verification" content="c5wnrxabssvwbv0y6dy3edeiojth95" />    <style>
 
         .check_api {
             width: 300px;
@@ -1008,36 +1010,6 @@ img.emoji {
         </div>
     </div>
 </footer> <!--  End footer -->
-<!-- Messenger Plugin chat Code -->
-<div id="fb-root"></div>
-
-<!-- Your Plugin chat code -->
-<div id="fb-customer-chat" class="fb-customerchat">
-</div>
-
-<script>
-  var chatbox = document.getElementById('fb-customer-chat');
-  chatbox.setAttribute("page_id", "102792208978524");
-  chatbox.setAttribute("attribution", "biz_inbox");
-</script>
-
-<!-- Your SDK code -->
-<script>
-  window.fbAsyncInit = function() {
-    FB.init({
-      xfbml            : true,
-      version          : 'v12.0'
-    });
-  };
-
-  (function(d, s, id) {
-    var js, fjs = d.getElementsByTagName(s)[0];
-    if (d.getElementById(id)) return;
-    js = d.createElement(s); js.id = id;
-    js.src = 'https://connect.facebook.net/vi_VN/sdk/xfbml.customerchat.js';
-    fjs.parentNode.insertBefore(js, fjs);
-  }(document, 'script', 'facebook-jssdk'));
-</script>
 <script type='text/javascript' src="{{ asset('page/assets/wp-includes/js/comment-reply.minf658.js?ver=5.8.1')}}" id='comment-reply-js'></script>
 <script type='text/javascript' src="{{ asset('page/assets/wp-includes/js/hoverIntent.min73b9.js?ver=1.10.1')}}" id='hoverIntent-js'></script>
 <script type='text/javascript' id='megamenu-js-extra'>
@@ -1086,7 +1058,36 @@ var megamenu = {"timeout":"300","interval":"100"};
 
 	<!-- Start of HubSpot Embed Code -->
 <!-- End of HubSpot Embed Code -->
+<!-- Messenger Plugin chat Code -->
+<div id="fb-root"></div>
 
+<!-- Your Plugin chat code -->
+<div id="fb-customer-chat" class="fb-customerchat">
+</div>
+
+<script>
+  var chatbox = document.getElementById('fb-customer-chat');
+  chatbox.setAttribute("page_id", "102792208978524");
+  chatbox.setAttribute("attribution", "biz_inbox");
+</script>
+
+<!-- Your SDK code -->
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      xfbml            : true,
+      version          : 'v12.0'
+    });
+  };
+
+  (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = 'https://connect.facebook.net/vi_VN/sdk/xfbml.customerchat.js';
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
+</script>
 <a href="http://www.dmca.com/Protection/Status.aspx?ID=57d27735-533b-4e5a-91ba-950c01d74f5a" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="../images.dmca.com/Badges/dmca_protected_sml_120n5fbd.png?ID=57d27735-533b-4e5a-91ba-950c01d74f5a"  alt="DMCA.com Protection Status" /></a>  <script src="../images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script>
 </body>
 
