@@ -101,9 +101,7 @@ img.emoji {
 
 <!-- Google Tag Manager -->
 <!-- End Google Tag Manager -->
-
-<meta name="google-site-verification" content="fOj-aMrTCitimY61--1fL5GAQOYC_ZXtEcrYCoH_OGw" />
-<meta name="facebook-domain-verification" content="c5wnrxabssvwbv0y6dy3edeiojth95" />    <style>
+    <style>
 
         .check_api {
             width: 300px;
@@ -425,11 +423,9 @@ img.emoji {
             color: #fff;
         }
     </style>
-    <script type='text/javascript' src="https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js"></script>
 </head>
 <body class="home page-template page-template-template page-template-home page-template-templatehome-php page page-id-65773 mega-menu-menu-main" itemscope="itemscope" itemtype="http://schema.org/WebPage">
 <div class="the-header">
-
     <header id="header" itemscope="itemscope" itemtype="http://schema.org/WPHeader" >
         <div class="header-top">
             <a href="#" class="bar-menu transform-top toggle-menu"><img
@@ -1011,12 +1007,37 @@ img.emoji {
             </div>
         </div>
     </div>
-     <!-- Messenger Plugin chat Code -->
-     <div id="fb-root"></div>
-
-    <!-- Your Plugin chat code -->
-    <div id="fb-customer-chat" class="fb-customerchat"></div>
 </footer> <!--  End footer -->
+<!-- Messenger Plugin chat Code -->
+<div id="fb-root"></div>
+
+<!-- Your Plugin chat code -->
+<div id="fb-customer-chat" class="fb-customerchat">
+</div>
+
+<script>
+  var chatbox = document.getElementById('fb-customer-chat');
+  chatbox.setAttribute("page_id", "102792208978524");
+  chatbox.setAttribute("attribution", "biz_inbox");
+</script>
+
+<!-- Your SDK code -->
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      xfbml            : true,
+      version          : 'v12.0'
+    });
+  };
+
+  (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = 'https://connect.facebook.net/vi_VN/sdk/xfbml.customerchat.js';
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
+</script>
 <script type='text/javascript' src="{{ asset('page/assets/wp-includes/js/comment-reply.minf658.js?ver=5.8.1')}}" id='comment-reply-js'></script>
 <script type='text/javascript' src="{{ asset('page/assets/wp-includes/js/hoverIntent.min73b9.js?ver=1.10.1')}}" id='hoverIntent-js'></script>
 <script type='text/javascript' id='megamenu-js-extra'>
@@ -1092,6 +1113,11 @@ var megamenu = {"timeout":"300","interval":"100"};
         var hei = $('.are-left').innerHeight();
         $('.are-right ul li').css('height', hei);
     });
+    // $( document ).ready(function() {
+    //     const video = document.getElementById('video');
+    //     video.muted = true;
+    //     video.play();
+    // });
    
 </script>
 <style>
@@ -1184,27 +1210,3 @@ var megamenu = {"timeout":"300","interval":"100"};
 }
     
 </style>
-
-<script>
-  var chatbox = document.getElementById('fb-customer-chat');
-  chatbox.setAttribute("page_id", "102792208978524");
-  chatbox.setAttribute("attribution", "biz_inbox");
-</script>
-
-<!-- Your SDK code -->
-<script>
-  window.fbAsyncInit = function() {
-    FB.init({
-      xfbml            : true,
-      version          : 'v12.0'
-    });
-  };
-
-  (function(d, s, id) {
-    var js, fjs = d.getElementsByTagName(s)[0];
-    if (d.getElementById(id)) return;
-    js = d.createElement(s); js.id = id;
-    js.src = 'https://connect.facebook.net/vi_VN/sdk/xfbml.customerchat.js';
-    fjs.parentNode.insertBefore(js, fjs);
-  }(document, 'script', 'facebook-jssdk'));
-</script>
