@@ -429,6 +429,7 @@ img.emoji {
 </head>
 <body class="home page-template page-template-template page-template-home page-template-templatehome-php page page-id-65773 mega-menu-menu-main" itemscope="itemscope" itemtype="http://schema.org/WebPage">
 <div class="the-header">
+
     <header id="header" itemscope="itemscope" itemtype="http://schema.org/WPHeader" >
         <div class="header-top">
             <a href="#" class="bar-menu transform-top toggle-menu"><img
@@ -1010,6 +1011,11 @@ img.emoji {
             </div>
         </div>
     </div>
+     <!-- Messenger Plugin chat Code -->
+     <div id="fb-root"></div>
+
+    <!-- Your Plugin chat code -->
+    <div id="fb-customer-chat" class="fb-customerchat"></div>
 </footer> <!--  End footer -->
 <script type='text/javascript' src="{{ asset('page/assets/wp-includes/js/comment-reply.minf658.js?ver=5.8.1')}}" id='comment-reply-js'></script>
 <script type='text/javascript' src="{{ asset('page/assets/wp-includes/js/hoverIntent.min73b9.js?ver=1.10.1')}}" id='hoverIntent-js'></script>
@@ -1086,11 +1092,6 @@ var megamenu = {"timeout":"300","interval":"100"};
         var hei = $('.are-left').innerHeight();
         $('.are-right ul li').css('height', hei);
     });
-    // $( document ).ready(function() {
-    //     const video = document.getElementById('video');
-    //     video.muted = true;
-    //     video.play();
-    // });
    
 </script>
 <style>
@@ -1183,12 +1184,6 @@ var megamenu = {"timeout":"300","interval":"100"};
 }
     
 </style>
-<!-- Messenger Plugin chat Code -->
-<div id="fb-root"></div>
-
-<!-- Your Plugin chat code -->
-<div id="fb-customer-chat" class="fb-customerchat">
-</div>
 
 <script>
   var chatbox = document.getElementById('fb-customer-chat');
