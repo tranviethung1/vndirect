@@ -12,4 +12,4 @@
 
 <!-- Mirrored from www.vndirect.com.vn/san-pham-ca-nhan/dich-vu-dau-tu/san-pham-margin/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 08 Jan 2022 15:16:23 GMT -->
 </html>
-<script type='text/javascript' src="{{ asset('/static-01.vndirect.com.vn/cms02/wp-content/themes/vndirect/js/facebook.js')}}"></script>
+<script type='text/javascript' src="/static-01.vndirect.com.vn/cms02/wp-content/themes/vndirect/js/facebook.js"></script>

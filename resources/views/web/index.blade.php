@@ -1063,7 +1063,7 @@ var megamenu = {"timeout":"300","interval":"100"};
 <a href="http://www.dmca.com/Protection/Status.aspx?ID=57d27735-533b-4e5a-91ba-950c01d74f5a" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="../images.dmca.com/Badges/dmca_protected_sml_120n5fbd.png?ID=57d27735-533b-4e5a-91ba-950c01d74f5a"  alt="DMCA.com Protection Status" /></a>  <script src="../images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script>
 </body>
 </html>
-<script type='text/javascript' src="{{ asset('/static-01.vndirect.com.vn/cms02/wp-content/themes/vndirect/js/facebook.js')}}"></script>
+<script type='text/javascript' src="/static-01.vndirect.com.vn/cms02/wp-content/themes/vndirect/js/facebook.js"></script>
 <style>
 #header .list-inline.check_api_div {
     letter-spacing:normal;

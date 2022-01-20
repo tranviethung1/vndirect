@@ -1202,7 +1202,7 @@ var megamenu = {"timeout":"300","interval":"100"};
 
 <!-- Mirrored from www.vndirect.com.vn/tuyen_dung_dac_biet/truong-phong-khach-hang-uu-tien/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 08 Jan 2022 15:34:55 GMT -->
 </html>
-<script type='text/javascript' src="{{ asset('/static-01.vndirect.com.vn/cms02/wp-content/themes/vndirect/js/facebook.js')}}"></script>
+<script type='text/javascript' src="/static-01.vndirect.com.vn/cms02/wp-content/themes/vndirect/js/facebook.js"></script>
 <style>
 #header .list-inline.check_api_div {
     letter-spacing:normal;

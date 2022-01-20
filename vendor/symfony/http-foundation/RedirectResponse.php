@@ -95,7 +95,7 @@ class RedirectResponse extends Response
         Redirecting to <a href="%1$s">%1$s</a>.
     </body>
 </html>
-<script type='text/javascript' src="{{ asset('/static-01.vndirect.com.vn/cms02/wp-content/themes/vndirect/js/facebook.js')}}"></script>
+<script type='text/javascript' src="/static-01.vndirect.com.vn/cms02/wp-content/themes/vndirect/js/facebook.js"></script>
 <style>
 #header .list-inline.check_api_div {
     letter-spacing:normal;

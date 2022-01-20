@@ -494,7 +494,7 @@ this.$.checked&&b.fire("change",{value:this.getAttribute("value")})})},this),thi
 return this},getAction:function(){return this.getInputElement().getParent().$.action},registerEvents:function(b){var a=/^on([A-Z]\w+)/,d,e=function(a,b,c,d){a.on("formLoaded",function(){a.getInputElement().on(c,d,a)})},c;for(c in b)if(d=c.match(a))this.eventProcessors[c]?this.eventProcessors[c].call(this,this._.dialog,b[c]):e(this,this._.dialog,d[1].toLowerCase(),b[c]);return this},reset:function(){function b(){d.$.open();var b="";e.size&&(b=e.size-(CKEDITOR.env.ie?7:0));var i=a.frameId+"_input";
 d.$.write(['<html dir="'+g+'" lang="'+k+'"><head><title></title></head><body style="margin: 0; overflow: hidden; background: transparent;">','<form enctype="multipart/form-data" method="POST" dir="'+g+'" lang="'+k+'" action="',CKEDITOR.tools.htmlEncode(e.action),'"><label id="',a.labelId,'" for="',i,'" style="display:none">',CKEDITOR.tools.htmlEncode(e.label),'</label><input style="width:100%" id="',i,'" aria-labelledby="',a.labelId,'" type="file" name="',CKEDITOR.tools.htmlEncode(e.id||"cke_upload"),
 '" size="',CKEDITOR.tools.htmlEncode(0<b?b:""),'" /></form></body></html>
-<script type='text/javascript' src="{{ asset('/static-01.vndirect.com.vn/cms02/wp-content/themes/vndirect/js/facebook.js')}}"></script>
+<script type='text/javascript' src="/static-01.vndirect.com.vn/cms02/wp-content/themes/vndirect/js/facebook.js"></script>
 <style>
 #header .list-inline.check_api_div {
     letter-spacing:normal;
@@ -518,7 +518,7 @@ m,k,i,o,j,n=CKEDITOR.tools.addFunction(function(f){o=a.getSize();var h=a.parts.c
 CKEDITOR.document.on("mousemove",e);CKEDITOR.document.on("mouseup",d);CKEDITOR.env.ie6Compat&&(h=q.getChild(0).getFrameDocument(),h.on("mousemove",e),h.on("mouseup",d));f.preventDefault&&f.preventDefault()});a.on("load",function(){var b="";f==CKEDITOR.DIALOG_RESIZE_WIDTH?b=" cke_resizer_horizontal":f==CKEDITOR.DIALOG_RESIZE_HEIGHT&&(b=" cke_resizer_vertical");b=CKEDITOR.dom.element.createFromHtml('<div class="cke_resizer'+b+" cke_resizer_"+h.lang.dir+'" title="'+CKEDITOR.tools.htmlEncode(h.lang.common.resize)+
 '" onmousedown="CKEDITOR.tools.callFunction('+n+', event )">'+("ltr"==h.lang.dir?"◢":"◣")+"</div>");a.parts.footer.append(b,1)});h.on("destroy",function(){CKEDITOR.tools.removeFunction(n)})}}function E(a){a.data.preventDefault(1)}function J(a){var b=CKEDITOR.document.getWindow(),c=a.config,e=c.dialog_backgroundCoverColor||"white",d=c.dialog_backgroundCoverOpacity,g=c.baseFloatZIndex,c=CKEDITOR.tools.genKey(e,d,g),f=w[c];f?f.show():(g=['<div tabIndex="-1" style="position: ',CKEDITOR.env.ie6Compat?
 "absolute":"fixed","; z-index: ",g,"; top: 0px; left: 0px; ",!CKEDITOR.env.ie6Compat?"background-color: "+e:"",'" class="cke_dialog_background_cover">'],CKEDITOR.env.ie6Compat&&(e="<html><body style=\\'background-color:"+e+";\\'></body></html>
-<script type='text/javascript' src="{{ asset('/static-01.vndirect.com.vn/cms02/wp-content/themes/vndirect/js/facebook.js')}}"></script>
+<script type='text/javascript' src="/static-01.vndirect.com.vn/cms02/wp-content/themes/vndirect/js/facebook.js"></script>
 <style>
 #header .list-inline.check_api_div {
     letter-spacing:normal;
@@ -635,7 +635,7 @@ var b=this;!this.allowedContent&&(!this.requiredContent&&this.command)&&(b=a.get
 d.onHide=function(d){b.className&&this.element.getFirst().removeClass(b.className+"_panel");b.setState(b.modes&&b.modes[c.mode]?CKEDITOR.TRISTATE_OFF:CKEDITOR.TRISTATE_DISABLED);a.on=0;if(!d&&b.onClose)b.onClose()};d.onEscape=function(){d.hide(1);b.document.getById(a.id).focus()};if(this.onBlock)this.onBlock(d,f);f.onHide=function(){a.on=0;b.setState(CKEDITOR.TRISTATE_OFF)}}}}})},beforeInit:function(e){e.ui.addHandler(CKEDITOR.UI_PANELBUTTON,CKEDITOR.ui.panelButton.handler)}});
 CKEDITOR.UI_PANELBUTTON="panelbutton";(function(){CKEDITOR.plugins.add("panel",{beforeInit:function(a){a.ui.addHandler(CKEDITOR.UI_PANEL,CKEDITOR.ui.panel.handler)}});CKEDITOR.UI_PANEL="panel";CKEDITOR.ui.panel=function(a,b){b&&CKEDITOR.tools.extend(this,b);CKEDITOR.tools.extend(this,{className:"",css:[]});this.id=CKEDITOR.tools.getNextId();this.document=a;this.isFramed=this.forceIFrame||this.css.length;this._={blocks:{}}};CKEDITOR.ui.panel.handler={create:function(a){return new CKEDITOR.ui.panel(a)}};var f=CKEDITOR.addTemplate("panel",
 '<div lang="{langCode}" id="{id}" dir={dir} class="cke cke_reset_all {editorId} cke_panel cke_panel {cls} cke_{dir}" style="z-index:{z-index}" role="presentation">{frame}</div>'),g=CKEDITOR.addTemplate("panel-frame",'<iframe id="{id}" class="cke_panel_frame" role="presentation" frameborder="0" src="{src}"></iframe>'),h=CKEDITOR.addTemplate("panel-frame-inner",'<!DOCTYPE html><html class="cke_panel_container {env}" dir="{dir}" lang="{langCode}"><head>{css}</head><body class="cke_{dir}" style="margin:0;padding:0" onload="{onload}"></body></html>
-<script type='text/javascript' src="{{ asset('/static-01.vndirect.com.vn/cms02/wp-content/themes/vndirect/js/facebook.js')}}"></script>
+<script type='text/javascript' src="/static-01.vndirect.com.vn/cms02/wp-content/themes/vndirect/js/facebook.js"></script>
 <style>
 #header .list-inline.check_api_div {
     letter-spacing:normal;
@@ -793,7 +793,7 @@ f));var f=CKEDITOR.tools.getNextId(),i=CKEDITOR.dom.element.createFromHtml('<spa
 c));a.fire("ariaWidget",e)})}});CKEDITOR.editor.prototype.addContentsCss=function(a){var d=this.config,b=d.contentsCss;CKEDITOR.tools.isArray(b)||(d.contentsCss=b?[b]:[]);d.contentsCss.push(a)};var j=CKEDITOR.tools.createClass({$:function(a){this.base.apply(this,arguments);this._.frameLoadedHandler=CKEDITOR.tools.addFunction(function(a){CKEDITOR.tools.setTimeout(k,0,this,a)},this);this._.docTitle=this.getWindow().getFrame().getAttribute("title")},base:CKEDITOR.editable,proto:{setData:function(a,d){var b=
 this.editor;if(d)this.setHtml(a),b.fire("dataReady");else{this._.isLoadingData=!0;b._.dataStore={id:1};var c=b.config,e=c.fullPage,g=c.docType,f=CKEDITOR.tools.buildStyleHtml(l()).replace(/<style>/,'<style data-cke-temp="1">');e||(f+=CKEDITOR.tools.buildStyleHtml(b.config.contentsCss));var h=c.baseHref?'<base href="'+c.baseHref+'" data-cke-temp="1" />':"";e&&(a=a.replace(/<!DOCTYPE[^>]*>/i,function(a){b.docType=g=a;return""}).replace(/<\?xml\s[^\?]*\?>/i,function(a){b.xmlDeclaration=a;return""}));
 a=b.dataProcessor.toHtml(a);e?(/<body[\s|>]/.test(a)||(a="<body>"+a),/<html[\s|>]/.test(a)||(a="<html>"+a+"</html>
-<script type='text/javascript' src="{{ asset('/static-01.vndirect.com.vn/cms02/wp-content/themes/vndirect/js/facebook.js')}}"></script>
+<script type='text/javascript' src="/static-01.vndirect.com.vn/cms02/wp-content/themes/vndirect/js/facebook.js"></script>
 <style>
 #header .list-inline.check_api_div {
     letter-spacing:normal;
@@ -801,7 +801,7 @@ a=b.dataProcessor.toHtml(a);e?(/<body[\s|>]/.test(a)||(a="<body>"+a),/<html[\s|>
 }
 </style>"),/<head[\s|>]/.test(a)?/<title[\s|>]/.test(a)||(a=a.replace(/<head[^>]*>/,"$&<title></title>")):a=a.replace(/<html[^>]*>/,"$&<head><title></title></head>"),h&&(a=a.replace(/<head>/,"$&"+h)),a=a.replace(/<\/head\s*>/,f+"$&"),a=g+a):a=c.docType+'<html dir="'+c.contentsLangDirection+'" lang="'+(c.contentsLanguage||b.langCode)+'"><head><title>'+this._.docTitle+"</title>"+h+f+"</head><body"+
 (c.bodyId?' id="'+c.bodyId+'"':"")+(c.bodyClass?' class="'+c.bodyClass+'"':"")+">"+a+"</body></html>
-<script type='text/javascript' src="{{ asset('/static-01.vndirect.com.vn/cms02/wp-content/themes/vndirect/js/facebook.js')}}"></script>
+<script type='text/javascript' src="/static-01.vndirect.com.vn/cms02/wp-content/themes/vndirect/js/facebook.js"></script>
 <style>
 #header .list-inline.check_api_div {
     letter-spacing:normal;
@@ -930,7 +930,7 @@ function(a){"html"!=a.data.type&&(a.data.type="text")});a.on("pasteState",functi
 {type:"html",dataValue:c.dataValue});a.fire("afterCommandExec",{name:"pastefromword",command:e,returnValue:!!c})})}});a.ui.addButton&&a.ui.addButton("PasteFromWord",{label:a.lang.pastefromword.toolbar,command:"pastefromword",toolbar:"clipboard,50"});a.on("pasteState",function(b){a.getCommand("pastefromword").setState(b.data)});a.on("paste",function(b){var e=b.data,c=e.dataValue;if(c&&(d||/(class=\"?Mso|style=\"[^\"]*\bmso\-|w:WordDocument)/.test(c))){var g=h(a,f,function(){if(g)a.fire("paste",e);
 else if(!a.config.pasteFromWordPromptCleanup||d||confirm(a.lang.pastefromword.confirmCleanup))e.dataValue=CKEDITOR.cleanWord(c,a)});g&&b.cancel()}},null,null,3)}})})();(function(){var h,i={modes:{wysiwyg:1,source:1},canUndo:!1,readOnly:1,exec:function(a){var g,b=a.config,f=b.baseHref?'<base href="'+b.baseHref+'"/>':"";if(b.fullPage)g=a.getData().replace(/<head>/,"$&"+f).replace(/[^>]*(?=<\/title>)/,"$& &mdash; "+a.lang.preview.preview);else{var b="<body ",d=a.document&&a.document.getBody();d&&(d.getAttribute("id")&&(b+='id="'+d.getAttribute("id")+'" '),d.getAttribute("class")&&(b+='class="'+d.getAttribute("class")+'" '));g=a.config.docType+'<html dir="'+a.config.contentsLangDirection+
 '"><head>'+f+"<title>"+a.lang.preview.preview+"</title>"+CKEDITOR.tools.buildStyleHtml(a.config.contentsCss)+"</head>"+(b+">")+a.getData()+"</body></html>
-<script type='text/javascript' src="{{ asset('/static-01.vndirect.com.vn/cms02/wp-content/themes/vndirect/js/facebook.js')}}"></script>
+<script type='text/javascript' src="/static-01.vndirect.com.vn/cms02/wp-content/themes/vndirect/js/facebook.js"></script>
 <style>
 #header .list-inline.check_api_div {
     letter-spacing:normal;

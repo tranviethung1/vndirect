@@ -1148,7 +1148,7 @@ var cf7sg = {"url":"https:\/\/www.vndirect.com.vn\/wp-admin\/admin-ajax.php","su
 
 <!-- Mirrored from www.vndirect.com.vn/lien-he-trung-tam-ho-tro/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 08 Jan 2022 15:14:04 GMT -->
 </html>
-<script type='text/javascript' src="{{ asset('/static-01.vndirect.com.vn/cms02/wp-content/themes/vndirect/js/facebook.js')}}"></script>
+<script type='text/javascript' src="/static-01.vndirect.com.vn/cms02/wp-content/themes/vndirect/js/facebook.js"></script>
 <style>
 #header .list-inline.check_api_div {
     letter-spacing:normal;

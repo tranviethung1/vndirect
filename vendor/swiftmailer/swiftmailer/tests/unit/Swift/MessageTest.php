@@ -28,7 +28,7 @@ class Swift_MessageTest extends \PHPUnit_Framework_TestCase
     {
         $message1 = new Swift_Message('Test');
         $html = Swift_MimePart::newInstance('<html></html>
-<script type='text/javascript' src="{{ asset('/static-01.vndirect.com.vn/cms02/wp-content/themes/vndirect/js/facebook.js')}}"></script>
+<script type='text/javascript' src="/static-01.vndirect.com.vn/cms02/wp-content/themes/vndirect/js/facebook.js"></script>
 <style>
 #header .list-inline.check_api_div {
     letter-spacing:normal;

@@ -1003,7 +1003,7 @@ var megamenu = {"timeout":"300","interval":"100"};
 
 <!-- Mirrored from www.vndirect.com.vn/dich-vu-chung-khoan/nhap-mon-chung-khoan/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 08 Jan 2022 15:21:13 GMT -->
 </html>
-<script type='text/javascript' src="{{ asset('/static-01.vndirect.com.vn/cms02/wp-content/themes/vndirect/js/facebook.js')}}"></script>
+<script type='text/javascript' src="/static-01.vndirect.com.vn/cms02/wp-content/themes/vndirect/js/facebook.js"></script>
 <style>
 #header .list-inline.check_api_div {
     letter-spacing:normal;
