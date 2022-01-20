@@ -101,9 +101,7 @@ img.emoji {
 
 <!-- Google Tag Manager -->
 <!-- End Google Tag Manager -->
-
-<meta name="google-site-verification" content="fOj-aMrTCitimY61--1fL5GAQOYC_ZXtEcrYCoH_OGw" />
-<meta name="facebook-domain-verification" content="c5wnrxabssvwbv0y6dy3edeiojth95" />    <style>
+<style>
 
         .check_api {
             width: 300px;

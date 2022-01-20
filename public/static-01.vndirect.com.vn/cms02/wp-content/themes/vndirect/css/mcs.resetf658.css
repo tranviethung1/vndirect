@@ -213,18 +213,6 @@ img.alignleft {
 .wp-caption.aligncenter {
 	margin:15px auto;
 }
-/* Reset chat facebook */
-.fb_iframe_widget {
-	display:block !important;
-}
-.fb_iframe_widget span {
-	display: block !important;
-	width:100% !important;
-}
-.fb_iframe_widget iframe {
-    position: static !important;
-    width: 100% !important;
-}
 .wpcf7-not-valid-tip {
 	display:none !Important;
 }
