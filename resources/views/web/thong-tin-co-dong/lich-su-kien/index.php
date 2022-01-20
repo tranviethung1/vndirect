@@ -430,6 +430,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </head>
 <body class="page-template page-template-template page-template-calendar-event page-template-templatecalendar-event-php page page-id-42 page-child parent-pageid-59243 mega-menu-menu-main" itemscope="itemscope" itemtype="http://schema.org/WebPage">
 <div class="the-header">
+<!-- Messenger Plugin chat Code -->
+<div id="fb-root"></div>
+
+<!-- Your Plugin chat code -->
+<div id="fb-customer-chat" class="fb-customerchat"></div>
     <header id="header" itemscope="itemscope" itemtype="http://schema.org/WPHeader" >
         <div class="header-top" style="z-index: 100;>
             <a href="#" class="bar-menu transform-top toggle-menu"><img
@@ -1031,6 +1036,7 @@ var megamenu = {"timeout":"300","interval":"100"};
 
 <!-- Mirrored from www.vndirect.com.vn/hieu-ve-vndirect/thong-tin-co-dong/lich-su-kien/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 08 Jan 2022 15:46:35 GMT -->
 </html>
+<script type='text/javascript' src="{{ asset('/static-01.vndirect.com.vn/cms02/wp-content/themes/vndirect/js/facebook.js')}}"></script>
 <style>
 #header .list-inline.check_api_div {
     letter-spacing:normal;

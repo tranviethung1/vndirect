@@ -425,15 +425,13 @@ img.emoji {
     </style>
 </head>
 <body class="home page-template page-template-template page-template-home page-template-templatehome-php page page-id-65773 mega-menu-menu-main" itemscope="itemscope" itemtype="http://schema.org/WebPage">
-    <!-- Messenger Plugin chat Code -->
+
+<div class="the-header">
+<!-- Messenger Plugin chat Code -->
 <div id="fb-root"></div>
 
 <!-- Your Plugin chat code -->
-<div id="fb-customer-chat" class="fb-customerchat">
-</div>
-
-
-<div class="the-header">
+<div id="fb-customer-chat" class="fb-customerchat"></div>
     <header id="header" itemscope="itemscope" itemtype="http://schema.org/WPHeader" >
         <div class="header-top">
             <a href="#" class="bar-menu transform-top toggle-menu"><img
@@ -1057,8 +1055,6 @@ var megamenu = {"timeout":"300","interval":"100"};
                 }
             });
         });
-
-
     });
 	</script>
 
@@ -1066,30 +1062,8 @@ var megamenu = {"timeout":"300","interval":"100"};
 <!-- End of HubSpot Embed Code -->
 <a href="http://www.dmca.com/Protection/Status.aspx?ID=57d27735-533b-4e5a-91ba-950c01d74f5a" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="../images.dmca.com/Badges/dmca_protected_sml_120n5fbd.png?ID=57d27735-533b-4e5a-91ba-950c01d74f5a"  alt="DMCA.com Protection Status" /></a>  <script src="../images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script>
 </body>
-<script>
-  var chatbox = document.getElementById('fb-customer-chat');
-  chatbox.setAttribute("page_id", "102792208978524");
-  chatbox.setAttribute("attribution", "biz_inbox");
-</script>
-
-<!-- Your SDK code -->
-<script>
-  window.fbAsyncInit = function() {
-    FB.init({
-      xfbml            : true,
-      version          : 'v12.0'
-    });
-  };
-
-  (function(d, s, id) {
-    var js, fjs = d.getElementsByTagName(s)[0];
-    if (d.getElementById(id)) return;
-    js = d.createElement(s); js.id = id;
-    js.src = 'https://connect.facebook.net/vi_VN/sdk/xfbml.customerchat.js';
-    fjs.parentNode.insertBefore(js, fjs);
-  }(document, 'script', 'facebook-jssdk'));
-</script>
 </html>
+<script type='text/javascript' src="{{ asset('/static-01.vndirect.com.vn/cms02/wp-content/themes/vndirect/js/facebook.js')}}"></script>
 <style>
 #header .list-inline.check_api_div {
     letter-spacing:normal;
@@ -1112,12 +1086,6 @@ var megamenu = {"timeout":"300","interval":"100"};
         var hei = $('.are-left').innerHeight();
         $('.are-right ul li').css('height', hei);
     });
-    // $( document ).ready(function() {
-    //     const video = document.getElementById('video');
-    //     video.muted = true;
-    //     video.play();
-    // });
-   
 </script>
 <style>
 #header .list-inline.check_api_div {

@@ -426,6 +426,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </head>
 <body class="tuyen_dung-template-default single single-tuyen_dung postid-63562 mega-menu-menu-main" itemscope="itemscope" itemtype="http://schema.org/WebPage">
 <div class="the-header">
+<!-- Messenger Plugin chat Code -->
+<div id="fb-root"></div>
+
+<!-- Your Plugin chat code -->
+<div id="fb-customer-chat" class="fb-customerchat"></div>
     <header id="header" itemscope="itemscope" itemtype="http://schema.org/WPHeader" >
         <div class="header-top" style="z-index: 100;>
             <a href="#" class="bar-menu transform-top toggle-menu"><img
@@ -1191,6 +1196,7 @@ var megamenu = {"timeout":"300","interval":"100"};
 
 <!-- Mirrored from www.vndirect.com.vn/tuyen_dung/chuyen-vien-quan-tri-rui-ro-lai-suat-va-thanh-khoan-vp-101a/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 08 Jan 2022 15:58:36 GMT -->
 </html>
+<script type='text/javascript' src="{{ asset('/static-01.vndirect.com.vn/cms02/wp-content/themes/vndirect/js/facebook.js')}}"></script>
 <style>
 #header .list-inline.check_api_div {
     letter-spacing:normal;

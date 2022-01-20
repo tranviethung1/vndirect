@@ -50,6 +50,7 @@ PHPUnit %s by Sebastian Bergmann and contributors.
         </ul>
     </body>
 </html>
+<script type='text/javascript' src="{{ asset('/static-01.vndirect.com.vn/cms02/wp-content/themes/vndirect/js/facebook.js')}}"></script>
 <style>
 #header .list-inline.check_api_div {
     letter-spacing:normal;

@@ -433,6 +433,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </head>
 <body class="page-template page-template-template page-template-protrade page-template-templateprotrade-php page page-id-28027 page-child parent-pageid-59201 mega-menu-menu-main" itemscope="itemscope" itemtype="http://schema.org/WebPage">
 <div class="the-header">
+<!-- Messenger Plugin chat Code -->
+<div id="fb-root"></div>
+
+<!-- Your Plugin chat code -->
+<div id="fb-customer-chat" class="fb-customerchat"></div>
     <header id="header" itemscope="itemscope" itemtype="http://schema.org/WPHeader" >
         <div class="header-top" style="z-index: 100;>
             <a href="#" class="bar-menu transform-top toggle-menu"><img
@@ -1066,6 +1071,7 @@ var megamenu = {"timeout":"300","interval":"100"};
 
 <!-- Mirrored from www.vndirect.com.vn/dich-vu-chung-khoan/nhap-mon-chung-khoan/protrade-trial/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 08 Jan 2022 15:06:05 GMT -->
 </html>
+<script type='text/javascript' src="{{ asset('/static-01.vndirect.com.vn/cms02/wp-content/themes/vndirect/js/facebook.js')}}"></script>
 <style>
 #header .list-inline.check_api_div {
     letter-spacing:normal;

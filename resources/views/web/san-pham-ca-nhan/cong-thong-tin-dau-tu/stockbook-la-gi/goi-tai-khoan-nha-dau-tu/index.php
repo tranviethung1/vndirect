@@ -11,4 +11,5 @@
 <!-- Created by HTTrack Website Copier/3.49-2 [XR&CO'2014] -->
 
 <!-- Mirrored from www.vndirect.com.vn/san-pham-ca-nhan/cong-thong-tin-dau-tu/stockbook-la-gi/goi-tai-khoan-nha-dau-tu/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 08 Jan 2022 15:21:46 GMT -->
-</HTML>
+</html>
+<script type='text/javascript' src="{{ asset('/static-01.vndirect.com.vn/cms02/wp-content/themes/vndirect/js/facebook.js')}}"></script>
