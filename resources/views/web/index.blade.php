@@ -97,7 +97,38 @@ img.emoji {
     <!-- Favicon -->
     <link rel="shortcut icon" type="image/x-icon" href="cmsupload/beta/2019/03/favicon.png"/>
 
-    <a href="/contact" target="_blank" class="backold-website">Nhận tư vấn của chuyên gia.</a>
+    <div href="/contact" target="_blank" class="backold-website">
+        <ul>
+            <li class="tu-van pum-trigger" style="cursor: pointer;">
+                <a id="tuvan">
+                    <img src="/images/icon-register.png">
+                    <br>
+                    <span>Tư vấn</span>
+                </a>
+            </li>
+            <li>
+                <a id="goidien" href="tel:0914483376">
+                <img src="/images/icon-phone.png">
+                <br>
+                <span>Gọi điện</span>
+                </a>
+            </li>
+            <li>
+                <a id="chatzalo" href="http://zalo.me/0914483376">
+                <img src="/images/icon-zalo.png">
+                <br>
+                <span>Chat zalo</span>
+                </a>
+            </li>
+            <li>
+                <a id="nhantin" href="sms:0914483376">
+                <img src="/images/icon-sms.png">
+                <br>
+                <span>Nhắn tin</span>
+                </a>
+            </li>
+        </ul>
+    </div>
 
 <!-- Google Tag Manager -->
 <!-- End Google Tag Manager -->

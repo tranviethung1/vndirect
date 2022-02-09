@@ -3827,12 +3827,14 @@ iframe.video-run {
 }
 .backold-website {
 	position:fixed;
-	bottom:10px;
-	left:10px;
+	bottom:0;
+	left:0;
+	width: 100%;
 	padding:5px 15px;
-	border-radius:5px;
-	background:#f7941e;
+	background:white;
 	color:#000 !important;
+	box-shadow: 2px 1px 9px #0000008a;
+    border-top: 1px solid #eaeaea;
 }
 @media (min-width:1200px) {
 	.section-box.list-inline {
@@ -4077,4 +4079,25 @@ blockquote {
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: center;
+}
+.backold-website {
+	display: none;
+}
+@media screen and (max-width: 600px) {
+	.backold-website {
+		display: block;
+	}
+	.backold-website ul li {
+        width: 25%;
+        margin-bottom: 0;
+        float: left;
+        list-style: none;
+        text-align: center;
+        font-size: 13.5px;
+    }
+	.backold-website ul li img {
+		width: 35px;
+		margin-top: 3px;
+		margin-bottom: 0px;
+	}
 }
