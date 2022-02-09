@@ -100,7 +100,7 @@ img.emoji {
     <div href="/contact" target="_blank" class="backold-website">
         <ul>
             <li class="tu-van pum-trigger" style="cursor: pointer;">
-                <a id="tuvan">
+                <a id="tuvan" href="/contact">
                     <img src="/images/icon-register.png">
                     <br>
                     <span>Tư vấn</span>
