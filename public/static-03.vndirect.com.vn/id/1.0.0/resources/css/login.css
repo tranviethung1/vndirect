@@ -132,7 +132,7 @@
     border-radius: 8px;
     background-image: linear-gradient(to top, #f7941d, #ffb701);
     color: #fff;
-    width: 165px;
+    width: 238px;
     font-weight: 300;
     font-size: inherit;
 }
@@ -144,7 +144,7 @@
     margin-bottom: 10px;
     border-radius: 8px;
     color: #f7941d;
-    width: 165px;
+    width: 238px;
     font-weight: 300;
     font-size: inherit;
     background-color: transparent;
@@ -229,7 +229,7 @@
     }
 
     .login-form-main .login-btn-wrap button[type="button"] {
-        padding: 5px 0;
+        padding: 5px 20px;
         margin-top: 15px;
     }
 }

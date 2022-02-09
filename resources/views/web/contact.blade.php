@@ -96,7 +96,7 @@
                                 </span>
                                 <input id="username" type="text" autocomplete="off" autofocus name="username"
                                        autocapitalize="none"
-                                       class="form-control" placeholder="Tên đăng nhập">
+                                       class="form-control" placeholder="Họ và tên">
                             </div>
                             <span id="username-error" class="error" style="display:none">Tên không được bỏ trống</span>
                         </div>
@@ -136,8 +136,8 @@
                         <div class="login-btn-wrap">
                             <div align="center">
                                 <button type="button" class="btn btn-register-account" id="btn-register" value="https://accounts.vndirect.com.vn/">
-                                    <i class="fa fa-unlock"></i>
-                                    MỞ TÀI KHOẢN
+                                    <i class="fa fa-user"></i>
+                                    ĐĂNG KÝ NHẬN TƯ VẤN
                                 </button>
                             </div>
                             <div class="text-center">
