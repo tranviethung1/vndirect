@@ -1,5 +1,5 @@
 var chatbox = document.getElementById('fb-customer-chat');
-chatbox.setAttribute("page_id", "102792208978524");
+chatbox.setAttribute("page_id", "105254278724699");
 chatbox.setAttribute("attribution", "biz_inbox");
 window.fbAsyncInit = function() {
 FB.init({
